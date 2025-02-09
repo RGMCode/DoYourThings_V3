@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "选择主题";
+"theme" = "主题";
+"light" = "浅色";
+"dark" = "深色";
+"chooseIconColor" = "选择图标颜色:";
+"themeChoice" = "主题选择";
+"veryHighDescription" = "非常高 = 红色\n紧急和关键任务需要立即注意。";
+"highDescription" = "高 = 橙色\n需要及时完成的重要任务，但不如“非常高”那么紧急。";
+"mediumDescription" = "中等 = 黄色\n中等重要的任务应在合理的时间范围内完成。";
+"lowDescription" = "低 = 绿色\n应在有时间时完成的不太重要的任务。";
+"veryLowDescription" = "非常低 = 蓝色\n可以在闲暇时完成的重要性低的任务。";
+"categoryName" = "分类名称";
+"categoryColor" = "分类颜色";
+"addCategory" = "添加分类";
+"editCategory" = "编辑分类";
+"name" = "名称";
+"color" = "颜色";
+"save" = "保存";
+"delete" = "删除";
+"deleteCategory" = "删除分类";
+"deleteCategoryConfirmation" = "您确定要删除分类 %@ 吗？";
+"manageCategories" = "管理分类";
+"searchPlaceholder" = "搜索...";
+"date" = "日期";
+"time" = "时间";
+"category" = "分类";
+"priority" = "优先级";
+"reminder" = "提醒";
+"deadline" = "截止日期";
+"title" = "标题";
+"edit" = "编辑";
+"exampleTitle" = "示例标题";
+"exampleDetailText" = "示例详细信息";
+"medium" = "中等";
+"privateCategory" = "私人";
+"detail" = "详细信息";
+"addTask" = "添加任务";
+"newTask" = "新任务";
+"chooseDate" = "选择日期";
+"continue" = "继续";
+"done" = "完成";
+"cancel" = "取消";
+"settings" = "设置";
+"deleteTaskTitle" = "删除任务";
+"deleteTaskMessage" = "您确定要删除此任务吗？";
+"deleteButton" = "删除";
+"veryHigh" = "非常高";
+"high" = "高";
+"low" = "低";
+"veryLow" = "非常低";
+"workCategory" = "工作";
+"selectedCategoryPrivate" = "私人";
+"filterByDateAndPriority" = "按日期和优先级";
+"filter" = "筛选";
+"choose_filter_option" = "选择筛选选项";
+"by_date_and_priority" = "按日期和优先级";
+"by_priority_and_date" = "按优先级和日期";
+"by_reminder" = "按提醒";
+"by_deadline" = "按截止日期";
+"overdue_tasks" = "逾期任务";
+"task_management" = "任务管理";
+"create_edit_delete_tasks" = "轻松创建、编辑和删除任务。每个任务都可以有标题、详细描述、优先级和分类，确保您将所有必要信息集中在一个地方。";
+"categories" = "分类";
+"organize_tasks" = "将您的任务组织到自定义分类中，如“私人”和“工作”。这使您能够清晰地结构化您的任务并快速访问最重要的任务。";
+"prioritization" = "优先排序";
+"assign_priorities" = "为您的任务分配优先级，确保您专注于最重要和最紧迫的任务。颜色编码的优先级帮助您一目了然地看到每个任务的紧迫性：";
+"very_high_priority" = "非常高 (红色): 紧急和关键任务需要立即注意。";
+"high_priority" = "高 (橙色): 需要及时完成的重要任务。";
+"medium_priority" = "中等 (黄色): 中等重要的任务应在合理的时间范围内完成。";
+"low_priority" = "低 (绿色): 应在有时间时完成的不太重要的任务。";
+"very_low_priority" = "非常低 (蓝色): 可以在闲暇时完成的重要性低的任务。";
+"color_customization" = "颜色自定义";
+"personalize_app" = "通过调整分类颜色个性化应用程序。这使得应用程序在视觉上更具吸引力并且更具个性化。";
+"theme_selection" = "主题选择";
+"toggle_light_dark" = "在浅色和深色模式之间切换，以适应您的偏好，确保在不同光线条件下提供愉快的使用体验。";
+"search_function" = "搜索功能";
+"find_tasks" = "使用强大的搜索功能快速轻松地找到任何任务。只需输入标题或部分描述，即可显示所需的任务。";
+"detailed_views" = "详细视图";
+"view_task_details" = "在单独的视图中查看每个任务的详细信息，以确保您手头拥有所有必要的信息。";
+"notifications" = "通知";
+"timely_notifications" = "及时接收通知，避免错过重要任务。您可以为每个任务设置提醒和截止日期，以确保您始终记住即将到来的任务。这些通知旨在帮助您高效地管理任务，确保不会忽视任何事情。";
+"filters" = "筛选";
+"overview_filters" = "使用强大的筛选选项保持对任务的跟踪。按不同标准对任务进行排序，以便快速找到最相关的任务：";
+"overdue_tasks" = "逾期任务";
+
+"language" = "语言";
+"selectLanguage" = "选择语言";
+
+"manageCategories" = "管理类别";
+"chooseTheme" = "选择主题";
+"settings" = "设置";
+"language" = "语言";
+"chooseLanguage" = "选择语言";
+
+"errorRequestingAuthorization" = "请求授权时出错";
+"notificationAuthorizationGranted" = "通知授权已获准";
+"notificationAuthorizationDenied" = "通知授权被拒绝";
+"notificationAuthorizationNotDetermined" = "通知授权未确定";
+"notificationAuthorizationProvisional" = "临时通知授权已获准";
+"notificationAuthorizationEphemeral" = "临时通知授权已获准";
+"notificationAuthorizationUnknown" = "未知的通知授权状态";
+"reminderTitle" = "提醒：%@";
+"deadlineTitle" = "截止日期：%@";
+"notificationBody" = "优先级：%@ - 类别：%@\n详情：%@";
+"errorSchedulingNotification" = "计划通知时出错";
+"notificationScheduled" = "通知已计划于%@的%@";
+
+"language" = "语言";
+"selectLanguage" = "选择语言";
+
+/* InfoView */
+"manual_title" = "用户手册";
+"manual_intro_title" = "介绍";
+"manual_intro_text" = "欢迎使用 DoYourThings! \n该应用旨在帮助您高效管理日常任务。您可以创建、分类和优先安排任务，并设置通知提醒您即将到来的截止日期和活动。所有数据——任务、类别和设置——均存储在您的设备本地，不会传输到云端.";
+"manual_categories_title" = "类别";
+"manual_categories_text" = "启动时会显示默认类别，如“私人”和“工作”。您可以使用这些类别，或者创建自己的类别来组织您的任务。每个类别都可以分配一个独特的颜色，使您能够一目了然地区分任务。您也可以编辑（更改名称和颜色）或删除不再需要的类别。";
+"manual_tasks_title" = "任务";
+"manual_tasks_text" = "使用 DoYourThings，您可以轻松创建、编辑和删除任务。创建任务时，您需要提供标题、详细描述以及优先级，以帮助您评估任务的重要性。此外，您还可以分别设置提醒和截止时间。请确保您设置的时间为未来，否则不会触发通知。";
+"manual_notifications_title" = "通知";
+"manual_notifications_text" = "应用会根据您输入的时间自动安排提醒和截止通知。您必须填写相应的日期和时间字段以接收通知。如果输入无效或过去的时间，则不会触发通知。点击通知将直接打开相应任务的详细视图，使您能够迅速响应。";
+"manual_settings_title" = "设置";
+"manual_settings_text" = "在设置中，您可以自定义应用的外观。您可以选择浅色模式或深色模式，并根据您的喜好设置图标颜色。此外，您可以通过创建、编辑或删除类别来管理您的任务，以使应用适应您的个人需求。";
+"manual_local_storage_title" = "本地存储";
+"manual_local_storage_text" = "所有任务、类别和设置均存储在您设备的本地，确保即使在重新启动应用后，您的数据仍然可用。这让您对自己的信息拥有完全的控制权.";
+"manual_version_title" = "版本";
+"manual_navigation_title" = "信息";
+"back" = "返回";
+"info" = "信息";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Pilih Tema";
+"theme" = "Tema";
+"light" = "Terang";
+"dark" = "Gelap";
+"chooseIconColor" = "Pilih Warna Ikon:";
+"themeChoice" = "Pilihan Tema";
+"veryHighDescription" = "Sangat Tinggi = Merah\nTugas mendesak dan kritis yang membutuhkan perhatian segera.";
+"highDescription" = "Tinggi = Oranye\nTugas penting yang perlu segera dilakukan, tetapi tidak terlalu mendesak seperti 'Sangat Tinggi'.";
+"mediumDescription" = "Sedang = Kuning\nTugas dengan kepentingan sedang yang harus diselesaikan dalam jangka waktu yang wajar.";
+"lowDescription" = "Rendah = Hijau\nTugas yang kurang penting yang harus diselesaikan ketika ada waktu tersedia.";
+"veryLowDescription" = "Sangat Rendah = Biru\nTugas dengan kepentingan rendah yang bisa diselesaikan di waktu senggang.";
+"categoryName" = "Nama Kategori";
+"categoryColor" = "Warna Kategori";
+"addCategory" = "Tambah Kategori";
+"editCategory" = "Edit Kategori";
+"name" = "Nama";
+"color" = "Warna";
+"save" = "Simpan";
+"delete" = "Hapus";
+"deleteCategory" = "Hapus Kategori";
+"deleteCategoryConfirmation" = "Apakah Anda yakin ingin menghapus kategori ?";
+"manageCategories" = "Kelola Kategori";
+"searchPlaceholder" = "Cari...";
+"date" = "Tanggal";
+"time" = "Waktu";
+"category" = "Kategori";
+"priority" = "Prioritas";
+"reminder" = "Pengingat";
+"deadline" = "Batas Waktu";
+"title" = "Judul";
+"edit" = "Edit";
+"exampleTitle" = "Judul Contoh";
+"exampleDetailText" = "Teks Detail Contoh";
+"medium" = "Sedang";
+"privateCategory" = "Pribadi";
+"detail" = "Detail";
+"addTask" = "Tambah Tugas";
+"newTask" = "Tugas Baru";
+"chooseDate" = "Pilih Tanggal";
+"continue" = "Lanjutkan";
+"done" = "Selesai";
+"cancel" = "Batal";
+"settings" = "Pengaturan";
+"deleteTaskTitle" = "Hapus Tugas";
+"deleteTaskMessage" = "Apakah Anda yakin ingin menghapus tugas ini?";
+"deleteButton" = "Hapus";
+"veryHigh" = "Sangat Tinggi";
+"high" = "Tinggi";
+"low" = "Rendah";
+"veryLow" = "Sangat Rendah";
+"workCategory" = "Pekerjaan";
+"selectedCategoryPrivate" = "Pribadi";
+"filterByDateAndPriority" = "Berdasarkan Tanggal dan Prioritas";
+"filter" = "Filter";
+"choose_filter_option" = "Pilih opsi filter";
+"by_date_and_priority" = "Berdasarkan Tanggal dan Prioritas";
+"by_priority_and_date" = "Berdasarkan Prioritas dan Tanggal";
+"by_reminder" = "Berdasarkan Pengingat";
+"by_deadline" = "Berdasarkan Batas Waktu";
+"overdue_tasks" = "Tugas yang Terlewat";
+"task_management" = "Manajemen Tugas";
+"create_edit_delete_tasks" = "Buat, edit, dan hapus tugas dengan mudah. Setiap tugas dapat memiliki judul, deskripsi rinci, tingkat prioritas, dan kategori untuk memastikan Anda memiliki semua informasi yang diperlukan di satu tempat.";
+"categories" = "Kategori";
+"organize_tasks" = "Atur tugas Anda ke dalam kategori khusus seperti 'Pribadi' dan 'Pekerjaan'. Ini memungkinkan Anda untuk menyusun tugas dengan jelas dan mengakses tugas yang paling penting dengan cepat.";
+"prioritization" = "Prioritisasi";
+"assign_priorities" = "Tetapkan prioritas untuk tugas Anda untuk memastikan Anda fokus pada tugas yang paling penting dan mendesak. Prioritas yang dikodekan dengan warna membantu Anda melihat urgensi setiap tugas sekilas:";
+"very_high_priority" = "Sangat Tinggi (Merah): Tugas mendesak dan kritis yang membutuhkan perhatian segera.";
+"high_priority" = "Tinggi (Oranye): Tugas penting yang harus diselesaikan dengan segera.";
+"medium_priority" = "Sedang (Kuning): Tugas dengan kepentingan sedang yang harus diselesaikan dalam jangka waktu moderat.";
+"low_priority" = "Rendah (Hijau): Tugas yang kurang penting yang harus diselesaikan ketika ada waktu tersedia.";
+"very_low_priority" = "Sangat Rendah (Biru): Tugas dengan kepentingan rendah yang bisa diselesaikan di waktu senggang.";
+"color_customization" = "Kustomisasi Warna";
+"personalize_app" = "Personalisasikan aplikasi dengan menyesuaikan warna kategori Anda. Ini memungkinkan pengalaman pengguna yang menarik secara visual dan disesuaikan secara individual.";
+"theme_selection" = "Pemilihan Tema";
+"toggle_light_dark" = "Beralih antara mode Terang dan Gelap untuk menyesuaikannya dengan preferensi Anda dan memastikan pengalaman pengguna yang menyenangkan dalam berbagai kondisi pencahayaan.";
+"search_function" = "Fungsi Pencarian";
+"find_tasks" = "Temukan tugas dengan cepat dan mudah menggunakan fungsi pencarian yang kuat. Cukup masukkan judul atau bagian dari deskripsi untuk menampilkan tugas yang diinginkan.";
+"detailed_views" = "Tampilan Terperinci";
+"view_task_details" = "Lihat detail setiap tugas dalam tampilan terpisah untuk memastikan Anda memiliki semua informasi yang diperlukan.";
+"notifications" = "Notifikasi";
+"timely_notifications" = "Terima notifikasi tepat waktu agar tidak melewatkan tugas penting. Anda dapat mengatur pengingat dan batas waktu untuk setiap tugas untuk memastikan Anda selalu diingatkan tentang tugas yang akan datang. Notifikasi dirancang untuk membantu Anda mengelola tugas Anda dengan efisien dan memastikan tidak ada yang terlewat.";
+"filters" = "Filter";
+"overview_filters" = "Pantau tugas Anda dengan opsi filter yang kuat. Urutkan tugas Anda berdasarkan kriteria yang berbeda untuk dengan cepat menemukan yang paling relevan:";
+"overdue_tasks" = "Tugas yang Terlewat";
+
+"language" = "Bahasa";
+"selectLanguage" = "Pilih Bahasa";
+
+"manageCategories" = "Kelola Kategori";
+"chooseTheme" = "Pilih Tema";
+"settings" = "Pengaturan";
+"language" = "Bahasa";
+"chooseLanguage" = "Pilih Bahasa";
+
+"errorRequestingAuthorization" = "Kesalahan saat meminta otorisasi";
+"notificationAuthorizationGranted" = "Otorisasi notifikasi diberikan";
+"notificationAuthorizationDenied" = "Otorisasi notifikasi ditolak";
+"notificationAuthorizationNotDetermined" = "Otorisasi notifikasi belum ditentukan";
+"notificationAuthorizationProvisional" = "Otorisasi notifikasi sementara";
+"notificationAuthorizationEphemeral" = "Otorisasi notifikasi sementara";
+"notificationAuthorizationUnknown" = "Status otorisasi notifikasi tidak diketahui";
+"reminderTitle" = "Pengingat: %@";
+"deadlineTitle" = "Batas Waktu: %@";
+"notificationBody" = "Prioritas: %@ - Kategori: %@\nDetail: %@";
+"errorSchedulingNotification" = "Kesalahan saat menjadwalkan notifikasi";
+"notificationScheduled" = "Notifikasi dijadwalkan untuk %@ pada %@";
+
+"language" = "Bahasa";
+"selectLanguage" = "Pilih Bahasa";
+
+/* InfoView */
+"manual_title" = "Panduan Pengguna";
+"manual_intro_title" = "Pengenalan";
+"manual_intro_text" = "Welcome to DoYourThings! \nAplikasi ini dirancang untuk membantu Anda mengelola tugas harian dengan efisien. Anda dapat membuat, mengategorikan, dan memprioritaskan tugas serta mengatur notifikasi untuk mengingatkan Anda tentang tenggat waktu dan acara yang akan datang. Semua data – tugas, kategori, dan pengaturan – disimpan secara lokal di perangkat Anda dan tidak dikirim ke cloud.";
+"manual_categories_title" = "Kategori";
+"manual_categories_text" = "Saat aplikasi dijalankan, kategori default seperti 'Pribadi' dan 'Kerja' ditampilkan. Anda dapat menggunakan kategori ini atau membuat kategori sendiri untuk mengorganisir tugas Anda. Setiap kategori dapat diberikan warna unik, sehingga Anda dapat membedakan tugas secara visual dengan sekali lihat. Anda juga memiliki kemampuan untuk mengedit (mengubah nama dan warna) atau menghapus kategori ketika tidak lagi diperlukan.";
+"manual_tasks_title" = "Tugas";
+"manual_tasks_text" = "Dengan DoYourThings, Anda dapat dengan mudah membuat, mengedit, dan menghapus tugas. Saat membuat tugas, Anda menyediakan judul, deskripsi terperinci, dan tingkat prioritas untuk membantu menilai pentingnya tugas tersebut. Selain itu, Anda dapat mengatur waktu pengingat dan tenggat waktu secara terpisah. Pastikan waktu yang Anda atur berada di masa depan, jika tidak, tidak ada notifikasi yang akan dipicu.";
+"manual_notifications_title" = "Notifikasi";
+"manual_notifications_text" = "Aplikasi ini secara otomatis menjadwalkan notifikasi untuk pengingat dan tenggat waktu berdasarkan waktu yang Anda masukkan. Anda harus mengisi kolom tanggal dan waktu yang sesuai untuk menerima notifikasi. Jika waktu yang tidak valid atau waktu lampau dimasukkan, tidak ada notifikasi yang akan dipicu. Ketuk notifikasi untuk membuka tampilan detail tugas yang bersangkutan, sehingga Anda dapat merespons dengan cepat tugas yang tertunda.";
+"manual_settings_title" = "Pengaturan";
+"manual_settings_text" = "Di pengaturan, Anda dapat menyesuaikan tampilan aplikasi. Anda dapat memilih antara mode Terang dan Gelap serta mengatur warna ikon sesuai preferensi Anda. Selain itu, Anda dapat mengelola kategori Anda dengan membuat, mengedit, atau menghapusnya, sehingga aplikasi disesuaikan dengan kebutuhan pribadi Anda.";
+"manual_local_storage_title" = "Penyimpanan Lokal";
+"manual_local_storage_text" = "Semua tugas, kategori, dan pengaturan disimpan secara lokal di perangkat Anda, memastikan data Anda tetap tersedia meskipun setelah aplikasi di-restart. Ini memberi Anda kontrol penuh atas informasi Anda.";
+"manual_version_title" = "Versi";
+"manual_navigation_title" = "Informasi";
+"back" = "Kembali";
+"info" = "Informasi";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Tema Seç";
+"theme" = "Tema";
+"light" = "Açık";
+"dark" = "Koyu";
+"chooseIconColor" = "Bir Simge Rengi Seçin:";
+"themeChoice" = "Tema Seçimi";
+"veryHighDescription" = "Çok Yüksek = Kırmızı\nHemen dikkat gerektiren acil ve kritik görevler.";
+"highDescription" = "Yüksek = Turuncu\nÇok Yüksek kadar acil olmayan, ancak hızlı bir şekilde yapılması gereken önemli görevler.";
+"mediumDescription" = "Orta = Sarı\nMakul bir zaman dilimi içinde tamamlanması gereken orta öneme sahip görevler.";
+"lowDescription" = "Düşük = Yeşil\nZaman olduğunda yapılması gereken daha az önemli görevler.";
+"veryLowDescription" = "Çok Düşük = Mavi\nBoş zamanlarda yapılabilecek düşük öneme sahip görevler.";
+"categoryName" = "Kategori Adı";
+"categoryColor" = "Kategori Rengi";
+"addCategory" = "Kategori Ekle";
+"editCategory" = "Kategoriyi Düzenle";
+"name" = "İsim";
+"color" = "Renk";
+"save" = "Kaydet";
+"delete" = "Sil";
+"deleteCategory" = "Kategoriyi Sil";
+"deleteCategoryConfirmation" = "Kategori %@'i silmek istediğinizden emin misiniz?";
+"manageCategories" = "Kategorileri Yönet";
+"searchPlaceholder" = "Ara...";
+"date" = "Tarih";
+"time" = "Saat";
+"category" = "Kategori";
+"priority" = "Öncelik";
+"reminder" = "Hatırlatma";
+"deadline" = "Son Tarih";
+"title" = "Başlık";
+"edit" = "Düzenle";
+"exampleTitle" = "Örnek Başlık";
+"exampleDetailText" = "Örnek Ayrıntı Metni";
+"medium" = "Orta";
+"privateCategory" = "Özel";
+"detail" = "Detay";
+"addTask" = "Görev Ekle";
+"newTask" = "Yeni Görev";
+"chooseDate" = "Tarih Seç";
+"continue" = "Devam Et";
+"done" = "Tamam";
+"cancel" = "İptal";
+"settings" = "Ayarlar";
+"deleteTaskTitle" = "Görevi Sil";
+"deleteTaskMessage" = "Bu görevi silmek istediğinizden emin misiniz?";
+"deleteButton" = "Sil";
+"veryHigh" = "Çok Yüksek";
+"high" = "Yüksek";
+"low" = "Düşük";
+"veryLow" = "Çok Düşük";
+"workCategory" = "İş";
+"selectedCategoryPrivate" = "Özel";
+"filterByDateAndPriority" = "Tarih ve Önceliğe Göre";
+"filter" = "Filtre";
+"choose_filter_option" = "Bir filtre seçeneği seçin";
+"by_date_and_priority" = "Tarih ve Önceliğe Göre";
+"by_priority_and_date" = "Öncelik ve Tarihe Göre";
+"by_reminder" = "Hatırlatmaya Göre";
+"by_deadline" = "Son Tarihe Göre";
+"overdue_tasks" = "Gecikmiş Görevler";
+"task_management" = "Görev Yönetimi";
+"create_edit_delete_tasks" = "Görevleri kolayca oluşturun, düzenleyin ve silin. Her görev bir başlığa, ayrıntılı bir açıklamaya, bir öncelik seviyesine ve tüm gerekli bilgilerin tek bir yerde olduğundan emin olmak için bir kategoriye sahip olabilir.";
+"categories" = "Kategoriler";
+"organize_tasks" = "'Özel' ve 'İş' gibi özel kategorilerde görevlerinizi düzenleyin. Bu, görevlerinizi net bir şekilde yapılandırmanızı ve en önemli olanlara hızlıca erişmenizi sağlar.";
+"prioritization" = "Önceliklendirme";
+"assign_priorities" = "En önemli ve acil görevlere odaklanmanızı sağlamak için görevlerinize öncelikler atayın. Renk kodlu öncelikler, her görevin aciliyetini bir bakışta görmenizi sağlar:";
+"very_high_priority" = "Çok Yüksek (Kırmızı): Hemen dikkat gerektiren acil ve kritik görevler.";
+"high_priority" = "Yüksek (Turuncu): Hızlı bir şekilde tamamlanması gereken önemli görevler.";
+"medium_priority" = "Orta (Sarı): Makul bir zaman dilimi içinde tamamlanması gereken orta öneme sahip görevler.";
+"low_priority" = "Düşük (Yeşil): Zaman olduğunda yapılması gereken daha az önemli görevler.";
+"very_low_priority" = "Çok Düşük (Mavi): Boş zamanlarda yapılabilecek düşük öneme sahip görevler.";
+"color_customization" = "Renk Özelleştirme";
+"personalize_app" = "Kategorilerinizin renklerini ayarlayarak uygulamayı kişiselleştirin. Bu, görsel olarak çekici ve bireysel olarak uyarlanmış bir kullanıcı deneyimi sağlar.";
+"theme_selection" = "Tema Seçimi";
+"toggle_light_dark" = "Tercihlerinize göre açık ve koyu mod arasında geçiş yapın ve farklı ışık koşullarında hoş bir kullanıcı deneyimi sağlayın.";
+"search_function" = "Arama Fonksiyonu";
+"find_tasks" = "Güçlü arama fonksiyonunu kullanarak herhangi bir görevi hızlı ve kolay bir şekilde bulun. İstediğiniz görevleri görüntülemek için başlığı veya açıklamanın bir kısmını girin.";
+"detailed_views" = "Ayrıntılı Görünümler";
+"view_task_details" = "Gerekli tüm bilgilere sahip olduğunuzdan emin olmak için her görevin ayrıntılarını ayrı bir görünümde görüntüleyin.";
+"notifications" = "Bildirimler";
+"timely_notifications" = "Önemli görevleri kaçırmamak için zamanında bildirimler alın. Her görev için hatırlatıcılar ve son tarihler belirleyebilirsiniz, böylece yaklaşan görevlerden her zaman haberdar olursunuz. Bildirimler, görevlerinizi verimli bir şekilde yönetmenize yardımcı olmak ve hiçbir şeyin gözden kaçmamasını sağlamak için tasarlanmıştır.";
+"filters" = "Filtreler";
+"overview_filters" = "Güçlü filtreleme seçenekleri ile görevlerinizi takip edin. En alakalı görevleri hızlı bir şekilde bulmak için görevlerinizi farklı kriterlere göre sıralayın:";
+"overdue_tasks" = "Gecikmiş Görevler";
+
+"language" = "Dil";
+"selectLanguage" = "Dili Seç";
+
+"manageCategories" = "Kategorileri Yönet";
+"chooseTheme" = "Tema Seç";
+"settings" = "Ayarlar";
+"language" = "Dil";
+"chooseLanguage" = "Dil Seç";
+
+"errorRequestingAuthorization" = "Yetki isteme hatası";
+"notificationAuthorizationGranted" = "Bildirim yetkisi verildi";
+"notificationAuthorizationDenied" = "Bildirim yetkisi reddedildi";
+"notificationAuthorizationNotDetermined" = "Bildirim yetkisi belirlenmedi";
+"notificationAuthorizationProvisional" = "Geçici bildirim yetkisi";
+"notificationAuthorizationEphemeral" = "Geçici bildirim yetkisi";
+"notificationAuthorizationUnknown" = "Bilinmeyen bildirim yetki durumu";
+"reminderTitle" = "Hatırlatma: %@";
+"deadlineTitle" = "Son Tarih: %@";
+"notificationBody" = "Öncelik: %@ - Kategori: %@\nDetaylar: %@";
+"errorSchedulingNotification" = "Bildirim planlama hatası";
+"notificationScheduled" = "Bildirim %@ tarihinde %@'de planlandı";
+
+"language" = "Dil";
+"selectLanguage" = "Dil seçin";
+
+/* InfoView */
+"manual_title" = "Kullanıcı Kılavuzu";
+"manual_intro_title" = "Giriş";
+"manual_intro_text" = "DoYourThings'e hoş geldiniz! \nBu uygulama, günlük görevlerinizi verimli bir şekilde yönetmenize yardımcı olmak için tasarlanmıştır. Görev oluşturabilir, kategorilere ayırabilir ve önceliklendirebilir, ayrıca yaklaşan son tarihler ve etkinlikler için bildirimler ayarlayabilirsiniz. Tüm veriler – görevler, kategoriler ve ayarlar – cihazınızda yerel olarak saklanır ve buluta aktarılmaz.";
+"manual_categories_title" = "Kategoriler";
+"manual_categories_text" = "Uygulamayı başlattığınızda, 'Özel' ve 'İş' gibi varsayılan kategoriler görüntülenir. Bu kategorileri kullanabilir veya görevlerinizi düzenlemek için kendi kategorilerinizi oluşturabilirsiniz. Her kategoriye benzersiz bir renk atayarak görevleri ilk bakışta görsel olarak ayırt edebilirsiniz. Ayrıca, kategorileri düzenleme (isim ve renk değiştirme) veya ihtiyaç kalmadığında silme imkânınız da vardır.";
+"manual_tasks_title" = "Görevler";
+"manual_tasks_text" = "DoYourThings ile görevleri kolayca oluşturabilir, düzenleyebilir ve silebilirsiniz. Bir görev oluştururken, görev önemini değerlendirmeye yardımcı olmak için bir başlık, ayrıntılı açıklama ve öncelik seviyesi girersiniz. Ayrıca, hatırlatıcılar ve son tarihler için ayrı zamanlar ayarlayabilirsiniz. Lütfen belirlediğiniz zamanların gelecekte olduğundan emin olun; aksi takdirde bildirim tetiklenmeyecektir.";
+"manual_notifications_title" = "Bildirimler";
+"manual_notifications_text" = "Uygulama, girdiğiniz zamanlara bağlı olarak otomatik olarak hatırlatıcılar ve son tarih bildirimleri planlar. Bildirim almak için uygun tarih ve saat alanlarını doldurmanız gerekir. Geçersiz veya geçmiş zamanlar girilirse bildirim tetiklenmez. Bir bildirime dokunduğunuzda, ilgili görevin detay görünümü açılır ve bekleyen görevlere hızlıca yanıt verebilirsiniz.";
+"manual_settings_title" = "Ayarlar";
+"manual_settings_text" = "Ayarlar bölümünde, uygulamanın görünümünü özelleştirebilirsiniz. Açık ve koyu mod arasında seçim yapabilir ve simge renklerini tercihinize göre ayarlayabilirsiniz. Ayrıca, uygulamayı kişisel ihtiyaçlarınıza uyacak şekilde düzenlemek için kategorilerinizi oluşturabilir, düzenleyebilir veya silebilirsiniz.";
+"manual_local_storage_title" = "Yerel Depolama";
+"manual_local_storage_text" = "Tüm görevler, kategoriler ve ayarlar cihazınızda yerel olarak saklanır; bu, uygulama yeniden başlatılsa bile verilerinizin erişilebilir kalmasını garanti eder. Bu size bilgileriniz üzerinde tam kontrol sağlar.";
+"manual_version_title" = "Versiyon";
+"manual_navigation_title" = "Bilgiler";
+"back" = "Geri";
+"info" = "Bilgiler";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

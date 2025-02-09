@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Wybierz Motyw";
+"theme" = "Motyw";
+"light" = "Jasny";
+"dark" = "Ciemny";
+"chooseIconColor" = "Wybierz Kolor Ikony:";
+"themeChoice" = "Wybór Motywu";
+"veryHighDescription" = "Bardzo Wysokie = Czerwony\nPilne i krytyczne zadania wymagające natychmiastowej uwagi.";
+"highDescription" = "Wysokie = Pomarańczowy\nWażne zadania, które należy wykonać niezwłocznie, ale nie tak pilne jak 'Bardzo Wysokie'.";
+"mediumDescription" = "Średnie = Żółty\nZadania o średnim znaczeniu, które powinny zostać zakończone w rozsądnym czasie.";
+"lowDescription" = "Niskie = Zielony\nMniej ważne zadania, które należy wykonać, gdy jest dostępny czas.";
+"veryLowDescription" = "Bardzo Niskie = Niebieski\nZadania o niskim znaczeniu, które można wykonać w wolnym czasie.";
+"categoryName" = "Nazwa Kategorii";
+"categoryColor" = "Kolor Kategorii";
+"addCategory" = "Dodaj Kategorię";
+"editCategory" = "Edytuj Kategorię";
+"name" = "Nazwa";
+"color" = "Kolor";
+"save" = "Zapisz";
+"delete" = "Usuń";
+"deleteCategory" = "Usuń Kategorię";
+"deleteCategoryConfirmation" = "Czy na pewno chcesz usunąć kategorię %@?";
+"manageCategories" = "Zarządzaj Kategoriami";
+"searchPlaceholder" = "Szukaj...";
+"date" = "Data";
+"time" = "Czas";
+"category" = "Kategoria";
+"priority" = "Priorytet";
+"reminder" = "Przypomnienie";
+"deadline" = "Termin";
+"title" = "Tytuł";
+"edit" = "Edytuj";
+"exampleTitle" = "Przykładowy Tytuł";
+"exampleDetailText" = "Przykładowy Tekst Szczegółowy";
+"medium" = "Średnie";
+"privateCategory" = "Prywatne";
+"detail" = "Szczegóły";
+"addTask" = "Dodaj Zadanie";
+"newTask" = "Nowe Zadanie";
+"chooseDate" = "Wybierz Datę";
+"continue" = "Kontynuuj";
+"done" = "Gotowe";
+"cancel" = "Anuluj";
+"settings" = "Ustawienia";
+"deleteTaskTitle" = "Usuń Zadanie";
+"deleteTaskMessage" = "Czy na pewno chcesz usunąć to zadanie?";
+"deleteButton" = "Usuń";
+"veryHigh" = "Bardzo Wysokie";
+"high" = "Wysokie";
+"low" = "Niskie";
+"veryLow" = "Bardzo Niskie";
+"workCategory" = "Praca";
+"selectedCategoryPrivate" = "Prywatne";
+"filterByDateAndPriority" = "Według Daty i Priorytetu";
+"filter" = "Filtr";
+"choose_filter_option" = "Wybierz opcję filtru";
+"by_date_and_priority" = "Według Daty i Priorytetu";
+"by_priority_and_date" = "Według Priorytetu i Daty";
+"by_reminder" = "Według Przypomnienia";
+"by_deadline" = "Według Terminu";
+"overdue_tasks" = "Zaległe Zadania";
+"task_management" = "Zarządzanie Zadaniami";
+"create_edit_delete_tasks" = "Twórz, edytuj i usuwaj zadania z łatwością. Każde zadanie może mieć tytuł, szczegółowy opis, poziom priorytetu i kategorię, aby mieć wszystkie potrzebne informacje w jednym miejscu.";
+"categories" = "Kategorie";
+"organize_tasks" = "Organizuj swoje zadania w niestandardowe kategorie, takie jak 'Prywatne' i 'Praca'. To pozwala na jasne ustrukturyzowanie zadań i szybki dostęp do najważniejszych.";
+"prioritization" = "Priorytetyzacja";
+"assign_priorities" = "Przydzielaj priorytety swoim zadaniom, aby skupić się na najważniejszych i najbardziej pilnych zadaniach. Kolorowe priorytety pomagają na pierwszy rzut oka zobaczyć pilność każdego zadania:";
+"very_high_priority" = "Bardzo Wysokie (Czerwony): Pilne i krytyczne zadania wymagające natychmiastowej uwagi.";
+"high_priority" = "Wysokie (Pomarańczowy): Ważne zadania, które należy wykonać niezwłocznie.";
+"medium_priority" = "Średnie (Żółty): Zadania o średnim znaczeniu, które powinny zostać zakończone w rozsądnym czasie.";
+"low_priority" = "Niskie (Zielony): Mniej ważne zadania, które należy wykonać, gdy jest dostępny czas.";
+"very_low_priority" = "Bardzo Niskie (Niebieski): Zadania o niskim znaczeniu, które można wykonać w wolnym czasie.";
+"color_customization" = "Dostosowywanie Kolorów";
+"personalize_app" = "Spersonalizuj aplikację, dostosowując kolory swoich kategorii. To pozwala na wizualnie atrakcyjne i indywidualnie dostosowane doświadczenie użytkownika.";
+"theme_selection" = "Wybór Motywu";
+"toggle_light_dark" = "Przełączaj między trybem Jasnym i Ciemnym, aby dostosować do swoich preferencji i zapewnić przyjemne użytkowanie w różnych warunkach oświetleniowych.";
+"search_function" = "Funkcja Wyszukiwania";
+"find_tasks" = "Szybko i łatwo znajdź każde zadanie za pomocą potężnej funkcji wyszukiwania. Wpisz tytuł lub część opisu, aby wyświetlić żądane zadania.";
+"detailed_views" = "Szczegółowe Widoki";
+"view_task_details" = "Zobacz szczegóły każdego zadania w osobnym widoku, aby mieć wszystkie potrzebne informacje pod ręką.";
+"notifications" = "Powiadomienia";
+"timely_notifications" = "Otrzymuj terminowe powiadomienia, aby nie przegapić ważnych zadań. Możesz ustawić przypomnienia i terminy dla każdego zadania, aby zawsze być świadomym nadchodzących zadań. Powiadomienia zostały zaprojektowane, aby pomóc w efektywnym zarządzaniu zadaniami i upewnieniu się, że nic nie zostanie pominięte.";
+"filters" = "Filtry";
+"overview_filters" = "Śledź swoje zadania za pomocą potężnych opcji filtrowania. Sortuj zadania według różnych kryteriów, aby szybko znaleźć najważniejsze:";
+"overdue_tasks" = "Zaległe Zadania";
+
+"language" = "Język";
+"selectLanguage" = "Wybierz język";
+
+"manageCategories" = "Zarządzaj kategoriami";
+"chooseTheme" = "Wybierz motyw";
+"settings" = "Ustawienia";
+"language" = "Język";
+"chooseLanguage" = "Wybierz język";
+
+"errorRequestingAuthorization" = "Błąd podczas żądania autoryzacji";
+"notificationAuthorizationGranted" = "Zezwolenie na powiadomienia udzielone";
+"notificationAuthorizationDenied" = "Zezwolenie na powiadomienia odrzucone";
+"notificationAuthorizationNotDetermined" = "Zezwolenie na powiadomienia nieokreślone";
+"notificationAuthorizationProvisional" = "Tymczasowe zezwolenie na powiadomienia";
+"notificationAuthorizationEphemeral" = "Przemijające zezwolenie na powiadomienia";
+"notificationAuthorizationUnknown" = "Nieznany status zezwolenia na powiadomienia";
+"reminderTitle" = "Przypomnienie: %@";
+"deadlineTitle" = "Termin: %@";
+"notificationBody" = "Priorytet: %@ - Kategoria: %@\nSzczegóły: %@";
+"errorSchedulingNotification" = "Błąd podczas planowania powiadomienia";
+"notificationScheduled" = "Powiadomienie zaplanowane na %@ o %@";
+
+"language" = "Język";
+"selectLanguage" = "Wybierz język";
+
+/* InfoView */
+"manual_title" = "Instrukcja obsługi";
+"manual_intro_title" = "Wprowadzenie";
+"manual_intro_text" = "Witamy w DoYourThings! \nTa aplikacja została zaprojektowana, aby pomóc Ci efektywnie zarządzać codziennymi zadaniami. Możesz tworzyć, kategoryzować i ustawiać priorytety zadań, a także ustawiać powiadomienia, które przypomną Ci o nadchodzących terminach i wydarzeniach. Wszystkie dane – zadania, kategorie i ustawienia – są przechowywane lokalnie na Twoim urządzeniu i nie są przesyłane do chmury.";
+"manual_categories_title" = "Kategorie";
+"manual_categories_text" = "Przy uruchomieniu wyświetlane są domyślne kategorie, takie jak 'Prywatne' i 'Praca'. Możesz korzystać z nich lub stworzyć własne kategorie, aby uporządkować swoje zadania. Każdej kategorii można przypisać unikalny kolor, co pozwala na szybkie wizualne rozróżnienie zadań. Masz również możliwość edytowania (zmiany nazwy i koloru) lub usuwania kategorii, gdy nie są już potrzebne.";
+"manual_tasks_title" = "Zadania";
+"manual_tasks_text" = "Dzięki DoYourThings możesz łatwo tworzyć, edytować i usuwać zadania. Podczas tworzenia zadania podajesz tytuł, szczegółowy opis oraz poziom priorytetu, który pomaga ocenić jego ważność. Dodatkowo możesz ustawić oddzielne czasy dla przypomnień i terminów. Proszę upewnij się, że ustawione czasy są w przyszłości, w przeciwnym razie powiadomienie nie zostanie aktywowane.";
+"manual_notifications_title" = "Powiadomienia";
+"manual_notifications_text" = "Aplikacja automatycznie planuje powiadomienia o przypomnieniach i terminach na podstawie wprowadzonych przez Ciebie czasów. Musisz wypełnić odpowiednie pola daty i czasu, aby otrzymać powiadomienia. Jeśli wprowadzone zostaną nieprawidłowe lub przeszłe czasy, powiadomienie nie zostanie aktywowane. Dotknięcie powiadomienia otwiera szczegółowy widok odpowiadającego zadania, umożliwiając szybką reakcję.";
+"manual_settings_title" = "Ustawienia";
+"manual_settings_text" = "W ustawieniach możesz dostosować wygląd aplikacji. Możesz wybrać między jasnym a ciemnym trybem i ustawić kolor ikon zgodnie z własnymi preferencjami. Dodatkowo możesz zarządzać kategoriami, tworząc nowe, edytując lub usuwając istniejące, aby dostosować aplikację do swoich osobistych potrzeb.";
+"manual_local_storage_title" = "Lokalne przechowywanie";
+"manual_local_storage_text" = "Wszystkie zadania, kategorie i ustawienia są przechowywane lokalnie na Twoim urządzeniu, co gwarantuje, że Twoje dane pozostaną dostępne nawet po ponownym uruchomieniu aplikacji. Daje to pełną kontrolę nad Twoimi informacjami.";
+"manual_version_title" = "Wersja";
+"manual_navigation_title" = "Informacje";
+"back" = "Wstecz";
+"info" = "Informacje";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

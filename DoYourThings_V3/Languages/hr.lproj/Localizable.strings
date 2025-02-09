@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Odaberite Tema";
+"theme" = "Tema";
+"light" = "Svijetlo";
+"dark" = "Tamno";
+"chooseIconColor" = "Odaberite Boju Ikone:";
+"themeChoice" = "Izbor Teme";
+"veryHighDescription" = "Vrlo Visoko = Crveno\nHitni i kritični zadaci koji zahtijevaju trenutnu pažnju.";
+"highDescription" = "Visoko = Narančasto\nVažni zadaci koji se moraju izvršiti brzo, ali nisu toliko hitni kao 'Vrlo Visoki'.";
+"mediumDescription" = "Srednje = Žuto\nZadaci srednje važnosti koji bi trebali biti dovršeni u razumnom vremenskom roku.";
+"lowDescription" = "Nisko = Zeleno\nManje važni zadaci koji bi se trebali izvršiti kad je vrijeme dostupno.";
+"veryLowDescription" = "Vrlo Nisko = Plavo\nZadaci niske važnosti koji se mogu obaviti u slobodno vrijeme.";
+"categoryName" = "Ime Kategorije";
+"categoryColor" = "Boja Kategorije";
+"addCategory" = "Dodaj Kategoriju";
+"editCategory" = "Uredi Kategoriju";
+"name" = "Ime";
+"color" = "Boja";
+"save" = "Spremi";
+"delete" = "Izbriši";
+"deleteCategory" = "Izbriši Kategoriju";
+"deleteCategoryConfirmation" = "Jeste li sigurni da želite izbrisati kategoriju %@?";
+"manageCategories" = "Upravljanje Kategorijama";
+"searchPlaceholder" = "Pretraži...";
+"date" = "Datum";
+"time" = "Vrijeme";
+"category" = "Kategorija";
+"priority" = "Prioritet";
+"reminder" = "Podsjetnik";
+"deadline" = "Rok";
+"title" = "Naslov";
+"edit" = "Uredi";
+"exampleTitle" = "Primjer Naslova";
+"exampleDetailText" = "Primjer Detaljnog Teksta";
+"medium" = "Srednje";
+"privateCategory" = "Privatno";
+"detail" = "Detalj";
+"addTask" = "Dodaj Zadatak";
+"newTask" = "Novi Zadatak";
+"chooseDate" = "Odaberite Datum";
+"continue" = "Nastavi";
+"done" = "Gotovo";
+"cancel" = "Odustani";
+"settings" = "Postavke";
+"deleteTaskTitle" = "Izbriši Zadatak";
+"deleteTaskMessage" = "Jeste li sigurni da želite izbrisati ovaj zadatak?";
+"deleteButton" = "Izbriši";
+"veryHigh" = "Vrlo Visoko";
+"high" = "Visoko";
+"low" = "Nisko";
+"veryLow" = "Vrlo Nisko";
+"workCategory" = "Posao";
+"selectedCategoryPrivate" = "Privatno";
+"filterByDateAndPriority" = "Po Datumu i Prioritetu";
+"filter" = "Filtar";
+"choose_filter_option" = "Odaberite opciju filtra";
+"by_date_and_priority" = "Po Datumu i Prioritetu";
+"by_priority_and_date" = "Po Prioritetu i Datumu";
+"by_reminder" = "Po Podsjetniku";
+"by_deadline" = "Po Roku";
+"overdue_tasks" = "Zadaci koji kasne";
+"task_management" = "Upravljanje Zadacima";
+"create_edit_delete_tasks" = "Jednostavno kreirajte, uredite i izbrišite zadatke. Svaki zadatak može imati naslov, detaljan opis, razinu prioriteta i kategoriju kako biste osigurali da imate sve potrebne informacije na jednom mjestu.";
+"categories" = "Kategorije";
+"organize_tasks" = "Organizirajte svoje zadatke u prilagođene kategorije poput 'Privatno' i 'Posao'. Ovo vam omogućuje jasnu strukturu zadataka i brz pristup najvažnijim zadacima.";
+"prioritization" = "Prioritizacija";
+"assign_priorities" = "Dodijelite prioritete svojim zadacima kako biste se usredotočili na najvažnije i najhitnije zadatke. Boje kodirani prioriteti pomažu vam da na prvi pogled vidite hitnost svakog zadatka:";
+"very_high_priority" = "Vrlo Visoko (Crveno): Hitni i kritični zadaci koji zahtijevaju trenutnu pažnju.";
+"high_priority" = "Visoko (Narančasto): Važni zadaci koji se moraju izvršiti brzo.";
+"medium_priority" = "Srednje (Žuto): Zadaci srednje važnosti koji bi trebali biti dovršeni u razumnom vremenskom roku.";
+"low_priority" = "Nisko (Zeleno): Manje važni zadaci koji bi se trebali izvršiti kad je vrijeme dostupno.";
+"very_low_priority" = "Vrlo Nisko (Plavo): Zadaci niske važnosti koji se mogu obaviti u slobodno vrijeme.";
+"color_customization" = "Prilagodba Boje";
+"personalize_app" = "Personalizirajte aplikaciju podešavanjem boja svojih kategorija. Ovo omogućuje vizualno privlačno i individualno prilagođeno korisničko iskustvo.";
+"theme_selection" = "Izbor Teme";
+"toggle_light_dark" = "Prebacujte se između Svijetlog i Tamnog načina rada kako bi odgovaralo vašim preferencijama i osigurajte ugodno korisničko iskustvo u različitim uvjetima osvjetljenja.";
+"search_function" = "Funkcija Pretraživanja";
+"find_tasks" = "Brzo i jednostavno pronađite bilo koji zadatak pomoću snažne funkcije pretraživanja. Jednostavno unesite naslov ili dio opisa kako biste prikazali željene zadatke.";
+"detailed_views" = "Detaljni Pregledi";
+"view_task_details" = "Pogledajte detalje svakog zadatka u zasebnom prozoru kako biste bili sigurni da imate sve potrebne informacije pri ruci.";
+"notifications" = "Obavijesti";
+"timely_notifications" = "Primajte pravovremene obavijesti kako ne biste propustili važne zadatke. Možete postaviti podsjetnike i rokove za svaki zadatak kako biste osigurali da ste uvijek svjesni nadolazećih zadataka. Obavijesti su dizajnirane da vam pomognu učinkovito upravljati zadacima i osigurati da ništa ne bude previdjeno.";
+"filters" = "Filteri";
+"overview_filters" = "Držite svoje zadatke pod kontrolom pomoću snažnih opcija filtriranja. Sortirajte svoje zadatke prema različitim kriterijima kako biste brzo pronašli najvažnije:";
+"overdue_tasks" = "Zadaci koji kasne";
+
+"language" = "Jezik";
+"selectLanguage" = "Odaberite jezik";
+
+"manageCategories" = "Upravljaj kategorijama";
+"chooseTheme" = "Odaberi temu";
+"settings" = "Postavke";
+"language" = "Jezik";
+"chooseLanguage" = "Odaberi jezik";
+
+"errorRequestingAuthorization" = "Pogreška pri zahtjevu za autorizaciju";
+"notificationAuthorizationGranted" = "Autorizacija obavijesti odobrena";
+"notificationAuthorizationDenied" = "Autorizacija obavijesti odbijena";
+"notificationAuthorizationNotDetermined" = "Autorizacija obavijesti nije određena";
+"notificationAuthorizationProvisional" = "Privremena autorizacija obavijesti odobrena";
+"notificationAuthorizationEphemeral" = "Prolazna autorizacija obavijesti odobrena";
+"notificationAuthorizationUnknown" = "Nepoznato stanje autorizacije obavijesti";
+"reminderTitle" = "Podsjetnik: %@";
+"deadlineTitle" = "Rok: %@";
+"notificationBody" = "Prioritet: %@ - Kategorija: %@\nDetalji: %@";
+"errorSchedulingNotification" = "Pogreška pri planiranju obavijesti";
+"notificationScheduled" = "Obavijest zakazana za %@ u %@";
+
+"language" = "Jezik";
+"selectLanguage" = "Odaberite jezik";
+
+/* InfoView */
+"manual_title" = "Korisnički priručnik";
+"manual_intro_title" = "Uvod";
+"manual_intro_text" = "Dobrodošli u DoYourThings! \nOva aplikacija je dizajnirana da vam pomogne učinkovito upravljati vašim dnevnim zadacima. Možete kreirati, kategorizirati i postavljati prioritete zadacima, kao i postaviti obavijesti koje će vas podsjećati na nadolazeće rokove i događaje. Svi podaci – zadaci, kategorije i postavke – pohranjuju se lokalno na vašem uređaju i ne prenose se u oblak.";
+"manual_categories_title" = "Kategorije";
+"manual_categories_text" = "Prilikom pokretanja prikazuju se zadane kategorije poput 'Privatno' i 'Posao'. Možete koristiti ove ili kreirati vlastite kategorije za organizaciju zadataka.";
+"manual_tasks_title" = "Zadaci";
+"manual_tasks_text" = "Uz DoYourThings možete lako kreirati, uređivati i brisati zadatke. Prilikom kreiranja zadatka, unesite naslov, detaljan opis i razinu prioriteta koja vam pomaže da procijenite njegovu važnost. Također, možete postaviti odvojena vremena za podsjetnike i rokove. Molimo osigurajte da uneseni termini budu u budućnosti, inače neće biti aktivirana nijedna obavijest.";
+"manual_notifications_title" = "Obavijesti";
+"manual_notifications_text" = "Aplikacija automatski zakazuje obavijesti za podsjetnike i rokove na temelju unesenih vremena. Morate ispuniti odgovarajuća polja za datum i vrijeme kako biste primali obavijesti. Ako unesete nevažeća ili prošla vremena, obavijest neće biti aktivirana. Dodirivanjem obavijesti otvara se detaljni prikaz odgovarajućeg zadatka, što vam omogućuje brzu reakciju.";
+"manual_settings_title" = "Postavke";
+"manual_settings_text" = "U postavkama možete prilagoditi izgled aplikacije. Možete birati između svijetlog i tamnog načina rada te postaviti boju ikona prema vašim željama. Također, možete upravljati svojim kategorijama kreiranjem, uređivanjem ili brisanjem istih, prilagođavajući aplikaciju vašim osobnim potrebama.";
+"manual_local_storage_title" = "Lokalno pohranjivanje";
+"manual_local_storage_text" = "Svi zadaci, kategorije i postavke pohranjuju se lokalno na vašem uređaju, čime se osigurava da vaši podaci ostanu dostupni čak i nakon ponovnog pokretanja aplikacije. To vam daje potpunu kontrolu nad vašim informacijama.";
+"manual_version_title" = "Verzija";
+"manual_navigation_title" = "Informacije";
+"back" = "Natrag";
+"info" = "Informacije";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

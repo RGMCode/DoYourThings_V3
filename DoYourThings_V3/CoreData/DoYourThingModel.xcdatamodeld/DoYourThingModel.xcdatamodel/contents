@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23605" systemVersion="24C101" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="CategoryDB" representedClassName="CategoryDB" syncable="YES" codeGenerationType="class">
+        <attribute name="colorHex" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="originalName" optional="YES" attributeType="String"/>
+        <relationship name="tasksCategory" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="DytDB" inverseName="categoryTasks" inverseEntity="DytDB"/>
+    </entity>
+    <entity name="DytDB" representedClassName="DytDB" syncable="YES" codeGenerationType="class">
+        <attribute name="dytAlarmDeadlineDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dytAlarmDeadlineTime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dytAlarmReminderDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dytAlarmReminderTime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dytDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dytDetailtext" optional="YES" attributeType="String"/>
+        <attribute name="dytPriority" optional="YES" attributeType="String"/>
+        <attribute name="dytTime" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="dytTitel" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <relationship name="categoryTasks" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CategoryDB" inverseName="tasksCategory" inverseEntity="CategoryDB"/>
+    </entity>
+</model>

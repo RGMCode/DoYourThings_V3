@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Chọn Chủ đề";
+"theme" = "Chủ đề";
+"light" = "Sáng";
+"dark" = "Tối";
+"chooseIconColor" = "Chọn Màu Biểu tượng:";
+"themeChoice" = "Lựa chọn Chủ đề";
+"veryHighDescription" = "Rất Cao = Đỏ\nNhiệm vụ khẩn cấp và quan trọng đòi hỏi sự chú ý ngay lập tức.";
+"highDescription" = "Cao = Cam\nNhiệm vụ quan trọng cần hoàn thành sớm, nhưng không khẩn cấp như 'Rất Cao'.";
+"mediumDescription" = "Trung bình = Vàng\nNhiệm vụ có tầm quan trọng trung bình nên hoàn thành trong một khung thời gian hợp lý.";
+"lowDescription" = "Thấp = Xanh lá cây\nNhiệm vụ ít quan trọng hơn nên hoàn thành khi có thời gian.";
+"veryLowDescription" = "Rất Thấp = Xanh dương\nNhiệm vụ có tầm quan trọng thấp có thể hoàn thành trong thời gian rảnh.";
+"categoryName" = "Tên Danh mục";
+"categoryColor" = "Màu Danh mục";
+"addCategory" = "Thêm Danh mục";
+"editCategory" = "Chỉnh sửa Danh mục";
+"name" = "Tên";
+"color" = "Màu";
+"save" = "Lưu";
+"delete" = "Xóa";
+"deleteCategory" = "Xóa Danh mục";
+"deleteCategoryConfirmation" = "Bạn có chắc chắn muốn xóa danh mục %@?";
+"manageCategories" = "Quản lý Danh mục";
+"searchPlaceholder" = "Tìm kiếm...";
+"date" = "Ngày";
+"time" = "Thời gian";
+"category" = "Danh mục";
+"priority" = "Ưu tiên";
+"reminder" = "Nhắc nhở";
+"deadline" = "Hạn chót";
+"title" = "Tiêu đề";
+"edit" = "Chỉnh sửa";
+"exampleTitle" = "Tiêu đề Ví dụ";
+"exampleDetailText" = "Văn bản Chi tiết Ví dụ";
+"medium" = "Trung bình";
+"privateCategory" = "Riêng tư";
+"detail" = "Chi tiết";
+"addTask" = "Thêm Nhiệm vụ";
+"newTask" = "Nhiệm vụ Mới";
+"chooseDate" = "Chọn Ngày";
+"continue" = "Tiếp tục";
+"done" = "Hoàn tất";
+"cancel" = "Hủy";
+"settings" = "Cài đặt";
+"deleteTaskTitle" = "Xóa Nhiệm vụ";
+"deleteTaskMessage" = "Bạn có chắc chắn muốn xóa nhiệm vụ này?";
+"deleteButton" = "Xóa";
+"veryHigh" = "Rất Cao";
+"high" = "Cao";
+"low" = "Thấp";
+"veryLow" = "Rất Thấp";
+"workCategory" = "Công việc";
+"selectedCategoryPrivate" = "Riêng tư";
+"filterByDateAndPriority" = "Theo Ngày và Ưu tiên";
+"filter" = "Lọc";
+"choose_filter_option" = "Chọn tùy chọn lọc";
+"by_date_and_priority" = "Theo Ngày và Ưu tiên";
+"by_priority_and_date" = "Theo Ưu tiên và Ngày";
+"by_reminder" = "Theo Nhắc nhở";
+"by_deadline" = "Theo Hạn chót";
+"overdue_tasks" = "Nhiệm vụ Quá hạn";
+"task_management" = "Quản lý Nhiệm vụ";
+"create_edit_delete_tasks" = "Tạo, chỉnh sửa và xóa nhiệm vụ một cách dễ dàng. Mỗi nhiệm vụ có thể có tiêu đề, mô tả chi tiết, mức độ ưu tiên và danh mục để đảm bảo bạn có tất cả thông tin cần thiết ở một nơi.";
+"categories" = "Danh mục";
+"organize_tasks" = "Tổ chức nhiệm vụ của bạn vào các danh mục tùy chỉnh như 'Riêng tư' và 'Công việc'. Điều này cho phép bạn sắp xếp rõ ràng nhiệm vụ của mình và truy cập nhanh chóng vào các nhiệm vụ quan trọng nhất.";
+"prioritization" = "Ưu tiên";
+"assign_priorities" = "Gán mức độ ưu tiên cho các nhiệm vụ của bạn để đảm bảo bạn tập trung vào các nhiệm vụ quan trọng và khẩn cấp nhất. Các mức độ ưu tiên được mã hóa màu giúp bạn thấy mức độ khẩn cấp của từng nhiệm vụ trong nháy mắt:";
+"very_high_priority" = "Rất Cao (Đỏ): Nhiệm vụ khẩn cấp và quan trọng đòi hỏi sự chú ý ngay lập tức.";
+"high_priority" = "Cao (Cam): Nhiệm vụ quan trọng cần hoàn thành sớm.";
+"medium_priority" = "Trung bình (Vàng): Nhiệm vụ có tầm quan trọng trung bình nên hoàn thành trong một khung thời gian hợp lý.";
+"low_priority" = "Thấp (Xanh lá cây): Nhiệm vụ ít quan trọng hơn nên hoàn thành khi có thời gian.";
+"very_low_priority" = "Rất Thấp (Xanh dương): Nhiệm vụ có tầm quan trọng thấp có thể hoàn thành trong thời gian rảnh.";
+"color_customization" = "Tùy chỉnh Màu sắc";
+"personalize_app" = "Cá nhân hóa ứng dụng bằng cách điều chỉnh màu sắc của các danh mục của bạn. Điều này cho phép trải nghiệm người dùng hấp dẫn về mặt hình ảnh và được điều chỉnh theo cá nhân.";
+"theme_selection" = "Lựa chọn Chủ đề";
+"toggle_light_dark" = "Bật tắt giữa chế độ Sáng và Tối để phù hợp với sở thích của bạn và đảm bảo trải nghiệm người dùng dễ chịu trong các điều kiện ánh sáng khác nhau.";
+"search_function" = "Chức năng Tìm kiếm";
+"find_tasks" = "Nhanh chóng và dễ dàng tìm thấy bất kỳ nhiệm vụ nào bằng cách sử dụng chức năng tìm kiếm mạnh mẽ. Chỉ cần nhập tiêu đề hoặc một phần của mô tả để hiển thị các nhiệm vụ mong muốn.";
+"detailed_views" = "Chế độ xem Chi tiết";
+"view_task_details" = "Xem chi tiết của từng nhiệm vụ trong một chế độ xem riêng để đảm bảo bạn có tất cả thông tin cần thiết trong tầm tay.";
+"notifications" = "Thông báo";
+"timely_notifications" = "Nhận thông báo kịp thời để tránh bỏ lỡ các nhiệm vụ quan trọng. Bạn có thể đặt lời nhắc và hạn chót cho mỗi nhiệm vụ để đảm bảo bạn luôn được nhắc nhở về các nhiệm vụ sắp tới. Các thông báo được thiết kế để giúp bạn quản lý nhiệm vụ của mình một cách hiệu quả và đảm bảo rằng không có gì bị bỏ sót.";
+"filters" = "Bộ lọc";
+"overview_filters" = "Theo dõi các nhiệm vụ của bạn với các tùy chọn bộ lọc mạnh mẽ. Sắp xếp các nhiệm vụ của bạn theo các tiêu chí khác nhau để nhanh chóng tìm thấy các nhiệm vụ liên quan nhất:";
+"overdue_tasks" = "Nhiệm vụ Quá hạn";
+
+"language" = "Ngôn ngữ";
+"selectLanguage" = "Chọn ngôn ngữ";
+
+"manageCategories" = "Quản lý danh mục";
+"chooseTheme" = "Chọn chủ đề";
+"settings" = "Cài đặt";
+"language" = "Ngôn ngữ";
+"chooseLanguage" = "Chọn ngôn ngữ";
+
+"errorRequestingAuthorization" = "Lỗi khi yêu cầu ủy quyền";
+"notificationAuthorizationGranted" = "Đã cấp quyền thông báo";
+"notificationAuthorizationDenied" = "Quyền thông báo bị từ chối";
+"notificationAuthorizationNotDetermined" = "Quyền thông báo không xác định";
+"notificationAuthorizationProvisional" = "Quyền thông báo tạm thời được cấp";
+"notificationAuthorizationEphemeral" = "Quyền thông báo tạm thời được cấp";
+"notificationAuthorizationUnknown" = "Trạng thái quyền thông báo không xác định";
+"reminderTitle" = "Nhắc nhở: %@";
+"deadlineTitle" = "Hạn chót: %@";
+"notificationBody" = "Ưu tiên: %@ - Danh mục: %@\nChi tiết: %@";
+"errorSchedulingNotification" = "Lỗi khi lên lịch thông báo";
+"notificationScheduled" = "Thông báo được lên lịch vào %@ lúc %@";
+
+"language" = "Ngôn ngữ";
+"selectLanguage" = "Chọn ngôn ngữ";
+
+/* InfoView */
+"manual_title" = "Hướng dẫn sử dụng";
+"manual_intro_title" = "Giới thiệu";
+"manual_intro_text" = "Chào mừng bạn đến với DoYourThings! \nỨng dụng này được thiết kế để giúp bạn quản lý công việc hàng ngày một cách hiệu quả. Bạn có thể tạo, phân loại và ưu tiên các công việc, cũng như thiết lập thông báo để nhắc bạn về các thời hạn và sự kiện sắp tới. Tất cả dữ liệu – công việc, danh mục và cài đặt – được lưu trữ cục bộ trên thiết bị của bạn và không được truyền lên đám mây.";
+"manual_categories_title" = "Danh mục";
+"manual_categories_text" = "Khi ứng dụng khởi động, các danh mục mặc định như 'Riêng tư' và 'Công việc' sẽ được hiển thị. Bạn có thể sử dụng các danh mục này hoặc tạo danh mục riêng để tổ chức các công việc của mình. Mỗi danh mục có thể được gán một màu sắc duy nhất, cho phép bạn phân biệt các công việc một cách trực quan chỉ với một cái nhìn. Ngoài ra, bạn cũng có thể chỉnh sửa (thay đổi tên và màu sắc) hoặc xóa danh mục khi chúng không còn cần thiết.";
+"manual_tasks_title" = "Công việc";
+"manual_tasks_text" = "Với DoYourThings, bạn có thể dễ dàng tạo, chỉnh sửa và xóa công việc. Khi tạo một công việc, bạn cung cấp tiêu đề, mô tả chi tiết và mức độ ưu tiên để giúp đánh giá tầm quan trọng của công việc đó. Ngoài ra, bạn có thể đặt giờ riêng cho nhắc nhở và thời hạn. Vui lòng đảm bảo rằng các giờ được đặt vào tương lai, nếu không sẽ không có thông báo nào được kích hoạt.";
+"manual_notifications_title" = "Thông báo";
+"manual_notifications_text" = "Ứng dụng tự động sắp xếp các thông báo cho nhắc nhở và thời hạn dựa trên các giờ mà bạn nhập vào. Bạn cần điền đầy đủ các trường ngày và giờ tương ứng để nhận thông báo. Nếu nhập các giờ không hợp lệ hoặc đã qua, không có thông báo nào được kích hoạt. Nhấn vào thông báo sẽ mở trực tiếp phần xem chi tiết của công việc tương ứng, cho phép bạn phản hồi nhanh chóng.";
+"manual_settings_title" = "Cài đặt";
+"manual_settings_text" = "Trong cài đặt, bạn có thể tùy chỉnh giao diện của ứng dụng. Bạn có thể chọn giữa chế độ Sáng và Tối cũng như thiết lập màu của các biểu tượng theo sở thích cá nhân. Ngoài ra, bạn có thể quản lý danh mục của mình bằng cách tạo mới, chỉnh sửa hoặc xóa, giúp ứng dụng được điều chỉnh phù hợp với nhu cầu cá nhân của bạn.";
+"manual_local_storage_title" = "Lưu trữ cục bộ";
+"manual_local_storage_text" = "Tất cả các công việc, danh mục và cài đặt được lưu trữ cục bộ trên thiết bị của bạn, đảm bảo rằng dữ liệu của bạn vẫn luôn có sẵn ngay cả sau khi ứng dụng được khởi động lại. Điều này cho phép bạn kiểm soát hoàn toàn thông tin của mình.";
+"manual_version_title" = "Phiên bản";
+"manual_navigation_title" = "Thông tin";
+"back" = "Quay lại";
+"info" = "Thông tin";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

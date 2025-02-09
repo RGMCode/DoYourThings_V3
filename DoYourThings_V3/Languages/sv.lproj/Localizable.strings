@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Välj Tema";
+"theme" = "Tema";
+"light" = "Ljus";
+"dark" = "Mörk";
+"chooseIconColor" = "Välj en Ikonfärg:";
+"themeChoice" = "Tema Val";
+"veryHighDescription" = "Mycket Hög = Röd\nBrådskande och kritiska uppgifter som kräver omedelbar uppmärksamhet.";
+"highDescription" = "Hög = Orange\nViktiga uppgifter som måste utföras snabbt, men inte lika brådskande som 'Mycket Hög'.";
+"mediumDescription" = "Medel = Gul\nUppgifter av måttlig betydelse som bör vara färdiga inom rimlig tid.";
+"lowDescription" = "Låg = Grön\nMindre viktiga uppgifter som bör utföras när tid finns.";
+"veryLowDescription" = "Mycket Låg = Blå\nUppgifter av låg betydelse som kan göras på fritiden.";
+"categoryName" = "Kategorinamn";
+"categoryColor" = "Kategorifärg";
+"addCategory" = "Lägg till Kategori";
+"editCategory" = "Redigera Kategori";
+"name" = "Namn";
+"color" = "Färg";
+"save" = "Spara";
+"delete" = "Radera";
+"deleteCategory" = "Radera Kategori";
+"deleteCategoryConfirmation" = "Är du säker på att du vill radera kategorin %@?";
+"manageCategories" = "Hantera Kategorier";
+"searchPlaceholder" = "Sök...";
+"date" = "Datum";
+"time" = "Tid";
+"category" = "Kategori";
+"priority" = "Prioritet";
+"reminder" = "Påminnelse";
+"deadline" = "Frist";
+"title" = "Titel";
+"edit" = "Redigera";
+"exampleTitle" = "Exempel Titel";
+"exampleDetailText" = "Exempel Detaljtext";
+"medium" = "Medel";
+"privateCategory" = "Privat";
+"detail" = "Detalj";
+"addTask" = "Lägg till Uppgift";
+"newTask" = "Ny Uppgift";
+"chooseDate" = "Välj Datum";
+"continue" = "Fortsätt";
+"done" = "Klar";
+"cancel" = "Avbryt";
+"settings" = "Inställningar";
+"deleteTaskTitle" = "Radera Uppgift";
+"deleteTaskMessage" = "Är du säker på att du vill radera denna uppgift?";
+"deleteButton" = "Radera";
+"veryHigh" = "Mycket Hög";
+"high" = "Hög";
+"low" = "Låg";
+"veryLow" = "Mycket Låg";
+"workCategory" = "Arbete";
+"selectedCategoryPrivate" = "Privat";
+"filterByDateAndPriority" = "Efter Datum och Prioritet";
+"filter" = "Filter";
+"choose_filter_option" = "Välj ett filteralternativ";
+"by_date_and_priority" = "Efter Datum och Prioritet";
+"by_priority_and_date" = "Efter Prioritet och Datum";
+"by_reminder" = "Efter Påminnelse";
+"by_deadline" = "Efter Frist";
+"overdue_tasks" = "Försenade Uppgifter";
+"task_management" = "Uppgiftsstyrning";
+"create_edit_delete_tasks" = "Skapa, redigera och radera uppgifter med lätthet. Varje uppgift kan ha en titel, en detaljerad beskrivning, en prioritet och en kategori för att säkerställa att du har all nödvändig information på ett ställe.";
+"categories" = "Kategorier";
+"organize_tasks" = "Organisera dina uppgifter i anpassade kategorier som 'Privat' och 'Arbete'. Detta gör att du kan strukturera dina uppgifter tydligt och snabbt få tillgång till de viktigaste.";
+"prioritization" = "Prioritering";
+"assign_priorities" = "Tilldela prioriteringar till dina uppgifter för att säkerställa att du fokuserar på de viktigaste och mest brådskande uppgifterna. De färgkodade prioriteringarna hjälper dig att se varje uppgifts brådskande på ett ögonblick:";
+"very_high_priority" = "Mycket Hög (Röd): Brådskande och kritiska uppgifter som kräver omedelbar uppmärksamhet.";
+"high_priority" = "Hög (Orange): Viktiga uppgifter som måste utföras snabbt.";
+"medium_priority" = "Medel (Gul): Uppgifter av måttlig betydelse som bör vara färdiga inom rimlig tid.";
+"low_priority" = "Låg (Grön): Mindre viktiga uppgifter som bör utföras när tid finns.";
+"very_low_priority" = "Mycket Låg (Blå): Uppgifter av låg betydelse som kan göras på fritiden.";
+"color_customization" = "Färganpassning";
+"personalize_app" = "Anpassa appen genom att justera färgerna på dina kategorier. Detta ger en visuellt tilltalande och individuellt anpassad användarupplevelse.";
+"theme_selection" = "Tema Val";
+"toggle_light_dark" = "Växla mellan Ljus och Mörk läge för att passa dina preferenser och säkerställa en trevlig användarupplevelse i olika ljusförhållanden.";
+"search_function" = "Sökfunktion";
+"find_tasks" = "Hitta snabbt och enkelt varje uppgift med den kraftfulla sökfunktionen. Ange bara titeln eller en del av beskrivningen för att visa de önskade uppgifterna.";
+"detailed_views" = "Detaljerade Visningar";
+"view_task_details" = "Visa detaljerna för varje uppgift i ett separat fönster för att säkerställa att du har all nödvändig information till hands.";
+"notifications" = "Meddelanden";
+"timely_notifications" = "Ta emot tidsenliga meddelanden för att undvika att missa viktiga uppgifter. Du kan ställa in påminnelser och frister för varje uppgift för att säkerställa att du alltid är medveten om kommande uppgifter. Meddelandena är utformade för att hjälpa dig att effektivt hantera dina uppgifter och säkerställa att inget förbises.";
+"filters" = "Filter";
+"overview_filters" = "Håll koll på dina uppgifter med kraftfulla filteralternativ. Sortera dina uppgifter efter olika kriterier för att snabbt hitta de mest relevanta:";
+"overdue_tasks" = "Försenade Uppgifter";
+
+"language" = "Språk";
+"selectLanguage" = "Välj språk";
+
+"manageCategories" = "Hantera kategorier";
+"chooseTheme" = "Välj tema";
+"settings" = "Inställningar";
+"language" = "Språk";
+"chooseLanguage" = "Välj språk";
+
+"errorRequestingAuthorization" = "Fel vid begäran om godkännande";
+"notificationAuthorizationGranted" = "Meddelande tillstånd beviljat";
+"notificationAuthorizationDenied" = "Meddelande tillstånd nekas";
+"notificationAuthorizationNotDetermined" = "Meddelande tillstånd ej fastställt";
+"notificationAuthorizationProvisional" = "Provisoriskt meddelande tillstånd beviljat";
+"notificationAuthorizationEphemeral" = "Flyktigt meddelande tillstånd beviljat";
+"notificationAuthorizationUnknown" = "Okänd meddelande tillstånd status";
+"reminderTitle" = "Påminnelse: %@";
+"deadlineTitle" = "Deadline: %@";
+"notificationBody" = "Prioritet: %@ - Kategori: %@\nDetaljer: %@";
+"errorSchedulingNotification" = "Fel vid schemaläggning av meddelande";
+"notificationScheduled" = "Meddelande schemalagt till %@ kl. %@";
+
+"language" = "Språk";
+"selectLanguage" = "Välj språk";
+
+/* InfoView */
+"manual_title" = "Användarmanual";
+"manual_intro_title" = "Introduktion";
+"manual_intro_text" = "Välkommen till DoYourThings! \nDenna app är utformad för att hjälpa dig hantera dina dagliga uppgifter på ett effektivt sätt. Du kan skapa, kategorisera och prioritera uppgifter samt ställa in aviseringar för att påminna dig om kommande deadlines och händelser. Alla data – uppgifter, kategorier och inställningar – lagras lokalt på din enhet och skickas inte till molnet.";
+"manual_categories_title" = "Kategorier";
+"manual_categories_text" = "Vid uppstart visas standardkategorier som 'Privat' och 'Arbete'. Du kan använda dessa eller skapa egna kategorier för att organisera dina uppgifter. Varje kategori kan tilldelas en unik färg, vilket gör att du snabbt kan skilja på uppgifterna visuellt. Du har även möjlighet att redigera (ändra namn och färg) eller radera kategorier när de inte längre behövs.";
+"manual_tasks_title" = "Uppgifter";
+"manual_tasks_text" = "Med DoYourThings kan du enkelt skapa, redigera och ta bort uppgifter. När du skapar en uppgift anger du en titel, en detaljerad beskrivning och en prioritetsnivå för att hjälpa dig bedöma dess vikt. Dessutom kan du ställa in separata tider för påminnelser och deadlines. Var vänlig se till att de angivna tiderna ligger i framtiden, annars kommer inga aviseringar att utlösas.";
+"manual_notifications_title" = "Aviseringar";
+"manual_notifications_text" = "Appen schemalägger automatiskt aviseringar för påminnelser och deadlines baserat på de tider du anger. Du måste fylla i rätt datum- och tidsfält för att få aviseringar. Om ogiltiga eller förflutna tider anges, kommer ingen avisering att utlösas. Genom att trycka på en avisering öppnas direkt den detaljerade vyn för den aktuella uppgiften, så att du snabbt kan agera.";
+"manual_settings_title" = "Inställningar";
+"manual_settings_text" = "I inställningarna kan du anpassa appens utseende. Du kan välja mellan ljus och mörk läge samt ställa in ikonfärgen efter dina preferenser. Dessutom kan du hantera dina kategorier – skapa nya, redigera eller ta bort befintliga – för att anpassa appen till dina personliga behov.";
+"manual_local_storage_title" = "Lokal lagring";
+"manual_local_storage_text" = "Alla uppgifter, kategorier och inställningar lagras lokalt på din enhet, vilket säkerställer att dina data förblir tillgängliga även efter att appen startats om. Detta ger dig full kontroll över din information.";
+"manual_version_title" = "Version";
+"manual_navigation_title" = "Information";
+"back" = "Tillbaka";
+"info" = "Information";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

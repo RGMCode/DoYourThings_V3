@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Vyberte Tému";
+"theme" = "Téma";
+"light" = "Svetlá";
+"dark" = "Tmavá";
+"chooseIconColor" = "Vyberte Farbu Ikony:";
+"themeChoice" = "Výber Témy";
+"veryHighDescription" = "Veľmi Vysoká = Červená\nNaliehavé a kritické úlohy, ktoré vyžadujú okamžitú pozornosť.";
+"highDescription" = "Vysoká = Oranžová\nDôležité úlohy, ktoré je potrebné vykonať rýchlo, ale nie sú také naliehavé ako 'Veľmi Vysoká'.";
+"mediumDescription" = "Stredná = Žltá\nÚlohy strednej dôležitosti, ktoré by mali byť dokončené v primeranom časovom rámci.";
+"lowDescription" = "Nízka = Zelená\nMenej dôležité úlohy, ktoré by sa mali vykonať, keď je dostupný čas.";
+"veryLowDescription" = "Veľmi Nízka = Modrá\nÚlohy s nízkou dôležitosťou, ktoré sa môžu vykonať vo voľnom čase.";
+"categoryName" = "Názov Kategórie";
+"categoryColor" = "Farba Kategórie";
+"addCategory" = "Pridať Kategóriu";
+"editCategory" = "Upraviť Kategóriu";
+"name" = "Meno";
+"color" = "Farba";
+"save" = "Uložiť";
+"delete" = "Zmazať";
+"deleteCategory" = "Zmazať Kategóriu";
+"deleteCategoryConfirmation" = "Ste si istí, že chcete zmazať kategóriu %@?";
+"manageCategories" = "Správa Kategórií";
+"searchPlaceholder" = "Hľadať...";
+"date" = "Dátum";
+"time" = "Čas";
+"category" = "Kategória";
+"priority" = "Priorita";
+"reminder" = "Pripomienka";
+"deadline" = "Termín";
+"title" = "Názov";
+"edit" = "Upraviť";
+"exampleTitle" = "Príklad Názvu";
+"exampleDetailText" = "Príklad Detailného Textu";
+"medium" = "Stredná";
+"privateCategory" = "Súkromná";
+"detail" = "Detail";
+"addTask" = "Pridať Úlohu";
+"newTask" = "Nová Úloha";
+"chooseDate" = "Vyberte Dátum";
+"continue" = "Pokračovať";
+"done" = "Hotovo";
+"cancel" = "Zrušiť";
+"settings" = "Nastavenia";
+"deleteTaskTitle" = "Zmazať Úlohu";
+"deleteTaskMessage" = "Ste si istí, že chcete zmazať túto úlohu?";
+"deleteButton" = "Zmazať";
+"veryHigh" = "Veľmi Vysoká";
+"high" = "Vysoká";
+"low" = "Nízka";
+"veryLow" = "Veľmi Nízka";
+"workCategory" = "Práca";
+"selectedCategoryPrivate" = "Súkromná";
+"filterByDateAndPriority" = "Podľa Dátumu a Priority";
+"filter" = "Filter";
+"choose_filter_option" = "Vyberte možnosť filtra";
+"by_date_and_priority" = "Podľa Dátumu a Priority";
+"by_priority_and_date" = "Podľa Priority a Dátumu";
+"by_reminder" = "Podľa Pripomienky";
+"by_deadline" = "Podľa Termínu";
+"overdue_tasks" = "Oneskorené Úlohy";
+"task_management" = "Správa Úloh";
+"create_edit_delete_tasks" = "Jednoducho vytvárajte, upravujte a mazať úlohy. Každá úloha môže mať názov, podrobný popis, úroveň priority a kategóriu, aby ste mali všetky potrebné informácie na jednom mieste.";
+"categories" = "Kategórie";
+"organize_tasks" = "Organizujte si úlohy do vlastných kategórií ako 'Súkromná' a 'Práca'. To vám umožní jasne štruktúrovať úlohy a rýchlo pristupovať k najdôležitejším úlohám.";
+"prioritization" = "Prioritizácia";
+"assign_priorities" = "Priraďujte priority svojim úlohám, aby ste sa sústredili na najdôležitejšie a najnaliehavejšie úlohy. Farebne kódované priority vám pomôžu rýchlo vidieť naliehavosť každej úlohy:";
+"very_high_priority" = "Veľmi Vysoká (Červená): Naliehavé a kritické úlohy, ktoré vyžadujú okamžitú pozornosť.";
+"high_priority" = "Vysoká (Oranžová): Dôležité úlohy, ktoré musia byť dokončené rýchlo.";
+"medium_priority" = "Stredná (Žltá): Úlohy strednej dôležitosti, ktoré by mali byť dokončené v primeranom časovom rámci.";
+"low_priority" = "Nízka (Zelená): Menej dôležité úlohy, ktoré by sa mali vykonať, keď je dostupný čas.";
+"very_low_priority" = "Veľmi Nízka (Modrá): Úlohy s nízkou dôležitosťou, ktoré sa môžu vykonať vo voľnom čase.";
+"color_customization" = "Prispôsobenie Farieb";
+"personalize_app" = "Prispôsobte si aplikáciu nastavením farieb svojich kategórií. To umožňuje vizuálne atraktívne a individuálne prispôsobené používateľské prostredie.";
+"theme_selection" = "Výber Témy";
+"toggle_light_dark" = "Prepnite medzi svetlým a tmavým režimom podľa vašich preferencií a zabezpečte príjemné používateľské prostredie za rôznych svetelných podmienok.";
+"search_function" = "Funkcia Vyhľadávania";
+"find_tasks" = "Rýchlo a jednoducho nájdite akúkoľvek úlohu pomocou silnej funkcie vyhľadávania. Stačí zadať názov alebo časť popisu na zobrazenie požadovaných úloh.";
+"detailed_views" = "Podrobné Pohľady";
+"view_task_details" = "Zobrazte podrobnosti každej úlohy v samostatnom okne, aby ste mali všetky potrebné informácie po ruke.";
+"notifications" = "Upozornenia";
+"timely_notifications" = "Prijímajte včasné upozornenia, aby ste nezmeškali dôležité úlohy. Môžete nastaviť pripomienky a termíny pre každú úlohu, aby ste boli vždy informovaní o nadchádzajúcich úlohách. Upozornenia sú navrhnuté tak, aby vám pomohli efektívne spravovať úlohy a zabezpečili, že nič nebude prehliadnuté.";
+"filters" = "Filtre";
+"overview_filters" = "Majte svoje úlohy pod kontrolou pomocou silných možností filtrovania. Triedte úlohy podľa rôznych kritérií, aby ste rýchlo našli najrelevantnejšie:";
+"overdue_tasks" = "Oneskorené Úlohy";
+
+"language" = "Jazyk";
+"selectLanguage" = "Vybrať jazyk";
+
+"manageCategories" = "Spravovať kategórie";
+"chooseTheme" = "Vybrať tému";
+"settings" = "Nastavenia";
+"language" = "Jazyk";
+"chooseLanguage" = "Vybrať jazyk";
+
+"errorRequestingAuthorization" = "Chyba pri žiadosti o autorizáciu";
+"notificationAuthorizationGranted" = "Povolenie na oznámenie udelené";
+"notificationAuthorizationDenied" = "Povolenie na oznámenie zamietnuté";
+"notificationAuthorizationNotDetermined" = "Povolenie na oznámenie neurčené";
+"notificationAuthorizationProvisional" = "Dočasné povolenie na oznámenie udelené";
+"notificationAuthorizationEphemeral" = "Efemérne povolenie na oznámenie udelené";
+"notificationAuthorizationUnknown" = "Neznámy stav povolenia na oznámenie";
+"reminderTitle" = "Pripomienka: %@";
+"deadlineTitle" = "Termín: %@";
+"notificationBody" = "Priorita: %@ - Kategória: %@\nDetaily: %@";
+"errorSchedulingNotification" = "Chyba pri plánovaní oznámenia";
+"notificationScheduled" = "Oznámenie naplánované na %@ o %@";
+
+"language" = "Jazyk";
+"selectLanguage" = "Vyberte jazyk";
+
+/* InfoView */
+"manual_title" = "Návod na použitie";
+"manual_intro_title" = "Úvod";
+"manual_intro_text" = "Vitajte v DoYourThings! \nTáto aplikácia je navrhnutá tak, aby vám pomohla efektívne spravovať vaše denné úlohy. Môžete vytvárať, kategorizovať a nastavovať priority úloh, ako aj nastavovať upozornenia, ktoré vás budú informovať o nadchádzajúcich termínoch a udalostiach. Všetky dáta – úlohy, kategórie a nastavenia – sú uložené lokálne vo vašom zariadení a nie sú prenášané do cloudu.";
+"manual_categories_title" = "Kategórie";
+"manual_categories_text" = "Pri spustení sa zobrazia predvolené kategórie, ako sú 'Súkromné' a 'Práca'. Môžete použiť tieto kategórie alebo vytvoriť vlastné, aby ste si prispôsobili organizáciu úloh. Každej kategórii môžete priradiť jedinečnú farbu, čo vám umožní vizuálne rozlíšiť úlohy na prvý pohľad. Taktiež môžete kategórie upravovať (meniť názov a farbu) alebo ich odstraňovať, keď už nie sú potrebné.";
+"manual_tasks_title" = "Úlohy";
+"manual_tasks_text" = "S DoYourThings môžete jednoducho vytvárať, upravovať a mazať úlohy. Pri vytváraní úlohy zadáte názov, podrobný popis a úroveň priority, ktorá vám pomôže posúdiť jej dôležitosť. Okrem toho môžete nastaviť samostatné časy pre pripomienky a termíny. Uistite sa, že zadané časy sú v budúcnosti, inak nebude spustené žiadne upozornenie.";
+"manual_notifications_title" = "Upozornenia";
+"manual_notifications_text" = "Aplikácia automaticky plánuje upozornenia na pripomienky a termíny na základe zadaných časov. Musíte vyplniť príslušné polia pre dátum a čas, aby ste dostávali upozornenia. Ak zadáte neplatné alebo minulé časy, upozornenie sa nespustí. Klepnutím na upozornenie sa otvorí detailný náhľad danej úlohy, čo vám umožní rýchlo reagovať.";
+"manual_settings_title" = "Nastavenia";
+"manual_settings_text" = "V nastaveniach si môžete prispôsobiť vzhľad aplikácie. Môžete si vybrať medzi svetlým a tmavým režimom a nastaviť farbu ikon podľa vašich preferencií. Okrem toho môžete spravovať svoje kategórie – vytvárať nové, upravovať alebo mazať existujúce – aby bola aplikácia čo najlepšie prispôsobená vašim osobným potrebám.";
+"manual_local_storage_title" = "Lokálne uloženie";
+"manual_local_storage_text" = "Všetky úlohy, kategórie a nastavenia sú uložené lokálne na vašom zariadení, čo zaručuje, že vaše dáta zostanú dostupné aj po reštarte aplikácie. Tým získate plnú kontrolu nad svojimi informáciami.";
+"manual_version_title" = "Verzia";
+"manual_navigation_title" = "Informácie";
+"back" = "Späť";
+"info" = "Informácie";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

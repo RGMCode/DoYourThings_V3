@@ -1,0 +1,134 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Mijar hildin";
+"theme" = "Mijar";
+"light" = "Ronahî";
+"dark" = "Tarî";
+"chooseIconColor" = "Rengê nîşana hilbijêre:";
+"themeChoice" = "Hilbijartina mijar";
+"veryHighDescription" = "Pir bilind = Sor\nCîhên girîng û kirîtîk, yên ku têgihiştiya niha hewce bikin.";
+"highDescription" = "Bilind = Pirtûq\nCîhên girîng, yên ku divê heta naze re were kirin, lê ne wekî 'Pir bilind' pir gilîkî.";
+"mediumDescription" = "Navîn = Zêr\nCîhên ku girîngiya navîn hene, yên ku divê di dema rêz û saza navîn de were kirin.";
+"lowDescription" = "Nizm = Kesk\nCîhên ku girîngiya nizm hene, yên ku divê di dema aştiyê de were kirin.";
+"veryLowDescription" = "Pir nizm = Şîn\nCîhên ku girîngiya pir nizm hene, yên ku divê di dema temîya de were kirin.";
+"categoryName" = "Navê kategorî";
+"categoryColor" = "Rengê kategorî";
+"addCategory" = "Kategorî zêde bikin";
+"editCategory" = "Kategorî biguherin";
+"name" = "Nav";
+"color" = "Reng";
+"save" = "Tomar bikin";
+"delete" = "Jêbirin";
+"deleteCategory" = "Kategorî jê bibin";
+"deleteCategoryConfirmation" = "Ma hûn guman dikin ku hûn dixwazin kategorî %@ jê bikin?";
+"manageCategories" = "Kategorîyan biguherînin";
+"searchPlaceholder" = "Lêgerîn...";
+"date" = "Dîrok";
+"time" = "Dem";
+"category" = "Kategorî";
+"priority" = "Pîştrastî";
+"reminder" = "Bîrîndarî";
+"deadline" = "Demperçûk";
+"title" = "Sernav";
+"edit" = "Biguhertin";
+"exampleTitle" = "Sernava nimûne";
+"exampleDetailText" = "Nivîsa nimûne";
+"medium" = "Navîn";
+"privateCategory" = "Taybetî";
+"detail" = "Hûrgulî";
+"addTask" = "Kar zêde bikin";
+"newTask" = "Karê nû";
+"chooseDate" = "Dîrok hilbijêre";
+"continue" = "Berdewam bikin";
+"done" = "Qediya";
+"cancel" = "Bişopînin";
+"settings" = "Veavakirina";
+"deleteTaskTitle" = "Kar jêbirin";
+"deleteTaskMessage" = "Ma hûn guman dikin ku hûn dixwazin vî karî jê bikin?";
+"deleteButton" = "Jêbirin";
+"veryHigh" = "Pir bilind";
+"high" = "Bilind";
+"low" = "Nizm";
+"veryLow" = "Pir nizm";
+"workCategory" = "Kar";
+"selectedCategoryPrivate" = "Taybetî";
+"filterByDateAndPriority" = "Bi dîrok û pîştrastî";
+"filter" = "Filter";
+"choose_filter_option" = "Hilbijartina filterê hilbijêre";
+"by_date_and_priority" = "Bi dîrok û pîştrastî";
+"by_priority_and_date" = "Bi pîştrastî û dîrok";
+"by_reminder" = "Bi bîrîndarî";
+"by_deadline" = "Bi demperçûk";
+"overdue_tasks" = "Karên destnîşan";
+"task_management" = "Rêveberiya karê";
+"create_edit_delete_tasks" = "Karê xwe biafirînin, biguherînin û jê bibin. Her kar dikare sernavêk, têgihîştina hûrgulî, asta pîştrastî û kategorîyek bê hûrgulî. Ev hemî agahiyên hewce li yek derî hene.";
+"categories" = "Kategorî";
+"organize_tasks" = "Karên xwe bi kategorî taybetî yên wekî 'Taybetî' û 'Kar' vîr ne veqayînin. Ev dikare we karên xwe bi rûniştina veqayînin û herî pirsgirêk ên wê hînkirin.";
+"prioritization" = "Pîştrastî";
+"assign_priorities" = "Pîştrastîyan ji bo karên xwe hilbijêrin da ku hûn bi karên herî girîng û pir hewce hûn. Pîştrastiyên bi reng kirinî dikarin hûn bikanîn ku armancên herî hewce li ser karê berbi nîşe.";
+"very_high_priority" = "Pir bilind (Sor): Cîhên girîng û kirîtîk, yên ku têgihiştiya niha hewce bikin.";
+"high_priority" = "Bilind (Pirtûq): Cîhên girîng, yên ku divê heta naze re were kirin.";
+"medium_priority" = "Navîn (Zêr): Cîhên ku girîngiya navîn hene, yên ku divê di dema rêz û saza navîn de were kirin.";
+"low_priority" = "Nizm (Kesk): Cîhên ku girîngiya nizm hene, yên ku divê di dema aştiyê de were kirin.";
+"very_low_priority" = "Pir nizm (Şîn): Cîhên ku girîngiya pir nizm hene, yên ku divê di dema temîya de were kirin.";
+"color_customization" = "Bixwiherîna rengî";
+"personalize_app" = "Hilbijêre bikarhêner bi avahiya rengan ser kategorîya xwe hilbijêre. Ev dikare temîrêkê bi rûniştina veqayînin û bi girtina bikarhênerê veqayînin.";
+"theme_selection" = "Hilbijartina mijar";
+"toggle_light_dark" = "Bi navbera ronahî û tarî ve hilbijêre da ku mijara xwe hilbijêre û bikarhênerê bi rûniştina veqayînin hilbijêre.";
+"search_function" = "Fonkîsyona lêgerînê";
+"find_tasks" = "Karê xwe bi lêgerînê bi hêza fêrbazî lêgerînin. Hûn dikarin bi jîyê binivîsin ku sernavêk an beşekî têgihîştin hilbijêre.";
+"detailed_views" = "Dîtinên hûrgulî";
+"view_task_details" = "Têgihîştina her karî bi dîtinên hûrgulî de hilbijêre ku hûn bi rûniştina hûrgulî ve hilbijêre.";
+"notifications" = "Agahiyên";
+"timely_notifications" = "Bikarhênerê agahî bibin ku pirsgirêkên girîng ne hilbijêre. Hûn dikarin bi navbera lêgerînê û demperçûkê bi karê berbi ve hilbijêre. Agahiyên bikarhênerê ne hilbijêre ku hûn bi rûniştina veqayînin hilbijêre.";
+"filters" = "Filter";
+"overview_filters" = "Pîştrastî bi hêza fêrbazî lêgerînin. Hûn dikarin bi navbera pîştrastî û karê berbi hilbijêre da ku hûn bi navbera hêz ê kêmtir yên ku pîştrastî nîşe hilbijêre.";
+"overdue_tasks" = "Karên destnîşan";
+
+"manageCategories" = "Kategorîyan biguherînin";
+"chooseTheme" = "Mijar hildin";
+"settings" = "Veavakirina";
+"language" = "Ziman";
+"chooseLanguage" = "Ziman hildin";
+
+"errorRequestingAuthorization" = "Xeta li ser lêpirsina otorizasyonê";
+"notificationAuthorizationGranted" = "Otorizasyona agahîkirina afirandin";
+"notificationAuthorizationDenied" = "Otorizasyona agahîkirina neyê afirandin";
+"notificationAuthorizationNotDetermined" = "Otorizasyona agahîkirina nebinavî";
+"notificationAuthorizationProvisional" = "Otorizasyona agahîkirina der barêşiyan";
+"notificationAuthorizationEphemeral" = "Otorizasyona agahîkirina demî";
+"notificationAuthorizationUnknown" = "Rewşa otorizasyonê ya nezanî";
+"reminderTitle" = "Bîrîndarî: %@";
+"deadlineTitle" = "Demperçûk: %@";
+"notificationBody" = "Pîştrastî: %@ - Kategorî: %@\nHûrgulî: %@";
+"errorSchedulingNotification" = "Xeta li ser afirandina agahîkirinê";
+"notificationScheduled" = "Agahîkirina afirandî ya %@ li ser %@ hilbijêre";
+
+"language" = "Ziman";
+"selectLanguage" = "Ziman hildin";
+
+/* InfoView */
+"manual_title" = "Rêbernameya Bikarhêner";
+"manual_intro_title" = "Destpêkirin";
+"manual_intro_text" = "Bi xêr hatin DoYourThings! \nEv sepana hatî çêkirin da ku alîkariyê te bike da ku karên rojane yên te bi awayekî çalak rêvebibînin. Hûn dikarin karan çêkin, kategorî bikin û pêşîyarîyan daynin, her weha agahdariyên saz bikin da ku hûn bibînin ka demeke nêzîk de deadline û bûyerên pêşeroj hene. Hemû daneyên – karan, kategoriyan û mîhengan – tenê li ser cîhazê we têne tomar kirin û ne têne şandin bo cloud.";
+"manual_categories_title" = "Kategorî";
+"manual_categories_text" = "Dema sepana tê vekirin, kategoriyên xwerû wek 'Taybet' û 'Xebat' têne nîşandan. Hûn dikarin van bikar bînin an jî kategoriyên xwe çêkin da ku karên xwe bi awayekî taybet rêvebibînin. Her kategoriyek dikare bi rengê taybet were tayîn kirin, ev jî hûn alîkar dike ku bi dîtina yekîtiyê karan bibînin. Hûn hêvî dikarin kategoriyan biguherînin (nav û reng guhêrin) an jî bêyî hewceyî jê bikin.";
+"manual_tasks_title" = "Karan";
+"manual_tasks_text" = "Bi DoYourThings hûn dikarin bi asanî karan çêkin, biguherînin û jê bikin. Dema ku hûn karek çêkin, sernav, şiroveya detaydar û asta pêşîyarîyê tê dayîn da ku hûn girîngiya wê were pêşniyar kirin. Her weha hûn dikarin demên cuda ji bo bîranîn û deadline saz bikin. Ji kerema xwe, piştrast bikin ku dema hûn danin li pêşeroj be, heke ne, hich agahdariya nexweş nayê çalak kirin.";
+"manual_notifications_title" = "Agahdariyên";
+"manual_notifications_text" = "Sepan bi awayekî otomatîk agahdariyên ji bo bîranîn û deadline li ser demên ku hûn tê deynin rêz dike. Hûn pêdivî ye ku zeviyên roj û demê yên li hev re tije bikin da ku agahdariyên we were stendin. Heke demên ne derbasdar an jî ji ber demê bûn were dayîn, hich agahdariya nexweş nayê çalak kirin. Bi tiktina ser agahdariyê, dîtina detaydar ya karê girîng were vekirin, da ku hûn bi lez çalak bînin.";
+"manual_settings_title" = "Mîheng";
+"manual_settings_text" = "Di mîhengan de hûn dikarin şêwaza sepana xwe saz bikin. Hûn dikarin di navbera moda ronahî û tarî de hilbijêrin û rengê ikonên xwe bi xwestinê xwe saz bikin. Her weha, hûn dikarin kategoriyên xwe rêkeftin – kategoriyên nû çêkin, yên heyî biguherînin an jî jê bikin – da ku sepana xwe bi awayekî xweser saz bikin.";
+"manual_local_storage_title" = "Tomarê Herêmî";
+"manual_local_storage_text" = "Hemû karan, kategoriyan û mîhengan tenê li ser cîhazê we têne tomar kirin, ev jî piştrast dike ku daneyên we, heke sepana were vegerandin, hêj çalak in. Ev hûnê destûr dide ku serbest kontrolê li ser agahdariyên xwe hebin.";
+"manual_version_title" = "Wersiyon";
+"manual_navigation_title" = "Agahdarî";
+"back" = "Vegeri";
+"info" = "Agahdarî";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

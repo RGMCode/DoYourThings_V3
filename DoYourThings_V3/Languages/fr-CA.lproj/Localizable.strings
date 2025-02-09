@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Choisir le thème";
+"theme" = "Thème";
+"light" = "Clair";
+"dark" = "Sombre";
+"chooseIconColor" = "Choisir une couleur d'icône :";
+"themeChoice" = "Choix de thème";
+"veryHighDescription" = "Très haut = Rouge\nTâches urgentes et critiques nécessitant une attention immédiate.";
+"highDescription" = "Haut = Orange\nTâches importantes nécessitant une attention rapide, mais pas aussi urgentes que 'Très haut'.";
+"mediumDescription" = "Moyen = Jaune\nTâches d'importance modérée à compléter dans un délai raisonnable.";
+"lowDescription" = "Bas = Vert\nTâches moins importantes à réaliser lorsque le temps est disponible.";
+"veryLowDescription" = "Très bas = Bleu\nTâches de faible importance à réaliser à loisir.";
+"categoryName" = "Nom de catégorie";
+"categoryColor" = "Couleur de catégorie";
+"addCategory" = "Ajouter une catégorie";
+"editCategory" = "Modifier la catégorie";
+"name" = "Nom";
+"color" = "Couleur";
+"save" = "Enregistrer";
+"delete" = "Supprimer";
+"deleteCategory" = "Supprimer la catégorie";
+"deleteCategoryConfirmation" = "Êtes-vous sûr de vouloir supprimer la catégorie %@?";
+"manageCategories" = "Gérer les catégories";
+"searchPlaceholder" = "Recherche...";
+"date" = "Date";
+"time" = "Heure";
+"category" = "Catégorie";
+"priority" = "Priorité";
+"reminder" = "Rappel";
+"deadline" = "Échéance";
+"title" = "Titre";
+"edit" = "Modifier";
+"exampleTitle" = "Titre d'exemple";
+"exampleDetailText" = "Texte de détail d'exemple";
+"medium" = "Moyen";
+"privateCategory" = "Privé";
+"detail" = "Détail";
+"addTask" = "Ajouter une tâche";
+"newTask" = "Nouvelle tâche";
+"chooseDate" = "Choisir la date";
+"continue" = "Continuer";
+"done" = "Terminé";
+"cancel" = "Annuler";
+"settings" = "Paramètres";
+"deleteTaskTitle" = "Supprimer la tâche";
+"deleteTaskMessage" = "Êtes-vous sûr de vouloir supprimer cette tâche?";
+"deleteButton" = "Supprimer";
+"veryHigh" = "Très haut";
+"high" = "Haut";
+"low" = "Bas";
+"veryLow" = "Très bas";
+"workCategory" = "Travail";
+"selectedCategoryPrivate" = "Privé";
+"filterByDateAndPriority" = "Par date et priorité";
+"filter" = "Filtrer";
+"choose_filter_option" = "Choisissez une option de filtre";
+"by_date_and_priority" = "Par date et priorité";
+"by_priority_and_date" = "Par priorité et date";
+"by_reminder" = "Par rappel";
+"by_deadline" = "Par échéance";
+"overdue_tasks" = "Tâches en retard";
+"task_management" = "Gestion des tâches";
+"create_edit_delete_tasks" = "Créez, modifiez et supprimez des tâches facilement. Chaque tâche peut avoir un titre, une description détaillée, un niveau de priorité et une catégorie pour vous assurer d'avoir toutes les informations nécessaires en un seul endroit.";
+"categories" = "Catégories";
+"organize_tasks" = "Organisez vos tâches dans des catégories personnalisées telles que 'Privé' et 'Travail'. Cela vous permet de structurer clairement vos tâches et d'accéder rapidement aux plus importantes.";
+"prioritization" = "Priorisation";
+"assign_priorities" = "Attribuez des priorités à vos tâches pour vous assurer de vous concentrer sur les tâches les plus importantes et urgentes. Les priorités codées par couleur vous aident à voir l'urgence de chaque tâche en un coup d'œil :";
+"very_high_priority" = "Très haut (Rouge) : Tâches urgentes et critiques nécessitant une attention immédiate.";
+"high_priority" = "Haut (Orange) : Tâches importantes nécessitant une attention rapide.";
+"medium_priority" = "Moyen (Jaune) : Tâches d'importance modérée à compléter dans un délai raisonnable.";
+"low_priority" = "Bas (Vert) : Tâches moins importantes à réaliser lorsque le temps est disponible.";
+"very_low_priority" = "Très bas (Bleu) : Tâches de faible importance à réaliser à loisir.";
+"color_customization" = "Personnalisation des couleurs";
+"personalize_app" = "Personnalisez l'application en ajustant les couleurs de vos catégories. Cela permet une expérience utilisateur visuellement attrayante et adaptée individuellement.";
+"theme_selection" = "Sélection de thème";
+"toggle_light_dark" = "Passez du mode clair au mode sombre selon vos préférences et assurez une expérience utilisateur agréable dans différentes conditions de luminosité.";
+"search_function" = "Fonction de recherche";
+"find_tasks" = "Trouvez rapidement et facilement toute tâche à l'aide de la puissante fonction de recherche. Entrez simplement le titre ou une partie de la description pour afficher les tâches souhaitées.";
+"detailed_views" = "Vues détaillées";
+"view_task_details" = "Affichez les détails de chaque tâche dans une vue distincte pour vous assurer d'avoir toutes les informations nécessaires à portée de main.";
+"notifications" = "Notifications";
+"timely_notifications" = "Recevez des notifications en temps opportun pour ne pas manquer des tâches importantes. Vous pouvez définir des rappels et des échéances pour chaque tâche afin d'être toujours informé des tâches à venir. Les notifications sont conçues pour vous aider à gérer vos tâches efficacement et garantir que rien n'est négligé.";
+"filters" = "Filtres";
+"overview_filters" = "Gardez une trace de vos tâches grâce à de puissantes options de filtrage. Triez vos tâches selon différents critères pour trouver rapidement les plus pertinentes :";
+"overdue_tasks" = "Tâches en retard";
+
+"language" = "Langue";
+"selectLanguage" = "Choisir la langue";
+
+"manageCategories" = "Gérer les catégories";
+"chooseTheme" = "Choisir le thème";
+"settings" = "Paramètres";
+"language" = "Langue";
+"chooseLanguage" = "Choisir la langue";
+
+"errorRequestingAuthorization" = "Erreur lors de la demande d'autorisation";
+"notificationAuthorizationGranted" = "Autorisation de notification accordée";
+"notificationAuthorizationDenied" = "Autorisation de notification refusée";
+"notificationAuthorizationNotDetermined" = "Autorisation de notification non déterminée";
+"notificationAuthorizationProvisional" = "Autorisation de notification provisoire";
+"notificationAuthorizationEphemeral" = "Autorisation de notification éphémère";
+"notificationAuthorizationUnknown" = "Statut d'autorisation de notification inconnu";
+"reminderTitle" = "Rappel: %@";
+"deadlineTitle" = "Date limite: %@";
+"notificationBody" = "Priorité: %@ - Catégorie: %@\nDétails: %@";
+"errorSchedulingNotification" = "Erreur lors de la planification de la notification";
+"notificationScheduled" = "Notification prévue pour le %@ à %@";
+
+"language" = "Langue";
+"selectLanguage" = "Choisir la langue";
+
+/* InfoView */
+"manual_title" = "Manuel d'utilisation";
+"manual_intro_title" = "Introduction";
+"manual_intro_text" = "Bienvenue sur DoYourThings ! \nCette application est conçue pour vous aider à gérer efficacement vos tâches quotidiennes. Vous pouvez créer, catégoriser et prioriser vos tâches, ainsi que configurer des notifications pour vous rappeler les échéances et les événements à venir. Toutes les données – tâches, catégories et paramètres – sont stockées localement sur votre appareil et ne sont pas transmises dans le cloud.";
+"manual_categories_title" = "Catégories";
+"manual_categories_text" = "Au démarrage, des catégories par défaut telles que 'Privé' et 'Travail' sont affichées. Vous pouvez utiliser ces catégories ou créer les vôtres pour organiser vos tâches. Chaque catégorie peut se voir attribuer une couleur unique, ce qui vous permet de différencier visuellement les tâches d'un coup d'œil. Vous avez également la possibilité de modifier (changer le nom et la couleur) ou de supprimer une catégorie lorsqu'elle n'est plus nécessaire.";
+"manual_tasks_title" = "Tâches";
+"manual_tasks_text" = "Avec DoYourThings, vous pouvez facilement créer, modifier et supprimer des tâches. Lors de la création d'une tâche, vous fournissez un titre, une description détaillée et un niveau de priorité pour vous aider à en évaluer l'importance. De plus, vous pouvez définir des horaires distincts pour les rappels et les échéances. Veuillez vous assurer que les horaires indiqués sont futurs, sinon aucune notification ne sera déclenchée.";
+"manual_notifications_title" = "Notifications";
+"manual_notifications_text" = "L'application planifie automatiquement les notifications pour les rappels et les échéances en fonction des horaires que vous entrez. Vous devez remplir les champs de date et d'heure appropriés pour recevoir des notifications. Si des horaires invalides ou passés sont saisis, aucune notification ne sera déclenchée. En appuyant sur une notification, la vue détaillée de la tâche correspondante s'ouvrira, vous permettant de réagir rapidement.";
+"manual_settings_title" = "Paramètres";
+"manual_settings_text" = "Dans les paramètres, vous pouvez personnaliser l'apparence de l'application. Vous pouvez choisir entre le mode clair et le mode sombre et définir la couleur des icônes selon vos préférences. De plus, vous pouvez gérer vos catégories en créant, modifiant ou supprimant celles existantes, afin d'adapter l'application à vos besoins personnels.";
+"manual_local_storage_title" = "Stockage local";
+"manual_local_storage_text" = "Toutes les tâches, catégories et paramètres sont stockées localement sur votre appareil, garantissant que vos données restent disponibles même après un redémarrage de l'application. Cela vous donne un contrôle total sur vos informations.";
+"manual_version_title" = "Version";
+"manual_navigation_title" = "Informations";
+"back" = "Retour";
+"info" = "Informations";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

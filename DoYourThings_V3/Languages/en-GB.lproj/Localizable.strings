@@ -1,0 +1,137 @@
+/*
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Choose Theme";
+"theme" = "Theme";
+"light" = "Light";
+"dark" = "Dark";
+"chooseIconColor" = "Choose an Icon Colour:";
+"themeChoice" = "Theme Choice";
+"veryHighDescription" = "Very High = Red\nUrgent and critical tasks that require immediate attention.";
+"highDescription" = "High = Orange\nImportant tasks that need to be done promptly, but not as urgent as 'Very High'.";
+"mediumDescription" = "Medium = Yellow\nTasks of moderate importance that should be completed within a reasonable timeframe.";
+"lowDescription" = "Low = Green\nLess important tasks that should be done when time is available.";
+"veryLowDescription" = "Very Low = Blue\nTasks of low importance that can be done at leisure.";
+"categoryName" = "Category Name";
+"categoryColor" = "Category Colour";
+"addCategory" = "Add Category";
+"editCategory" = "Edit Category";
+"name" = "Name";
+"color" = "Colour";
+"save" = "Save";
+"delete" = "Delete";
+"deleteCategory" = "Delete Category";
+"deleteCategoryConfirmation" = "Are you sure you want to delete the category %@?";
+"manageCategories" = "Manage Categories";
+"searchPlaceholder" = "Search...";
+"date" = "Date";
+"time" = "Time";
+"category" = "Category";
+"priority" = "Priority";
+"reminder" = "Reminder";
+"deadline" = "Deadline";
+"title" = "Title";
+"edit" = "Edit";
+"exampleTitle" = "Example Title";
+"exampleDetailText" = "Example Detail Text";
+"medium" = "Medium";
+"privateCategory" = "Private";
+"detail" = "Detail";
+"addTask" = "Add Task";
+"newTask" = "New Task";
+"chooseDate" = "Choose Date";
+"continue" = "Continue";
+"done" = "Done";
+"cancel" = "Cancel";
+"settings" = "Settings";
+"deleteTaskTitle" = "Delete Task";
+"deleteTaskMessage" = "Are you sure you want to delete this task?";
+"deleteButton" = "Delete";
+"veryHigh" = "Very High";
+"high" = "High";
+"low" = "Low";
+"veryLow" = "Very Low";
+"workCategory" = "Work";
+"selectedCategoryPrivate" = "Private";
+"filterByDateAndPriority" = "By Date and Priority";
+"filter" = "Filter";
+"choose_filter_option" = "Choose a filter option";
+"by_date_and_priority" = "By Date and Priority";
+"by_priority_and_date" = "By Priority and Date";
+"by_reminder" = "By Reminder";
+"by_deadline" = "By Deadline";
+"overdue_tasks" = "Overdue Tasks";
+"task_management" = "Task Management";
+"create_edit_delete_tasks" = "Create, edit, and delete tasks with ease. Each task can have a title, a detailed description, a priority level, and a category to ensure you have all the necessary information in one place.";
+"categories" = "Categories";
+"organize_tasks" = "Organise your tasks into custom categories like 'Private' and 'Work'. This allows you to clearly structure your tasks and quickly access the most important ones.";
+"prioritization" = "Prioritisation";
+"assign_priorities" = "Assign priorities to your tasks to ensure you focus on the most important and urgent tasks. The colour-coded priorities help you see the urgency of each task at a glance:";
+"very_high_priority" = "Very High (Red): Urgent and critical tasks that require immediate attention.";
+"high_priority" = "High (Orange): Important tasks that need to be completed promptly.";
+"medium_priority" = "Medium (Yellow): Moderately important tasks that should be completed within a moderate timeframe.";
+"low_priority" = "Low (Green): Less important tasks that should be completed when time is available.";
+"very_low_priority" = "Very Low (Blue): Tasks of low importance that can be completed at your convenience.";
+"color_customization" = "Colour Customisation";
+"personalize_app" = "Personalise the app by adjusting the colours of your categories. This allows for a visually appealing and individually tailored user experience.";
+"theme_selection" = "Theme Selection";
+"toggle_light_dark" = "Switch between Light and Dark mode to suit your preferences and ensure a pleasant user experience in different lighting conditions.";
+"search_function" = "Search Function";
+"find_tasks" = "Quickly and easily find any task using the powerful search function. Just enter the title or part of the description to display the desired tasks.";
+"detailed_views" = "Detailed Views";
+"view_task_details" = "View the details of each task in a separate view to ensure you have all the necessary information at hand.";
+"notifications" = "Notifications";
+"timely_notifications" = "Receive timely notifications to avoid missing important tasks. You can set reminders and deadlines for each task to ensure you are always reminded of upcoming tasks. The notifications are designed to help you manage your tasks efficiently and ensure that nothing is overlooked.";
+"filters" = "Filters";
+"overview_filters" = "Keep track of your tasks with powerful filter options. Sort your tasks by different criteria to quickly find the most relevant ones:";
+"overdue_tasks" = "Overdue Tasks";
+
+"language" = "Language";
+"selectLanguage" = "Select Language";
+
+"manageCategories" = "Manage Categories";
+"chooseTheme" = "Choose Theme";
+"settings" = "Settings";
+"language" = "Language";
+"chooseLanguage" = "Choose Language";
+
+"errorRequestingAuthorization" = "Error requesting authorization";
+"notificationAuthorizationGranted" = "Notification authorization granted";
+"notificationAuthorizationDenied" = "Notification authorization denied";
+"notificationAuthorizationNotDetermined" = "Notification authorization not determined";
+"notificationAuthorizationProvisional" = "Notification authorization provisional";
+"notificationAuthorizationEphemeral" = "Notification authorization ephemeral";
+"notificationAuthorizationUnknown" = "Unknown notification authorization status";
+"reminderTitle" = "Reminder: %@";
+"deadlineTitle" = "Deadline: %@";
+"notificationBody" = "Priority: %@ - Category: %@\nDetails: %@";
+"errorSchedulingNotification" = "Error scheduling notification";
+"notificationScheduled" = "Notification scheduled for %@ at %@";
+
+"language" = "Language";
+"selectLanguage" = "Select Language";
+
+/* InfoView */
+"manual_title" = "User Manual";
+"manual_intro_title" = "Introduction";
+"manual_intro_text" = "Welcome to DoYourThings! \nThis app is designed to help you efficiently manage your daily tasks. You can create, categorize, and prioritize tasks as well as set up notifications to remind you of upcoming deadlines and events. All data – tasks, categories, and settings – is stored locally on your device and is not transmitted to the cloud.";
+"manual_categories_title" = "Categories";
+"manual_categories_text" = "Upon launch, default categories such as 'Private' and 'Work' are displayed. You can use these or create your own categories to organize your tasks. Each category can be assigned a unique color, allowing you to visually differentiate tasks at a glance. You also have the ability to edit (change name and color) or delete categories when they are no longer needed.";
+"manual_tasks_title" = "Tasks";
+"manual_tasks_text" = "With DoYourThings, you can easily create, edit, and delete tasks. When creating a task, you provide a title, detailed description, and a priority level to help you assess its importance. Additionally, you can set separate reminder and deadline times. Please ensure that the times you set are in the future, otherwise no notification will be triggered.";
+"manual_notifications_title" = "Notifications";
+"manual_notifications_text" = "The app automatically schedules notifications for reminders and deadlines based on the times you enter. You must fill in the appropriate date and time fields to receive notifications. If invalid or past times are entered, no notification will be triggered. Tapping on a notification will open the corresponding task’s detail view, allowing you to quickly respond to pending tasks.";
+"manual_settings_title" = "Settings";
+"manual_settings_text" = "In the settings, you can customize the appearance of the app. You can choose between Light and Dark mode and set the icon color to your preference. Additionally, you can manage your categories by creating, editing, or deleting them, tailoring the app to your personal needs.";
+"manual_local_storage_title" = "Local Storage";
+"manual_local_storage_text" = "All tasks, categories, and settings are stored locally on your device, ensuring that your data remains available even after restarting the app. This gives you full control over your information.";
+"manual_version_title" = "Version";
+"manual_navigation_title" = "Information";
+"back" = "Back";
+"info" = "Information";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

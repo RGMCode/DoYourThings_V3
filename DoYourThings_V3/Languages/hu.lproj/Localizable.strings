@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Téma választása";
+"theme" = "Téma";
+"light" = "Világos";
+"dark" = "Sötét";
+"chooseIconColor" = "Válasszon egy ikon színt:";
+"themeChoice" = "Téma választása";
+"veryHighDescription" = "Nagyon magas = Piros\nSürgős és kritikus feladatok, amelyek azonnali figyelmet igényelnek.";
+"highDescription" = "Magas = Narancs\nFontos feladatok, amelyeket gyorsan el kell végezni, de nem olyan sürgősek, mint a 'Nagyon magas'.";
+"mediumDescription" = "Közepes = Sárga\nKözepes fontosságú feladatok, amelyeket ésszerű időkereten belül kell elvégezni.";
+"lowDescription" = "Alacsony = Zöld\nKevésbé fontos feladatok, amelyeket akkor kell elvégezni, amikor idő áll rendelkezésre.";
+"veryLowDescription" = "Nagyon alacsony = Kék\nKevésbé fontos feladatok, amelyeket szabadidőben lehet elvégezni.";
+"categoryName" = "Kategória neve";
+"categoryColor" = "Kategória színe";
+"addCategory" = "Kategória hozzáadása";
+"editCategory" = "Kategória szerkesztése";
+"name" = "Név";
+"color" = "Szín";
+"save" = "Mentés";
+"delete" = "Törlés";
+"deleteCategory" = "Kategória törlése";
+"deleteCategoryConfirmation" = "Biztosan törölni szeretné a(z) %@ kategóriát?";
+"manageCategories" = "Kategóriák kezelése";
+"searchPlaceholder" = "Keresés...";
+"date" = "Dátum";
+"time" = "Idő";
+"category" = "Kategória";
+"priority" = "Prioritás";
+"reminder" = "Emlékeztető";
+"deadline" = "Határidő";
+"title" = "Cím";
+"edit" = "Szerkesztés";
+"exampleTitle" = "Példa cím";
+"exampleDetailText" = "Példa részletező szöveg";
+"medium" = "Közepes";
+"privateCategory" = "Privát";
+"detail" = "Részlet";
+"addTask" = "Feladat hozzáadása";
+"newTask" = "Új feladat";
+"chooseDate" = "Dátum választása";
+"continue" = "Folytatás";
+"done" = "Kész";
+"cancel" = "Mégse";
+"settings" = "Beállítások";
+"deleteTaskTitle" = "Feladat törlése";
+"deleteTaskMessage" = "Biztosan törölni szeretné ezt a feladatot?";
+"deleteButton" = "Törlés";
+"veryHigh" = "Nagyon magas";
+"high" = "Magas";
+"low" = "Alacsony";
+"veryLow" = "Nagyon alacsony";
+"workCategory" = "Munka";
+"selectedCategoryPrivate" = "Privát";
+"filterByDateAndPriority" = "Dátum és prioritás szerint";
+"filter" = "Szűrő";
+"choose_filter_option" = "Válasszon szűrő opciót";
+"by_date_and_priority" = "Dátum és prioritás szerint";
+"by_priority_and_date" = "Prioritás és dátum szerint";
+"by_reminder" = "Emlékeztető szerint";
+"by_deadline" = "Határidő szerint";
+"overdue_tasks" = "Lejárt feladatok";
+"task_management" = "Feladatkezelés";
+"create_edit_delete_tasks" = "Feladatokat hozhat létre, szerkeszthet és törölhet könnyedén. Minden feladatnak lehet címe, részletes leírása, prioritási szintje és kategóriája, hogy minden szükséges információ egy helyen legyen.";
+"categories" = "Kategóriák";
+"organize_tasks" = "Rendezze feladatait egyéni kategóriákba, mint például 'Privát' és 'Munka'. Ez lehetővé teszi, hogy világosan strukturálja feladatait és gyorsan hozzáférjen a legfontosabbakhoz.";
+"prioritization" = "Prioritás";
+"assign_priorities" = "Rendeljen prioritásokat feladataihoz, hogy a legfontosabb és legsürgetőbb feladatokra összpontosíthasson. A színkódolt prioritások segítenek egy pillantással megállapítani minden feladat sürgősségét:";
+"very_high_priority" = "Nagyon magas (Piros): Sürgős és kritikus feladatok, amelyek azonnali figyelmet igényelnek.";
+"high_priority" = "Magas (Narancs): Fontos feladatok, amelyeket gyorsan el kell végezni.";
+"medium_priority" = "Közepes (Sárga): Közepes fontosságú feladatok, amelyeket ésszerű időkereten belül kell elvégezni.";
+"low_priority" = "Alacsony (Zöld): Kevésbé fontos feladatok, amelyeket akkor kell elvégezni, amikor idő áll rendelkezésre.";
+"very_low_priority" = "Nagyon alacsony (Kék): Kevésbé fontos feladatok, amelyeket szabadidőben lehet elvégezni.";
+"color_customization" = "Szín testreszabása";
+"personalize_app" = "Testreszabhatja az alkalmazást a kategóriák színeinek beállításával. Ez lehetővé teszi egy vizuálisan vonzó és egyénileg testreszabott felhasználói élmény kialakítását.";
+"theme_selection" = "Téma választása";
+"toggle_light_dark" = "Váltson a Világos és Sötét mód között, hogy az alkalmazást a preferenciáihoz igazítsa és kellemes felhasználói élményt biztosítson különböző fényviszonyok mellett.";
+"search_function" = "Keresési funkció";
+"find_tasks" = "Gyorsan és egyszerűen találhat bármilyen feladatot az erőteljes keresési funkcióval. Csak írja be a címet vagy a leírás egy részét, hogy megjelenjenek a kívánt feladatok.";
+"detailed_views" = "Részletes nézetek";
+"view_task_details" = "Minden feladat részleteit külön nézetben tekintheti meg, hogy minden szükséges információ kéznél legyen.";
+"notifications" = "Értesítések";
+"timely_notifications" = "Időben értesítéseket kap, hogy ne maradjon le fontos feladatokról. Beállíthat emlékeztetőket és határidőket minden feladathoz, hogy mindig emlékezzen a közelgő feladatokra. Az értesítések célja, hogy segítsenek hatékonyan kezelni a feladatait és biztosítsák, hogy semmi ne maradjon ki.";
+"filters" = "Szűrők";
+"overview_filters" = "Kövesse nyomon feladatait az erőteljes szűrő opciókkal. Rendezze feladatait különböző kritériumok szerint, hogy gyorsan megtalálja a legrelevánsabbakat:";
+"overdue_tasks" = "Lejárt feladatok";
+
+"language" = "Nyelv";
+"selectLanguage" = "Nyelv kiválasztása";
+
+"manageCategories" = "Kategóriák kezelése";
+"chooseTheme" = "Téma kiválasztása";
+"settings" = "Beállítások";
+"language" = "Nyelv";
+"chooseLanguage" = "Nyelv kiválasztása";
+
+"errorRequestingAuthorization" = "Hiba történt az engedély kérésekor";
+"notificationAuthorizationGranted" = "Értesítési engedély megadva";
+"notificationAuthorizationDenied" = "Értesítési engedély megtagadva";
+"notificationAuthorizationNotDetermined" = "Értesítési engedély nincs meghatározva";
+"notificationAuthorizationProvisional" = "Ideiglenes értesítési engedély";
+"notificationAuthorizationEphemeral" = "Átmeneti értesítési engedély";
+"notificationAuthorizationUnknown" = "Ismeretlen értesítési engedély státusz";
+"reminderTitle" = "Emlékeztető: %@";
+"deadlineTitle" = "Határidő: %@";
+"notificationBody" = "Prioritás: %@ - Kategória: %@\nRészletek: %@";
+"errorSchedulingNotification" = "Hiba történt az értesítés ütemezésekor";
+"notificationScheduled" = "Értesítés ütemezve: %@ %@-kor";
+
+"language" = "Nyelv";
+"selectLanguage" = "Nyelv kiválasztása";
+
+/* InfoView */
+"manual_title" = "Felhasználói kézikönyv";
+"manual_intro_title" = "Bevezetés";
+"manual_intro_text" = "Üdvözlünk a DoYourThings-ben! \nEz az alkalmazás azért készült, hogy hatékonyan segítse a napi feladataid kezelését. Létrehozhatsz, kategorizálhatsz és priorizálhatsz feladatokat, valamint beállíthatsz értesítéseket, amelyek emlékeztetnek a közelgő határidőkre és eseményekre. Minden adat – feladatok, kategóriák és beállítások – a készülékeden van tárolva, és nem kerülnek átvitelre a felhőbe.";
+"manual_categories_title" = "Kategóriák";
+"manual_categories_text" = "Indításkor alapértelmezett kategóriák jelennek meg, mint például a 'Privát' és a 'Munka'. Használhatod ezeket, vagy létrehozhatod a saját kategóriáidat a feladataid rendszerezéséhez. Minden kategóriához egyedi színt rendelhetsz, így egy pillantásra vizuálisan megkülönböztetheted a feladatokat. Emellett lehetőséged van a kategóriák szerkesztésére (név és szín megváltoztatása) vagy törlésére, ha már nincs rájuk szükség.";
+"manual_tasks_title" = "Feladatok";
+"manual_tasks_text" = "A DoYourThings segítségével könnyedén létrehozhatsz, szerkeszthetsz és törölhetsz feladatokat. Feladat létrehozásakor megadod a címet, részletes leírást és egy prioritási szintet, ami segít felmérni a feladat fontosságát. Ezenkívül beállíthatsz külön emlékeztető és határidő időpontokat. Kérjük, győződj meg arról, hogy a beállított idők a jövőben vannak, különben nem aktiválódik értesítés.";
+"manual_notifications_title" = "Értesítések";
+"manual_notifications_text" = "Az alkalmazás automatikusan ütemezi az értesítéseket az általad megadott időpontok alapján, emlékeztetők és határidők számára. Az értesítések fogadásához ki kell töltened a megfelelő dátum- és időmezőket. Ha érvénytelen vagy múltbeli időpontokat adsz meg, nem aktiválódik értesítés.";
+"manual_settings_title" = "Beállítások";
+"manual_settings_text" = "A beállításokban testre szabhatod az alkalmazás megjelenését. Választhatsz világos vagy sötét mód között, és beállíthatod az ikonok színét az igényeid szerint. Emellett kezelheted a kategóriáidat, új kategóriákat hozhatsz létre, szerkeszthetsz vagy törölhetsz, hogy az alkalmazás megfeleljen a személyes szükségleteidnek.";
+"manual_local_storage_title" = "Helyi tárolás";
+"manual_local_storage_text" = "Minden feladat, kategória és beállítás a készülékeden van tárolva, biztosítva, hogy az adataid elérhetők maradjanak még az alkalmazás újraindítása után is. Ez teljes ellenőrzést biztosít az információid felett.";
+"manual_version_title" = "Verzió";
+"manual_navigation_title" = "Információ";
+"back" = "Vissza";
+"info" = "Információ";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

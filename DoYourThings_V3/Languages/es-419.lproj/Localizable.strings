@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Elegir tema";
+"theme" = "Tema";
+"light" = "Claro";
+"dark" = "Oscuro";
+"chooseIconColor" = "Elegir un color de ícono:";
+"themeChoice" = "Elección de tema";
+"veryHighDescription" = "Muy alta = Rojo\nTareas urgentes y críticas que requieren atención inmediata.";
+"highDescription" = "Alta = Naranja\nTareas importantes que deben hacerse con prontitud, pero no tan urgentes como 'Muy alta'.";
+"mediumDescription" = "Media = Amarillo\nTareas de importancia moderada que deben completarse dentro de un plazo razonable.";
+"lowDescription" = "Baja = Verde\nTareas menos importantes que deben hacerse cuando haya tiempo disponible.";
+"veryLowDescription" = "Muy baja = Azul\nTareas de baja importancia que se pueden hacer en el tiempo libre.";
+"categoryName" = "Nombre de la categoría";
+"categoryColor" = "Color de la categoría";
+"addCategory" = "Agregar categoría";
+"editCategory" = "Editar categoría";
+"name" = "Nombre";
+"color" = "Color";
+"save" = "Guardar";
+"delete" = "Eliminar";
+"deleteCategory" = "Eliminar categoría";
+"deleteCategoryConfirmation" = "¿Estás seguro de que deseas eliminar la categoría %@?";
+"manageCategories" = "Gestionar categorías";
+"searchPlaceholder" = "Buscar...";
+"date" = "Fecha";
+"time" = "Hora";
+"category" = "Categoría";
+"priority" = "Prioridad";
+"reminder" = "Recordatorio";
+"deadline" = "Fecha límite";
+"title" = "Título";
+"edit" = "Editar";
+"exampleTitle" = "Título de ejemplo";
+"exampleDetailText" = "Texto de detalle de ejemplo";
+"medium" = "Media";
+"privateCategory" = "Privada";
+"detail" = "Detalle";
+"addTask" = "Agregar tarea";
+"newTask" = "Nueva tarea";
+"chooseDate" = "Elegir fecha";
+"continue" = "Continuar";
+"done" = "Hecho";
+"cancel" = "Cancelar";
+"settings" = "Configuración";
+"deleteTaskTitle" = "Eliminar tarea";
+"deleteTaskMessage" = "¿Estás seguro de que deseas eliminar esta tarea?";
+"deleteButton" = "Eliminar";
+"veryHigh" = "Muy alta";
+"high" = "Alta";
+"low" = "Baja";
+"veryLow" = "Muy baja";
+"workCategory" = "Trabajo";
+"selectedCategoryPrivate" = "Privada";
+"filterByDateAndPriority" = "Por fecha y prioridad";
+"filter" = "Filtro";
+"choose_filter_option" = "Elegir una opción de filtro";
+"by_date_and_priority" = "Por fecha y prioridad";
+"by_priority_and_date" = "Por prioridad y fecha";
+"by_reminder" = "Por recordatorio";
+"by_deadline" = "Por fecha límite";
+"overdue_tasks" = "Tareas vencidas";
+"task_management" = "Gestión de tareas";
+"create_edit_delete_tasks" = "Crea, edita y elimina tareas con facilidad. Cada tarea puede tener un título, una descripción detallada, un nivel de prioridad y una categoría para asegurarte de tener toda la información necesaria en un solo lugar.";
+"categories" = "Categorías";
+"organize_tasks" = "Organiza tus tareas en categorías personalizadas como 'Privada' y 'Trabajo'. Esto te permite estructurar claramente tus tareas y acceder rápidamente a las más importantes.";
+"prioritization" = "Priorización";
+"assign_priorities" = "Asigna prioridades a tus tareas para asegurarte de centrarte en las tareas más importantes y urgentes. Las prioridades codificadas por colores te ayudan a ver la urgencia de cada tarea de un vistazo:";
+"very_high_priority" = "Muy alta (Rojo): Tareas urgentes y críticas que requieren atención inmediata.";
+"high_priority" = "Alta (Naranja): Tareas importantes que deben completarse con prontitud.";
+"medium_priority" = "Media (Amarillo): Tareas de importancia moderada que deben completarse dentro de un plazo moderado.";
+"low_priority" = "Baja (Verde): Tareas menos importantes que deben completarse cuando haya tiempo disponible.";
+"very_low_priority" = "Muy baja (Azul): Tareas de baja importancia que se pueden completar en tu tiempo libre.";
+"color_customization" = "Personalización de colores";
+"personalize_app" = "Personaliza la aplicación ajustando los colores de tus categorías. Esto permite una experiencia de usuario visualmente atractiva y adaptada a ti.";
+"theme_selection" = "Selección de tema";
+"toggle_light_dark" = "Cambia entre el modo Claro y Oscuro para adaptarlo a tus preferencias y asegurar una experiencia de usuario agradable en diferentes condiciones de luz.";
+"search_function" = "Función de búsqueda";
+"find_tasks" = "Encuentra rápida y fácilmente cualquier tarea utilizando la poderosa función de búsqueda. Simplemente ingresa el título o parte de la descripción para mostrar las tareas deseadas.";
+"detailed_views" = "Vistas detalladas";
+"view_task_details" = "Ver los detalles de cada tarea en una vista separada para asegurarte de tener toda la información necesaria a mano.";
+"notifications" = "Notificaciones";
+"timely_notifications" = "Recibe notificaciones oportunas para no perderte tareas importantes. Puedes establecer recordatorios y fechas límite para cada tarea para asegurarte de que siempre te recuerden las tareas próximas. Las notificaciones están diseñadas para ayudarte a gestionar tus tareas de manera eficiente y asegurarte de que no se pase nada por alto.";
+"filters" = "Filtros";
+"overview_filters" = "Mantén un seguimiento de tus tareas con opciones de filtro poderosas. Ordena tus tareas por diferentes criterios para encontrar rápidamente las más relevantes:";
+"overdue_tasks" = "Tareas vencidas";
+
+"language" = "Idioma";
+"selectLanguage" = "Seleccionar idioma";
+
+"manageCategories" = "Gestionar Categorías";
+"chooseTheme" = "Elegir Tema";
+"settings" = "Configuraciones";
+"language" = "Idioma";
+"chooseLanguage" = "Elegir Idioma";
+
+"errorRequestingAuthorization" = "Error al solicitar autorización";
+"notificationAuthorizationGranted" = "Autorización de notificación concedida";
+"notificationAuthorizationDenied" = "Autorización de notificación denegada";
+"notificationAuthorizationNotDetermined" = "Autorización de notificación no determinada";
+"notificationAuthorizationProvisional" = "Autorización de notificación provisional";
+"notificationAuthorizationEphemeral" = "Autorización de notificación efímera";
+"notificationAuthorizationUnknown" = "Estado de autorización de notificación desconocido";
+"reminderTitle" = "Recordatorio: %@";
+"deadlineTitle" = "Fecha Límite: %@";
+"notificationBody" = "Prioridad: %@ - Categoría: %@\nDetalles: %@";
+"errorSchedulingNotification" = "Error al programar notificación";
+"notificationScheduled" = "Notificación programada para %@ a las %@";
+
+"language" = "Idioma";
+"selectLanguage" = "Seleccionar idioma";
+
+/* InfoView */
+"manual_title" = "Manual del Usuario";
+"manual_intro_title" = "Introducción";
+"manual_intro_text" = "¡Bienvenido a DoYourThings! \nEsta aplicación está diseñada para ayudarle a gestionar eficientemente sus tareas diarias. Puede crear, categorizar y priorizar tareas, así como configurar notificaciones que le recuerden los plazos y eventos próximos. Todos los datos – tareas, categorías y ajustes – se almacenan localmente en su dispositivo y no se transmiten a la nube.";
+"manual_categories_title" = "Categorías";
+"manual_categories_text" = "Al iniciar la aplicación, se muestran categorías predeterminadas como 'Privado' y 'Trabajo'. Puede utilizar estas o crear sus propias categorías para organizar sus tareas. A cada categoría se le puede asignar un color único, lo que le permite diferenciar visualmente las tareas de un vistazo. Además, puede editar (cambiar nombre y color) o eliminar las categorías cuando ya no sean necesarias.";
+"manual_tasks_title" = "Tareas";
+"manual_tasks_text" = "Con DoYourThings, puede crear, editar y eliminar tareas de manera sencilla. Al crear una tarea, proporciona un título, una descripción detallada y un nivel de prioridad que le ayuda a evaluar su importancia. Además, puede establecer horarios separados para recordatorios y fechas límite. Por favor, asegúrese de que los horarios indicados sean futuros, de lo contrario, no se activará ninguna notificación.";
+"manual_notifications_title" = "Notificaciones";
+"manual_notifications_text" = "La aplicación programa automáticamente notificaciones para recordatorios y fechas límite en función de los horarios que ingrese. Debe completar los campos correspondientes de fecha y hora para recibir notificaciones. Si se ingresan horarios inválidos o pasados, no se activará ninguna notificación. Al tocar una notificación, se abrirá directamente la vista detallada de la tarea correspondiente, permitiéndole responder rápidamente.";
+"manual_settings_title" = "Configuraciones";
+"manual_settings_text" = "En las configuraciones, puede personalizar la apariencia de la aplicación. Puede elegir entre el modo claro y el modo oscuro, así como configurar el color de los íconos según sus preferencias. Además, puede gestionar sus categorías creando, editando o eliminándolas, adaptando la aplicación a sus necesidades personales.";
+"manual_local_storage_title" = "Almacenamiento local";
+"manual_local_storage_text" = "Todas las tareas, categorías y configuraciones se almacenan localmente en su dispositivo, garantizando que sus datos sigan disponibles incluso después de reiniciar la aplicación. Esto le brinda control total sobre su información.";
+"manual_version_title" = "Versión";
+"manual_navigation_title" = "Información";
+"back" = "Volver";
+"info" = "Información";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

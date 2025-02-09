@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "테마 선택";
+"theme" = "테마";
+"light" = "라이트";
+"dark" = "다크";
+"chooseIconColor" = "아이콘 색상 선택:";
+"themeChoice" = "테마 선택";
+"veryHighDescription" = "매우 높음 = 빨강\n즉각적인 주의가 필요한 긴급하고 중요한 작업.";
+"highDescription" = "높음 = 주황\n'매우 높음'만큼 긴급하지 않지만 즉시 완료해야 하는 중요한 작업.";
+"mediumDescription" = "중간 = 노랑\n합리적인 시간 내에 완료해야 하는 중간 정도의 중요성을 가진 작업.";
+"lowDescription" = "낮음 = 초록\n시간이 있을 때 완료해야 하는 덜 중요한 작업.";
+"veryLowDescription" = "매우 낮음 = 파랑\n여유가 있을 때 완료할 수 있는 중요도가 낮은 작업.";
+"categoryName" = "카테고리 이름";
+"categoryColor" = "카테고리 색상";
+"addCategory" = "카테고리 추가";
+"editCategory" = "카테고리 편집";
+"name" = "이름";
+"color" = "색상";
+"save" = "저장";
+"delete" = "삭제";
+"deleteCategory" = "카테고리 삭제";
+"deleteCategoryConfirmation" = "카테고리 %@를 삭제하시겠습니까?";
+"manageCategories" = "카테고리 관리";
+"searchPlaceholder" = "검색...";
+"date" = "날짜";
+"time" = "시간";
+"category" = "카테고리";
+"priority" = "우선순위";
+"reminder" = "리마인더";
+"deadline" = "마감일";
+"title" = "제목";
+"edit" = "편집";
+"exampleTitle" = "예제 제목";
+"exampleDetailText" = "예제 세부 텍스트";
+"medium" = "중간";
+"privateCategory" = "개인";
+"detail" = "세부";
+"addTask" = "작업 추가";
+"newTask" = "새 작업";
+"chooseDate" = "날짜 선택";
+"continue" = "계속";
+"done" = "완료";
+"cancel" = "취소";
+"settings" = "설정";
+"deleteTaskTitle" = "작업 삭제";
+"deleteTaskMessage" = "이 작업을 삭제하시겠습니까?";
+"deleteButton" = "삭제";
+"veryHigh" = "매우 높음";
+"high" = "높음";
+"low" = "낮음";
+"veryLow" = "매우 낮음";
+"workCategory" = "작업";
+"selectedCategoryPrivate" = "개인";
+"filterByDateAndPriority" = "날짜 및 우선순위별";
+"filter" = "필터";
+"choose_filter_option" = "필터 옵션 선택";
+"by_date_and_priority" = "날짜 및 우선순위별";
+"by_priority_and_date" = "우선순위 및 날짜별";
+"by_reminder" = "리마인더별";
+"by_deadline" = "마감일별";
+"overdue_tasks" = "기한이 지난 작업";
+"task_management" = "작업 관리";
+"create_edit_delete_tasks" = "작업을 쉽게 생성, 편집 및 삭제합니다. 각 작업에는 제목, 세부 설명, 우선순위 및 카테고리가 있어 필요한 모든 정보를 한 곳에서 확인할 수 있습니다.";
+"categories" = "카테고리";
+"organize_tasks" = "'개인' 및 '작업'과 같은 사용자 정의 카테고리에 작업을 정리합니다. 이를 통해 작업을 명확하게 구조화하고 가장 중요한 작업에 신속하게 액세스할 수 있습니다.";
+"prioritization" = "우선순위 설정";
+"assign_priorities" = "가장 중요하고 긴급한 작업에 집중할 수 있도록 작업에 우선순위를 지정합니다. 색상으로 구분된 우선순위를 통해 각 작업의 긴급성을 한눈에 확인할 수 있습니다:";
+"very_high_priority" = "매우 높음 (빨강): 즉각적인 주의가 필요한 긴급하고 중요한 작업.";
+"high_priority" = "높음 (주황): 즉시 완료해야 하는 중요한 작업.";
+"medium_priority" = "중간 (노랑): 합리적인 시간 내에 완료해야 하는 중간 정도의 중요성을 가진 작업.";
+"low_priority" = "낮음 (초록): 시간이 있을 때 완료해야 하는 덜 중요한 작업.";
+"very_low_priority" = "매우 낮음 (파랑): 여유가 있을 때 완료할 수 있는 중요도가 낮은 작업.";
+"color_customization" = "색상 사용자 정의";
+"personalize_app" = "카테고리의 색상을 조정하여 앱을 개인화합니다. 이를 통해 시각적으로 매력적이고 개별적으로 맞춤화된 사용자 경험을 제공합니다.";
+"theme_selection" = "테마 선택";
+"toggle_light_dark" = "라이트 모드와 다크 모드를 전환하여 선호도에 맞추고 다양한 조명 조건에서 쾌적한 사용자 경험을 제공합니다.";
+"search_function" = "검색 기능";
+"find_tasks" = "강력한 검색 기능을 사용하여 빠르고 쉽게 작업을 찾을 수 있습니다. 제목이나 설명의 일부를 입력하면 원하는 작업이 표시됩니다.";
+"detailed_views" = "상세 보기";
+"view_task_details" = "각 작업의 세부 정보를 별도의 보기에서 확인하여 필요한 모든 정보를 손에 넣을 수 있습니다.";
+"notifications" = "알림";
+"timely_notifications" = "중요한 작업을 놓치지 않도록 적시에 알림을 받습니다. 각 작업에 대해 리마인더와 마감일을 설정하여 항상 다가오는 작업을 알림받을 수 있습니다. 알림은 작업을 효율적으로 관리하고 아무 것도 놓치지 않도록 설계되었습니다.";
+"filters" = "필터";
+"overview_filters" = "강력한 필터 옵션을 사용하여 작업을 추적합니다. 다양한 기준에 따라 작업을 정렬하여 가장 관련성이 높은 작업을 빠르게 찾을 수 있습니다:";
+"overdue_tasks" = "기한이 지난 작업";
+
+"language" = "언어";
+"selectLanguage" = "언어 선택";
+
+"manageCategories" = "카테고리 관리";
+"chooseTheme" = "테마 선택";
+"settings" = "설정";
+"language" = "언어";
+"chooseLanguage" = "언어 선택";
+
+"errorRequestingAuthorization" = "권한 요청 오류";
+"notificationAuthorizationGranted" = "알림 권한 부여됨";
+"notificationAuthorizationDenied" = "알림 권한 거부됨";
+"notificationAuthorizationNotDetermined" = "알림 권한 미결정";
+"notificationAuthorizationProvisional" = "임시 알림 권한";
+"notificationAuthorizationEphemeral" = "일시적인 알림 권한";
+"notificationAuthorizationUnknown" = "알 수 없는 알림 권한 상태";
+"reminderTitle" = "알림: %@";
+"deadlineTitle" = "마감일: %@";
+"notificationBody" = "우선순위: %@ - 카테고리: %@\n세부사항: %@";
+"errorSchedulingNotification" = "알림 예약 오류";
+"notificationScheduled" = "알림이 %@에 %@에 예약되었습니다";
+
+"language" = "언어";
+"selectLanguage" = "언어 선택";
+
+/* InfoView */
+"manual_title" = "사용자 매뉴얼";
+"manual_intro_title" = "소개";
+"manual_intro_text" = "Welcome to DoYourThings! \n이 앱은 일상 업무를 효율적으로 관리하는 데 도움을 주기 위해 설계되었습니다. 작업을 생성, 분류 및 우선순위를 정할 수 있으며, 다가오는 마감일 및 이벤트를 알리는 알림을 설정할 수 있습니다. 모든 데이터 – 작업, 카테고리 및 설정 – 는 기기에 로컬로 저장되며 클라우드로 전송되지 않습니다.";
+"manual_categories_title" = "카테고리";
+"manual_categories_text" = "앱 실행 시 '개인' 및 '업무'와 같은 기본 카테고리가 표시됩니다. 이들을 사용하거나 자신의 카테고리를 만들어 작업을 정리할 수 있습니다. 각 카테고리에는 고유한 색상을 지정할 수 있어 한눈에 작업을 시각적으로 구분할 수 있습니다. 또한 필요하지 않을 경우, 카테고리를 편집(이름 및 색상 변경)하거나 삭제할 수 있습니다.";
+"manual_tasks_title" = "작업";
+"manual_tasks_text" = "DoYourThings를 사용하면 작업을 쉽게 생성, 편집 및 삭제할 수 있습니다. 작업 생성 시, 작업의 중요도를 평가할 수 있도록 제목, 상세 설명 및 우선순위를 제공합니다. 또한, 별도의 알림 및 마감 시간을 설정할 수 있습니다. 설정한 시간이 미래여야 하며, 그렇지 않으면 알림이 발생하지 않습니다.";
+"manual_notifications_title" = "알림";
+"manual_notifications_text" = "앱은 입력한 시간에 따라 알림 및 마감일 알림을 자동으로 예약합니다. 알림을 받으려면 적절한 날짜와 시간 필드를 입력해야 합니다. 유효하지 않거나 지난 시간이 입력되면 알림이 발생하지 않습니다. 알림을 탭하면 해당 작업의 상세 보기가 열리며, 이를 통해 대기 중인 작업에 신속하게 대응할 수 있습니다.";
+"manual_settings_title" = "설정";
+"manual_settings_text" = "설정에서 앱의 외관을 사용자 정의할 수 있습니다. 라이트 모드와 다크 모드 중에서 선택하고, 아이콘 색상을 선호에 따라 설정할 수 있습니다. 또한, 카테고리를 생성, 편집 또는 삭제하여 개인 필요에 맞게 앱을 조정할 수 있습니다.";
+"manual_local_storage_title" = "로컬 저장소";
+"manual_local_storage_text" = "모든 작업, 카테고리 및 설정은 기기에 로컬로 저장되어 앱 재시작 후에도 데이터가 유지됩니다. 이를 통해 정보에 대한 완전한 제어권을 갖게 됩니다.";
+"manual_version_title" = "버전";
+"manual_navigation_title" = "정보";
+"back" = "뒤로";
+"info" = "정보";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

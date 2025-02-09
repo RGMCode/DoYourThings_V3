@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Alegeți Tema";
+"theme" = "Tema";
+"light" = "Luminos";
+"dark" = "Întunecat";
+"chooseIconColor" = "Alegeți o Culoare pentru Iconiță:";
+"themeChoice" = "Alegerea Temei";
+"veryHighDescription" = "Foarte Înalt = Roșu\nSarcini urgente și critice care necesită atenție imediată.";
+"highDescription" = "Înalt = Portocaliu\nSarcini importante care trebuie efectuate prompt, dar nu atât de urgente ca 'Foarte Înalt'.";
+"mediumDescription" = "Mediu = Galben\nSarcini de importanță medie care ar trebui finalizate într-un interval de timp rezonabil.";
+"lowDescription" = "Scăzut = Verde\nSarcini mai puțin importante care ar trebui efectuate când timpul este disponibil.";
+"veryLowDescription" = "Foarte Scăzut = Albastru\nSarcini de importanță scăzută care pot fi făcute în timpul liber.";
+"categoryName" = "Nume Categorie";
+"categoryColor" = "Culoare Categorie";
+"addCategory" = "Adăugați Categorie";
+"editCategory" = "Editați Categorie";
+"name" = "Nume";
+"color" = "Culoare";
+"save" = "Salvați";
+"delete" = "Ștergeți";
+"deleteCategory" = "Ștergeți Categorie";
+"deleteCategoryConfirmation" = "Sunteți sigur că doriți să ștergeți categoria %@?";
+"manageCategories" = "Gestionați Categorii";
+"searchPlaceholder" = "Căutați...";
+"date" = "Data";
+"time" = "Ora";
+"category" = "Categorie";
+"priority" = "Prioritate";
+"reminder" = "Memento";
+"deadline" = "Termen Limită";
+"title" = "Titlu";
+"edit" = "Editați";
+"exampleTitle" = "Exemplu Titlu";
+"exampleDetailText" = "Exemplu Text Detaliat";
+"medium" = "Mediu";
+"privateCategory" = "Privat";
+"detail" = "Detaliu";
+"addTask" = "Adăugați Sarcină";
+"newTask" = "Sarcină Nouă";
+"chooseDate" = "Alegeți Data";
+"continue" = "Continuați";
+"done" = "Terminat";
+"cancel" = "Anulați";
+"settings" = "Setări";
+"deleteTaskTitle" = "Ștergeți Sarcina";
+"deleteTaskMessage" = "Sunteți sigur că doriți să ștergeți această sarcină?";
+"deleteButton" = "Ștergeți";
+"veryHigh" = "Foarte Înalt";
+"high" = "Înalt";
+"low" = "Scăzut";
+"veryLow" = "Foarte Scăzut";
+"workCategory" = "Muncă";
+"selectedCategoryPrivate" = "Privat";
+"filterByDateAndPriority" = "După Dată și Prioritate";
+"filter" = "Filtru";
+"choose_filter_option" = "Alegeți o opțiune de filtrare";
+"by_date_and_priority" = "După Dată și Prioritate";
+"by_priority_and_date" = "După Prioritate și Dată";
+"by_reminder" = "După Memento";
+"by_deadline" = "După Termen Limită";
+"overdue_tasks" = "Sarcini Depășite";
+"task_management" = "Gestionarea Sarcinilor";
+"create_edit_delete_tasks" = "Creați, editați și ștergeți sarcini cu ușurință. Fiecare sarcină poate avea un titlu, o descriere detaliată, un nivel de prioritate și o categorie pentru a vă asigura că aveți toate informațiile necesare într-un singur loc.";
+"categories" = "Categorii";
+"organize_tasks" = "Organizați-vă sarcinile în categorii personalizate precum 'Privat' și 'Muncă'. Acest lucru vă permite să structurați clar sarcinile și să accesați rapid cele mai importante.";
+"prioritization" = "Prioritizare";
+"assign_priorities" = "Atribuiți priorități sarcinilor dvs. pentru a vă asigura că vă concentrați pe cele mai importante și urgente sarcini. Prioritățile codificate în culori vă ajută să vedeți imediat urgența fiecărei sarcini:";
+"very_high_priority" = "Foarte Înalt (Roșu): Sarcini urgente și critice care necesită atenție imediată.";
+"high_priority" = "Înalt (Portocaliu): Sarcini importante care trebuie finalizate prompt.";
+"medium_priority" = "Mediu (Galben): Sarcini de importanță medie care ar trebui finalizate într-un interval de timp rezonabil.";
+"low_priority" = "Scăzut (Verde): Sarcini mai puțin importante care ar trebui efectuate când timpul este disponibil.";
+"very_low_priority" = "Foarte Scăzut (Albastru): Sarcini de importanță scăzută care pot fi făcute în timpul liber.";
+"color_customization" = "Personalizarea Culorilor";
+"personalize_app" = "Personalizați aplicația ajustând culorile categoriilor dvs. Acest lucru permite o experiență de utilizare vizual atractivă și personalizată individual.";
+"theme_selection" = "Selecția Temei";
+"toggle_light_dark" = "Comutați între modul Luminos și Întunecat pentru a se potrivi preferințelor dvs. și pentru a asigura o experiență plăcută de utilizare în condiții diferite de iluminare.";
+"search_function" = "Funcția de Căutare";
+"find_tasks" = "Găsiți rapid și ușor orice sarcină folosind funcția de căutare puternică. Introduceți pur și simplu titlul sau o parte din descriere pentru a afișa sarcinile dorite.";
+"detailed_views" = "Vizualizări Detaliate";
+"view_task_details" = "Vizualizați detaliile fiecărei sarcini într-o fereastră separată pentru a vă asigura că aveți toate informațiile necesare la îndemână.";
+"notifications" = "Notificări";
+"timely_notifications" = "Primiți notificări în timp util pentru a nu rata sarcini importante. Puteți seta mementouri și termene limită pentru fiecare sarcină pentru a vă asigura că sunteți întotdeauna la curent cu sarcinile viitoare. Notificările sunt concepute pentru a vă ajuta să gestionați eficient sarcinile și pentru a vă asigura că nimic nu va fi trecut cu vederea.";
+"filters" = "Filtre";
+"overview_filters" = "Păstrați-vă sarcinile sub control cu opțiuni puternice de filtrare. Sortați sarcinile după diferite criterii pentru a găsi rapid cele mai relevante:";
+"overdue_tasks" = "Sarcini Depășite";
+
+"language" = "Limbă";
+"selectLanguage" = "Selectați limba";
+
+"manageCategories" = "Gestionați categoriile";
+"chooseTheme" = "Alegeți tema";
+"settings" = "Setări";
+"language" = "Limbă";
+"chooseLanguage" = "Alegeți limba";
+
+"errorRequestingAuthorization" = "Eroare la solicitarea autorizației";
+"notificationAuthorizationGranted" = "Autorizație de notificare acordată";
+"notificationAuthorizationDenied" = "Autorizație de notificare refuzată";
+"notificationAuthorizationNotDetermined" = "Autorizație de notificare nedeterminată";
+"notificationAuthorizationProvisional" = "Autorizație de notificare provizorie acordată";
+"notificationAuthorizationEphemeral" = "Autorizație de notificare efemeră acordată";
+"notificationAuthorizationUnknown" = "Stare necunoscută a autorizației de notificare";
+"reminderTitle" = "Memento: %@";
+"deadlineTitle" = "Termen limită: %@";
+"notificationBody" = "Prioritate: %@ - Categorie: %@\nDetalii: %@";
+"errorSchedulingNotification" = "Eroare la programarea notificării";
+"notificationScheduled" = "Notificare programată pentru %@ la %@";
+
+"language" = "Limbă";
+"selectLanguage" = "Selectați limba";
+
+/* InfoView */
+"manual_title" = "Manualul utilizatorului";
+"manual_intro_title" = "Introducere";
+"manual_intro_text" = "Bine ai venit la DoYourThings! \nAceastă aplicație este concepută pentru a te ajuta să gestionezi eficient sarcinile zilnice. Poți crea, categoriza și prioritiza sarcinile, precum și să setezi notificări care să te reamintească de termenele limită și evenimentele viitoare. Toate datele – sarcini, categorii și setări – sunt stocate local pe dispozitivul tău și nu sunt transmise în cloud.";
+"manual_categories_title" = "Categorii";
+"manual_categories_text" = "La pornire, sunt afișate categorii implicite, cum ar fi 'Privat' și 'Muncă'. Poți folosi aceste categorii sau poți crea categorii proprii pentru a-ți organiza sarcinile. Fiecare categorie poate primi o culoare unică, permițându-ți să diferențiezi vizual sarcinile dintr-o privire. Ai, de asemenea, posibilitatea de a edita (schimba numele și culoarea) sau de a șterge categoriile atunci când nu mai sunt necesare.";
+"manual_tasks_title" = "Sarcini";
+"manual_tasks_text" = "Cu DoYourThings, poți crea, edita și șterge sarcini cu ușurință. La crearea unei sarcini, introduci un titlu, o descriere detaliată și un nivel de prioritate care te ajută să evaluezi importanța acesteia. În plus, poți seta ore diferite pentru reamintiri și termene. Te rugăm să te asiguri că orele setate sunt în viitor, altfel nu se va declanșa nicio notificare.";
+"manual_notifications_title" = "Notificări";
+"manual_notifications_text" = "Aplicația programează automat notificări pentru reamintiri și termene, pe baza orelor introduse de tine. Trebuie să completezi câmpurile corespunzătoare pentru dată și oră pentru a primi notificări. Dacă se introduc ore invalide sau din trecut, nicio notificare nu va fi declanșată. Atingând o notificare, se deschide direct vizualizarea detaliată a sarcinii corespunzătoare, permițându-ți să reacționezi rapid.";
+"manual_settings_title" = "Setări";
+"manual_settings_text" = "În setări, poți personaliza aspectul aplicației. Poți alege între modul luminos și cel întunecat și poți seta culoarea pictogramelor conform preferințelor tale. De asemenea, poți gestiona categoriile – creând, editând sau ștergându-le – pentru a adapta aplicația la nevoile tale personale.";
+"manual_local_storage_title" = "Stocare Locală";
+"manual_local_storage_text" = "Toate sarcinile, categoriile și setările sunt stocate local pe dispozitivul tău, asigurând că datele tale rămân disponibile chiar și după repornirea aplicației. Acest lucru îți oferă control total asupra informațiilor tale.";
+"manual_version_title" = "Versiune";
+"manual_navigation_title" = "Informații";
+"back" = "Înapoi";
+"info" = "Informații";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

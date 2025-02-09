@@ -1,0 +1,134 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Zgjidhni temën";
+"theme" = "Temë";
+"light" = "E lehtë";
+"dark" = "E errët";
+"chooseIconColor" = "Zgjidhni një ngjyrë ikone:";
+"themeChoice" = "Zgjedhja e temës";
+"veryHighDescription" = "Shumë e lartë = E kuqe\nDetyra urgjente dhe kritike që kërkojnë vëmendje të menjëhershme.";
+"highDescription" = "E lartë = Portokalli\nDetyra të rëndësishme që duhen bërë menjëherë, por jo aq urgjente sa 'Shumë e lartë'.";
+"mediumDescription" = "Mesatare = E verdhë\nDetyra me rëndësi të moderuar që duhet të përfundojnë brenda një afati të arsyeshëm kohor.";
+"lowDescription" = "E ulët = Jeshile\nDetyra më pak të rëndësishme që duhet të bëhen kur të ketë kohë.";
+"veryLowDescription" = "Shumë e ulët = Blu\nDetyra me rëndësi të ulët që mund të bëhen në kohën e lirë.";
+"categoryName" = "Emri i kategorisë";
+"categoryColor" = "Ngjyra e kategorisë";
+"addCategory" = "Shtoni kategori";
+"editCategory" = "Redakto kategorinë";
+"name" = "Emër";
+"color" = "Ngjyrë";
+"save" = "Ruaj";
+"delete" = "Fshi";
+"deleteCategory" = "Fshi kategorinë";
+"deleteCategoryConfirmation" = "A jeni të sigurt që dëshironi të fshini kategorinë %@?";
+"manageCategories" = "Menaxho kategoritë";
+"searchPlaceholder" = "Kërko...";
+"date" = "Data";
+"time" = "Koha";
+"category" = "Kategoritë";
+"priority" = "Prioriteti";
+"reminder" = "Kujtesë";
+"deadline" = "Afati";
+"title" = "Titulli";
+"edit" = "Redakto";
+"exampleTitle" = "Shembull titulli";
+"exampleDetailText" = "Shembull tekst i detajuar";
+"medium" = "Mesatare";
+"privateCategory" = "Privat";
+"detail" = "Detaje";
+"addTask" = "Shtoni detyrë";
+"newTask" = "Detyrë e re";
+"chooseDate" = "Zgjidhni datën";
+"continue" = "Vazhdo";
+"done" = "Përfunduar";
+"cancel" = "Anulo";
+"settings" = "Cilësimet";
+"deleteTaskTitle" = "Fshi detyrën";
+"deleteTaskMessage" = "A jeni të sigurt që dëshironi të fshini këtë detyrë?";
+"deleteButton" = "Fshi";
+"veryHigh" = "Shumë e lartë";
+"high" = "E lartë";
+"low" = "E ulët";
+"veryLow" = "Shumë e ulët";
+"workCategory" = "Punë";
+"selectedCategoryPrivate" = "Privat";
+"filterByDateAndPriority" = "Sipas datës dhe prioritetit";
+"filter" = "Filtër";
+"choose_filter_option" = "Zgjidhni një opsion filtri";
+"by_date_and_priority" = "Sipas datës dhe prioritetit";
+"by_priority_and_date" = "Sipas prioritetit dhe datës";
+"by_reminder" = "Sipas kujtesës";
+"by_deadline" = "Sipas afatit";
+"overdue_tasks" = "Detyra të vonuara";
+"task_management" = "Menaxhimi i detyrave";
+"create_edit_delete_tasks" = "Krijoni, redaktoni dhe fshini detyrat me lehtësi. Çdo detyrë mund të ketë një titull, një përshkrim të detajuar, një nivel prioriteti dhe një kategori për të siguruar që të gjitha informacionet e nevojshme janë në një vend.";
+"categories" = "Kategoritë";
+"organize_tasks" = "Organizoni detyrat tuaja në kategori të personalizuara si 'Privat' dhe 'Punë'. Kjo ju lejon të strukturoni qartë detyrat tuaja dhe të aksesoni shpejt detyrat më të rëndësishme.";
+"prioritization" = "Prioritizimi";
+"assign_priorities" = "Caktoni prioritete për detyrat tuaja për t'u fokusuar në detyrat më të rëndësishme dhe urgjente. Prioritetet me ngjyra ju ndihmojnë të shihni urgjencën e çdo detyre me një shikim:";
+"very_high_priority" = "Shumë e lartë (E kuqe): Detyra urgjente dhe kritike që kërkojnë vëmendje të menjëhershme.";
+"high_priority" = "E lartë (Portokalli): Detyra të rëndësishme që duhen bërë menjëherë.";
+"medium_priority" = "Mesatare (E verdhë): Detyra me rëndësi të moderuar që duhet të përfundojnë brenda një afati të arsyeshëm kohor.";
+"low_priority" = "E ulët (Jeshile): Detyra më pak të rëndësishme që duhet të bëhen kur të ketë kohë.";
+"very_low_priority" = "Shumë e ulët (Blu): Detyra me rëndësi të ulët që mund të bëhen në kohën e lirë.";
+"color_customization" = "Personalizimi i ngjyrave";
+"personalize_app" = "Personalizoni aplikacionin duke rregulluar ngjyrat e kategorive tuaja. Kjo mundëson një përvojë të përdoruesit vizualisht tërheqëse dhe të personalizuar individualisht.";
+"theme_selection" = "Zgjedhja e temës";
+"toggle_light_dark" = "Kaloni midis modalitetit të ndriçuar dhe të errët për të përshtatur aplikacionin me preferencat tuaja dhe për të siguruar një përvojë të këndshme përdorimi në kushte të ndryshme ndriçimi.";
+"search_function" = "Funksioni i kërkimit";
+"find_tasks" = "Gjeni detyrën e kërkuar shpejt dhe lehtë duke përdorur funksionin e fuqishëm të kërkimit. Thjesht futni titullin ose një pjesë të përshkrimit për të shfaqur detyrat e dëshiruara.";
+"detailed_views" = "Pamje të detajuara";
+"view_task_details" = "Shikoni detajet e çdo detyre në një pamje të veçantë për të siguruar që të keni të gjitha informacionet e nevojshme në dorë.";
+"notifications" = "Njoftime";
+"timely_notifications" = "Merrni njoftime në kohë për të mos harruar detyra të rëndësishme. Ju mund të vendosni kujtesa dhe afate për çdo detyrë për të siguruar që gjithmonë të kujtoheni për detyrat e ardhshme. Njoftimet janë krijuar për t'ju ndihmuar të menaxhoni detyrat tuaja në mënyrë efikase dhe për të siguruar që asgjë të mos mbetet pa u vënë re.";
+"filters" = "Filtra";
+"overview_filters" = "Mbani gjurmët e detyrave tuaja me opsione të fuqishme filtrimi. Rendisni detyrat tuaja sipas kritereve të ndryshme për të gjetur shpejt detyrat më relevante:";
+"overdue_tasks" = "Detyra të vonuara";
+
+"manageCategories" = "Menaxho kategoritë";
+"chooseTheme" = "Zgjidhni temën";
+"settings" = "Cilësimet";
+"language" = "Gjuha";
+"chooseLanguage" = "Zgjidhni gjuhën";
+
+"errorRequestingAuthorization" = "Gabim në kërkimin e autorizimit";
+"notificationAuthorizationGranted" = "Autorizimi për njoftime është dhënë";
+"notificationAuthorizationDenied" = "Autorizimi për njoftime është refuzuar";
+"notificationAuthorizationNotDetermined" = "Autorizimi për njoftime nuk është përcaktuar";
+"notificationAuthorizationProvisional" = "Autorizim i përkohshëm për njoftime";
+"notificationAuthorizationEphemeral" = "Autorizim i përkohshëm për njoftime";
+"notificationAuthorizationUnknown" = "Statusi i autorizimit për njoftime i panjohur";
+"reminderTitle" = "Kujtesë: %@";
+"deadlineTitle" = "Afati: %@";
+"notificationBody" = "Prioriteti: %@ - Kategoria: %@\nDetajet: %@";
+"errorSchedulingNotification" = "Gabim në planifikimin e njoftimit";
+"notificationScheduled" = "Njoftimi është planifikuar për %@ në %@";
+
+"language" = "Gjuha";
+"selectLanguage" = "Zgjidhni gjuhën";
+
+/* InfoView */
+"manual_title" = "Manuali i përdoruesit";
+"manual_intro_title" = "Hyrje";
+"manual_intro_text" = "Mirësevini në DoYourThings! \nKy aplikacion është krijuar për t’ju ndihmuar të menaxhoni në mënyrë efikase detyrat tuaja ditore. Ju mund të krijoni, të kategorizoni dhe të caktoni prioritet detyrave, si dhe të vendosni njoftime që t’ju kujtojnë afatet dhe ngjarjet e ardhshme. Të gjitha të dhënat – detyrat, kategoritë dhe cilësimet – ruhen lokal në pajisjen tuaj dhe nuk transmetohen në re.";
+"manual_categories_title" = "Kategoritë";
+"manual_categories_text" = "Kur aplikacioni hapet, shfaqen kategori të paracaktuara si 'Privat' dhe 'Punë'. Mund t’i përdorni këto ose të krijoni kategori të veta për të organizuar detyrat tuaja. Secila kategori mund të caktohet me një ngjyrë unike, duke ju lejuar t’i dalloni vizualisht detyrat me një vështrim. Gjithashtu, keni mundësinë të redaktoni (të ndryshoni emrin dhe ngjyrën) ose të fshini kategoritë kur ato nuk janë më të nevojshme.";
+"manual_tasks_title" = "Detyrat";
+"manual_tasks_text" = "Me DoYourThings, mund të krijoni, redaktoni dhe fshini detyrat lehtësisht. Kur krijoni një detyrë, jepni një titull, një përshkrim të detajuar dhe një nivel prioriteti për të ndihmuar në vlerësimin e rëndësisë së saj. Gjithashtu, mund të vendosni kohë të veçanta për kujtime dhe afate. Ju lutemi sigurohuni që koha që vendosni të jetë në të ardhmen, përndryshe nuk do të aktivizohet asnjë njoftim.";
+"manual_notifications_title" = "Njoftime";
+"manual_notifications_text" = "Aplikacioni cakton automatikisht njoftime për kujtime dhe afate bazuar në kohët që ju futni. Ju duhet të plotësoni fushat për datë dhe orë për të marrë njoftime. Nëse futen kohë të pavlefshme ose të kaluara, nuk do të aktivizohet asnjë njoftim. Duke klikuar mbi një njoftim, hapet pamja e detajuar e detyrës përkatëse, duke ju lejuar të reagoni shpejt.";
+"manual_settings_title" = "Cilësimet";
+"manual_settings_text" = "Në cilësimet, mund të personalizoni pamjen e aplikacionit. Ju mund të zgjidhni mes modalitetit të ndritshëm dhe të errët dhe të vendosni ngjyrën e ikonave sipas preferencës suaj. Gjithashtu, mund të menaxhoni kategoritë duke krijuar, redaktuar ose fshirë ato, duke përshtatur aplikacionin sipas nevojave tuaja personale.";
+"manual_local_storage_title" = "Ruajtje Lokale";
+"manual_local_storage_text" = "Të gjitha detyrat, kategoritë dhe cilësimet ruhen lokal në pajisjen tuaj, duke siguruar që të dhënat tuaja të jenë në dispozicion edhe pas rilidhjes së aplikacionit. Kjo ju jep kontroll të plotë mbi informacionin tuaj.";
+"manual_version_title" = "Versioni";
+"manual_navigation_title" = "Informacioni";
+"back" = "Mbrapa";
+"info" = "Informacion";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

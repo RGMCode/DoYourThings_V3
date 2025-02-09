@@ -1,0 +1,134 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Izvēlieties tēmu";
+"theme" = "Tēma";
+"light" = "Gaišs";
+"dark" = "Tumšs";
+"chooseIconColor" = "Izvēlieties ikonas krāsu:";
+"themeChoice" = "Tēmas izvēle";
+"veryHighDescription" = "Ļoti augsta = Sarkana\nSteidzami un kritiski uzdevumi, kuriem nepieciešama tūlītēja uzmanība.";
+"highDescription" = "Augsta = Oranža\nSvarīgi uzdevumi, kas jāveic nekavējoties, bet ne tik steidzami kā 'Ļoti augsta'.";
+"mediumDescription" = "Vidēja = Dzeltena\nVidējas svarīguma uzdevumi, kas jāveic saprātīgā laika periodā.";
+"lowDescription" = "Zema = Zaļa\nMazāk svarīgi uzdevumi, kas jāveic, kad ir pieejams laiks.";
+"veryLowDescription" = "Ļoti zema = Zila\nMazsvarīgi uzdevumi, kurus var veikt atpūtai.";
+"categoryName" = "Kategorijas nosaukums";
+"categoryColor" = "Kategorijas krāsa";
+"addCategory" = "Pievienot kategoriju";
+"editCategory" = "Rediģēt kategoriju";
+"name" = "Nosaukums";
+"color" = "Krāsa";
+"save" = "Saglabāt";
+"delete" = "Dzēst";
+"deleteCategory" = "Dzēst kategoriju";
+"deleteCategoryConfirmation" = "Vai tiešām vēlaties dzēst kategoriju %@?";
+"manageCategories" = "Pārvaldīt kategorijas";
+"searchPlaceholder" = "Meklēt...";
+"date" = "Datums";
+"time" = "Laiks";
+"category" = "Kategorija";
+"priority" = "Prioritāte";
+"reminder" = "Atgādinājums";
+"deadline" = "Termiņš";
+"title" = "Virsraksts";
+"edit" = "Rediģēt";
+"exampleTitle" = "Piemēra virsraksts";
+"exampleDetailText" = "Piemēra detaļu teksts";
+"medium" = "Vidējs";
+"privateCategory" = "Privāts";
+"detail" = "Detaļas";
+"addTask" = "Pievienot uzdevumu";
+"newTask" = "Jauns uzdevums";
+"chooseDate" = "Izvēlieties datumu";
+"continue" = "Turpināt";
+"done" = "Gatavs";
+"cancel" = "Atcelt";
+"settings" = "Iestatījumi";
+"deleteTaskTitle" = "Dzēst uzdevumu";
+"deleteTaskMessage" = "Vai tiešām vēlaties dzēst šo uzdevumu?";
+"deleteButton" = "Dzēst";
+"veryHigh" = "Ļoti augsta";
+"high" = "Augsta";
+"low" = "Zema";
+"veryLow" = "Ļoti zema";
+"workCategory" = "Darbs";
+"selectedCategoryPrivate" = "Privāts";
+"filterByDateAndPriority" = "Pēc datuma un prioritātes";
+"filter" = "Filtrs";
+"choose_filter_option" = "Izvēlieties filtra opciju";
+"by_date_and_priority" = "Pēc datuma un prioritātes";
+"by_priority_and_date" = "Pēc prioritātes un datuma";
+"by_reminder" = "Pēc atgādinājuma";
+"by_deadline" = "Pēc termiņa";
+"overdue_tasks" = "Nokavētie uzdevumi";
+"task_management" = "Uzdevumu pārvaldība";
+"create_edit_delete_tasks" = "Izveidojiet, rediģējiet un dzēsiet uzdevumus ar vieglumu. Katram uzdevumam var būt virsraksts, detalizēts apraksts, prioritātes līmenis un kategorija, lai nodrošinātu, ka visa nepieciešamā informācija ir vienuviet.";
+"categories" = "Kategorijas";
+"organize_tasks" = "Organizējiet savus uzdevumus pielāgotās kategorijās, piemēram, 'Privāts' un 'Darbs'. Tas ļauj skaidri strukturēt savus uzdevumus un ātri piekļūt vissvarīgākajiem uzdevumiem.";
+"prioritization" = "Prioritāšu noteikšana";
+"assign_priorities" = "Piešķiriet uzdevumiem prioritātes, lai nodrošinātu, ka jūs koncentrējaties uz vissvarīgākajiem un steidzamākajiem uzdevumiem. Krāsainās prioritātes palīdzēs jums uzreiz redzēt katra uzdevuma steidzamību:";
+"very_high_priority" = "Ļoti augsta (Sarkana): Steidzami un kritiski uzdevumi, kuriem nepieciešama tūlītēja uzmanība.";
+"high_priority" = "Augsta (Oranža): Svarīgi uzdevumi, kas jāveic nekavējoties.";
+"medium_priority" = "Vidēja (Dzeltena): Vidējas svarīguma uzdevumi, kas jāveic saprātīgā laika periodā.";
+"low_priority" = "Zema (Zaļa): Mazāk svarīgi uzdevumi, kas jāveic, kad ir pieejams laiks.";
+"very_low_priority" = "Ļoti zema (Zila): Mazsvarīgi uzdevumi, kurus var veikt atpūtai.";
+"color_customization" = "Krāsu pielāgošana";
+"personalize_app" = "Pielāgojiet lietotni, pielāgojot kategoriju krāsas. Tas nodrošina vizuāli pievilcīgu un individuāli pielāgotu lietotāja pieredzi.";
+"theme_selection" = "Tēmas izvēle";
+"toggle_light_dark" = "Pārslēdzieties starp gaišo un tumšo režīmu, lai pielāgotu lietotni savām vēlmēm un nodrošinātu patīkamu lietošanas pieredzi dažādos apgaismojuma apstākļos.";
+"search_function" = "Meklēšanas funkcija";
+"find_tasks" = "Ātri un viegli atrodiet jebkuru uzdevumu, izmantojot jaudīgo meklēšanas funkciju. Vienkārši ievadiet virsrakstu vai daļu no apraksta, lai parādītu vēlamos uzdevumus.";
+"detailed_views" = "Detalizēti skati";
+"view_task_details" = "Skatiet katra uzdevuma detaļas atsevišķā skatā, lai nodrošinātu, ka jums ir pieejama visa nepieciešamā informācija.";
+"notifications" = "Paziņojumi";
+"timely_notifications" = "Saņemiet savlaicīgus paziņojumus, lai nepalaistu garām svarīgus uzdevumus. Jūs varat iestatīt atgādinājumus un termiņus katram uzdevumam, lai jūs vienmēr tiktu atgādināti par gaidāmajiem uzdevumiem. Paziņojumi ir izstrādāti tā, lai palīdzētu jums efektīvi pārvaldīt savus uzdevumus un nodrošinātu, ka nekas netiek palaists garām.";
+"filters" = "Filtri";
+"overview_filters" = "Pārvaldiet savus uzdevumus ar jaudīgām filtru opcijām. Kārtojiet savus uzdevumus pēc dažādiem kritērijiem, lai ātri atrastu visatbilstošākos uzdevumus:";
+"overdue_tasks" = "Nokavētie uzdevumi";
+
+"manageCategories" = "Pārvaldīt kategorijas";
+"chooseTheme" = "Izvēlieties tēmu";
+"settings" = "Iestatījumi";
+"language" = "Valoda";
+"chooseLanguage" = "Izvēlieties valodu";
+
+"errorRequestingAuthorization" = "Kļūda, pieprasot atļauju";
+"notificationAuthorizationGranted" = "Paziņojumu atļauja piešķirta";
+"notificationAuthorizationDenied" = "Paziņojumu atļauja atteikta";
+"notificationAuthorizationNotDetermined" = "Paziņojumu atļauja nav noteikta";
+"notificationAuthorizationProvisional" = "Pagaidu paziņojumu atļauja";
+"notificationAuthorizationEphemeral" = "Īslaicīga paziņojumu atļauja";
+"notificationAuthorizationUnknown" = "Nezināms paziņojumu atļaujas statuss";
+"reminderTitle" = "Atgādinājums: %@";
+"deadlineTitle" = "Termiņš: %@";
+"notificationBody" = "Prioritāte: %@ - Kategorija: %@\nDetaļas: %@";
+"errorSchedulingNotification" = "Kļūda, plānojot paziņojumu";
+"notificationScheduled" = "Paziņojums plānots %@ plkst. %@";
+
+"language" = "Valoda";
+"selectLanguage" = "Izvēlieties valodu";
+
+/* InfoView */
+"manual_title" = "Lietotāja rokasgrāmata";
+"manual_intro_title" = "Ievads";
+"manual_intro_text" = "Laipni lūdzam DoYourThings! \nŠī lietotne ir izstrādāta, lai palīdzētu jums efektīvi pārvaldīt ikdienas uzdevumus. Jūs varat izveidot, kategorizēt un noteikt uzdevumu prioritāti, kā arī iestatīt paziņojumus, kas atgādinās par tuvojošiem termiņiem un notikumiem. Visi dati – uzdevumi, kategorijas un iestatījumi – tiek glabāti lokāli jūsu ierīcē un netiek pārsūtīti uz mākoni.";
+"manual_categories_title" = "Kategorijas";
+"manual_categories_text" = "Lai sāktu, tiek rādītas noklusējuma kategorijas, piemēram, 'Privāts' un 'Darbs'. Jūs varat izmantot šīs kategorijas vai izveidot savas, lai organizētu savus uzdevumus. Katrā kategorijā var tikt piešķirta unikāla krāsa, kas ļauj uzreiz vizuāli atšķirt uzdevumus. Jums ir arī iespēja rediģēt (mainīt nosaukumu un krāsu) vai dzēst kategorijas, kad tās vairs nav nepieciešamas.";
+"manual_tasks_title" = "Uzdevumi";
+"manual_tasks_text" = "Ar DoYourThings jūs varat viegli izveidot, rediģēt un dzēst uzdevumus. Izveidojot uzdevumu, jūs ievadāt virsrakstu, detalizētu aprakstu un prioritātes līmeni, lai palīdzētu novērtēt tā svarīgumu. Papildus tam, jūs varat iestatīt atsevišķus laiku atgādinājumiem un termiņiem. Lūdzu, pārliecinieties, ka iestatītie laiki ir nākotnē, pretējā gadījumā paziņojumi netiks aktivizēti.";
+"manual_notifications_title" = "Paziņojumi";
+"manual_notifications_text" = "Lietotne automātiski plāno paziņojumus par atgādinājumiem un termiņiem, pamatojoties uz jūsu ievadītajiem laikiem. Jums ir jāaizpilda attiecīgie datuma un laika lauki, lai saņemtu paziņojumus. Ja tiek ievadīti nederīgi vai pagātnes laiki, paziņojums netiks aktivizēts. Pieskaroties paziņojumam, tiks atvērts attiecīgā uzdevuma detalizētais skats, ļaujot jums ātri reaģēt.";
+"manual_settings_title" = "Iestatījumi";
+"manual_settings_text" = "Iestatījumos jūs varat pielāgot lietotnes izskatu. Jūs varat izvēlēties starp gaišu un tumšu režīmu un iestatīt ikonu krāsu atbilstoši jūsu vēlmēm. Papildus tam jūs varat pārvaldīt savas kategorijas, izveidojot, rediģējot vai dzēšot tās, pielāgojot lietotni savām personīgajām vajadzībām.";
+"manual_local_storage_title" = "Lokālā glabāšana";
+"manual_local_storage_text" = "Visi uzdevumi, kategorijas un iestatījumi tiek glabāti lokāli jūsu ierīcē, nodrošinot, ka jūsu dati paliek pieejami pat pēc lietotnes restartēšanas. Tas nodrošina jums pilnīgu kontroli pār jūsu informāciju.";
+"manual_version_title" = "Versija";
+"manual_navigation_title" = "Informācija";
+"back" = "Atpakaļ";
+"info" = "Informācija";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

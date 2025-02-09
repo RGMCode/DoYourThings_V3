@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Valitse Teema";
+"theme" = "Teema";
+"light" = "Vaalea";
+"dark" = "Tumma";
+"chooseIconColor" = "Valitse Kuvakkeen Väri:";
+"themeChoice" = "Teeman Valinta";
+"veryHighDescription" = "Erittäin Korkea = Punainen\nKiireelliset ja kriittiset tehtävät, jotka vaativat välitöntä huomiota.";
+"highDescription" = "Korkea = Oranssi\nTärkeät tehtävät, jotka on suoritettava nopeasti, mutta eivät niin kiireellisiä kuin 'Erittäin Korkea'.";
+"mediumDescription" = "Keskikorkea = Keltainen\nKohtuullisen tärkeitä tehtäviä, jotka tulisi suorittaa kohtuullisessa ajassa.";
+"lowDescription" = "Matala = Vihreä\nVähemmän tärkeitä tehtäviä, jotka tulisi suorittaa, kun aikaa on käytettävissä.";
+"veryLowDescription" = "Erittäin Matala = Sininen\nVähäisiä tehtäviä, jotka voidaan tehdä vapaa-ajalla.";
+"categoryName" = "Kategorian Nimi";
+"categoryColor" = "Kategorian Väri";
+"addCategory" = "Lisää Kategoria";
+"editCategory" = "Muokkaa Kategoriaa";
+"name" = "Nimi";
+"color" = "Väri";
+"save" = "Tallenna";
+"delete" = "Poista";
+"deleteCategory" = "Poista Kategoria";
+"deleteCategoryConfirmation" = "Oletko varma, että haluat poistaa kategorian %@?";
+"manageCategories" = "Hallitse Kategorioita";
+"searchPlaceholder" = "Hae...";
+"date" = "Päivämäärä";
+"time" = "Aika";
+"category" = "Kategoria";
+"priority" = "Prioriteetti";
+"reminder" = "Muistutus";
+"deadline" = "Takaraja";
+"title" = "Otsikko";
+"edit" = "Muokkaa";
+"exampleTitle" = "Esimerkki Otsikko";
+"exampleDetailText" = "Esimerkki Yksityiskohtainen Teksti";
+"medium" = "Keskikorkea";
+"privateCategory" = "Yksityinen";
+"detail" = "Yksityiskohta";
+"addTask" = "Lisää Tehtävä";
+"newTask" = "Uusi Tehtävä";
+"chooseDate" = "Valitse Päivämäärä";
+"continue" = "Jatka";
+"done" = "Valmis";
+"cancel" = "Peruuta";
+"settings" = "Asetukset";
+"deleteTaskTitle" = "Poista Tehtävä";
+"deleteTaskMessage" = "Oletko varma, että haluat poistaa tämän tehtävän?";
+"deleteButton" = "Poista";
+"veryHigh" = "Erittäin Korkea";
+"high" = "Korkea";
+"low" = "Matala";
+"veryLow" = "Erittäin Matala";
+"workCategory" = "Työ";
+"selectedCategoryPrivate" = "Yksityinen";
+"filterByDateAndPriority" = "Päivämäärän ja Prioriteetin Mukaan";
+"filter" = "Suodatin";
+"choose_filter_option" = "Valitse suodatusvaihtoehto";
+"by_date_and_priority" = "Päivämäärän ja Prioriteetin Mukaan";
+"by_priority_and_date" = "Prioriteetin ja Päivämäärän Mukaan";
+"by_reminder" = "Muistutuksen Mukaan";
+"by_deadline" = "Takarajan Mukaan";
+"overdue_tasks" = "Myöhästyneet Tehtävät";
+"task_management" = "Tehtävän Hallinta";
+"create_edit_delete_tasks" = "Luo, muokkaa ja poista tehtäviä helposti. Jokaisella tehtävällä voi olla otsikko, yksityiskohtainen kuvaus, prioriteettitaso ja kategoria, jotta kaikki tarvittavat tiedot ovat yhdessä paikassa.";
+"categories" = "Kategoriat";
+"organize_tasks" = "Järjestä tehtävät mukautetuiksi kategorioiksi, kuten 'Yksityinen' ja 'Työ'. Tämä mahdollistaa tehtävien selkeän jäsentämisen ja nopean pääsyn tärkeimpiin tehtäviin.";
+"prioritization" = "Priorisointi";
+"assign_priorities" = "Määritä tehtäviesi prioriteetit varmistaaksesi, että keskityt tärkeimpiin ja kiireellisimpiin tehtäviin. Väritetyt prioriteetit auttavat sinua näkemään kunkin tehtävän kiireellisyyden yhdellä silmäyksellä:";
+"very_high_priority" = "Erittäin Korkea (Punainen): Kiireelliset ja kriittiset tehtävät, jotka vaativat välitöntä huomiota.";
+"high_priority" = "Korkea (Oranssi): Tärkeät tehtävät, jotka on suoritettava nopeasti.";
+"medium_priority" = "Keskikorkea (Keltainen): Kohtuullisen tärkeitä tehtäviä, jotka tulisi suorittaa kohtuullisessa ajassa.";
+"low_priority" = "Matala (Vihreä): Vähemmän tärkeitä tehtäviä, jotka tulisi suorittaa, kun aikaa on käytettävissä.";
+"very_low_priority" = "Erittäin Matala (Sininen): Vähäisiä tehtäviä, jotka voidaan tehdä vapaa-ajalla.";
+"color_customization" = "Värin Mukauttaminen";
+"personalize_app" = "Mukauta sovellusta säätämällä kategorioidesi värejä. Tämä tarjoaa visuaalisesti houkuttelevan ja yksilöllisesti räätälöidyn käyttökokemuksen.";
+"theme_selection" = "Teeman Valinta";
+"toggle_light_dark" = "Vaihda Vaalean ja Tumman tilan välillä mukauttaaksesi mieltymyksiäsi ja varmistaaksesi miellyttävän käyttökokemuksen eri valaistusolosuhteissa.";
+"search_function" = "Hakutoiminto";
+"find_tasks" = "Löydä nopeasti ja helposti mikä tahansa tehtävä tehokkaan hakutoiminnon avulla. Syötä vain otsikko tai osa kuvauksesta näyttääksesi halutut tehtävät.";
+"detailed_views" = "Yksityiskohtaiset Näkymät";
+"view_task_details" = "Näytä kunkin tehtävän yksityiskohdat erillisessä ikkunassa varmistaaksesi, että kaikki tarvittavat tiedot ovat saatavilla.";
+"notifications" = "Ilmoitukset";
+"timely_notifications" = "Vastaanota ajankohtaisia ilmoituksia, jotta et unohda tärkeitä tehtäviä. Voit asettaa muistutuksia ja takarajoja jokaiselle tehtävälle varmistaaksesi, että olet aina tietoinen tulevista tehtävistä. Ilmoitukset on suunniteltu auttamaan sinua hallitsemaan tehtäviäsi tehokkaasti ja varmistamaan, että mikään ei jää huomaamatta.";
+"filters" = "Suodattimet";
+"overview_filters" = "Pidä tehtäväsi hallinnassa tehokkaiden suodatusvaihtoehtojen avulla. Lajittele tehtäväsi eri kriteerien mukaan löytääksesi nopeasti tärkeimmät tehtävät:";
+"overdue_tasks" = "Myöhästyneet Tehtävät";
+
+"language" = "Kieli";
+"selectLanguage" = "Valitse kieli";
+
+"manageCategories" = "Hallitse luokkia";
+"chooseTheme" = "Valitse teema";
+"settings" = "Asetukset";
+"language" = "Kieli";
+"chooseLanguage" = "Valitse kieli";
+
+"errorRequestingAuthorization" = "Virhe pyydettäessä lupaa";
+"notificationAuthorizationGranted" = "Ilmoituksen lupa myönnetty";
+"notificationAuthorizationDenied" = "Ilmoituksen lupa evätty";
+"notificationAuthorizationNotDetermined" = "Ilmoituksen lupa ei määritetty";
+"notificationAuthorizationProvisional" = "Väliaikainen ilmoituksen lupa myönnetty";
+"notificationAuthorizationEphemeral" = "Lyhytaikainen ilmoituksen lupa myönnetty";
+"notificationAuthorizationUnknown" = "Tuntematon ilmoituksen lupa tila";
+"reminderTitle" = "Muistutus: %@";
+"deadlineTitle" = "Määräaika: %@";
+"notificationBody" = "Prioriteetti: %@ - Luokka: %@\nYksityiskohdat: %@";
+"errorSchedulingNotification" = "Virhe ajoittaessa ilmoitusta";
+"notificationScheduled" = "Ilmoitus ajoitettu päivämäärälle %@ klo %@";
+
+"language" = "Kieli";
+"selectLanguage" = "Valitse kieli";
+
+/* InfoView */
+"manual_title" = "Käyttöohje";
+"manual_intro_title" = "Johdanto";
+"manual_intro_text" = "Tervetuloa DoYourThings-sovellukseen! \nTämä sovellus on suunniteltu auttamaan sinua hallitsemaan päivittäisiä tehtäviäsi tehokkaasti. Voit luoda, kategorisoida ja priorisoida tehtäviä sekä asettaa ilmoituksia, jotka muistuttavat sinua tulevista määräajoista ja tapahtumista. Kaikki tiedot – tehtävät, kategoriat ja asetukset – tallennetaan paikallisesti laitteellesi, eikä niitä siirretä pilveen.";
+"manual_categories_title" = "Kategoriat";
+"manual_categories_text" = "Sovelluksen käynnistyessä näytetään oletuskategoriat, kuten 'Yksityinen' ja 'Työ'. Voit käyttää näitä tai luoda omia kategorioitasi tehtäviesi järjestämiseksi. Jokaiselle kategorialle voidaan määrittää uniikki väri, mikä mahdollistaa tehtävien visuaalisen erottelun yhdellä silmäyksellä. Sinulla on myös mahdollisuus muokata (muuttaa nimeä ja väriä) tai poistaa kategorioita, kun niitä ei enää tarvita.";
+"manual_tasks_title" = "Tehtävät";
+"manual_tasks_text" = "DoYourThings-sovelluksella voit helposti luoda, muokata ja poistaa tehtäviä. Tehtävää luodessasi annat otsikon, yksityiskohtaisen kuvauksen ja prioriteettitason, jotka auttavat sinua arvioimaan sen tärkeyden. Lisäksi voit asettaa erilliset muistutus- ja määräaikojen ajankohdat. Varmista, että asettamasi ajat ovat tulevaisuudessa, muuten ilmoituksia ei käynnisty.";
+"manual_notifications_title" = "Ilmoitukset";
+"manual_notifications_text" = "Sovellus aikatauluttaa automaattisesti ilmoitukset muistutuksille ja määräajoille syöttämiesi aikojen perusteella. Sinun tulee täyttää asianmukaiset päivämäärä- ja aikakentät saadaksesi ilmoituksia. Jos syötät virheellisiä tai menneitä aikoja, ilmoitusta ei käynnisty. Napauttamalla ilmoitusta avautuu vastaavan tehtävän yksityiskohtainen näkymä, jolloin voit reagoida nopeasti odottaviin tehtäviin.";
+"manual_settings_title" = "Asetukset";
+"manual_settings_text" = "Asetuksista voit mukauttaa sovelluksen ulkoasua. Voit valita vaalean ja tumman tilan sekä asettaa kuvakkeiden värin omien mieltymystesi mukaan. Lisäksi voit hallita kategorioitasi luomalla, muokkaamalla tai poistamalla niitä, jotta sovellus vastaa henkilökohtaisia tarpeitasi.";
+"manual_local_storage_title" = "Paikallinen tallennus";
+"manual_local_storage_text" = "Kaikki tehtävät, kategoriat ja asetukset tallennetaan paikallisesti laitteellesi, mikä varmistaa, että tietosi ovat käytettävissä myös sovelluksen käynnistyksen jälkeen. Tämä antaa sinulle täyden hallinnan tietoihisi.";
+"manual_version_title" = "Versio";
+"manual_navigation_title" = "Tiedot";
+"back" = "Takaisin";
+"info" = "Tiedot";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

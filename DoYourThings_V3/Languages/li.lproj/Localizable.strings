@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Kies Thema";
+"theme" = "Thema";
+"light" = "Licht";
+"dark" = "Donker";
+"chooseIconColor" = "Kies een Icoon Kleur:";
+"themeChoice" = "Thema Keuze";
+"veryHighDescription" = "Zeer Hoog = Rood\nDringende en kritische taken die onmiddellijke aandacht vereisen.";
+"highDescription" = "Hoog = Oranje\nBelangrijke taken die snel moeten worden uitgevoerd, maar niet zo urgent als 'Zeer Hoog'.";
+"mediumDescription" = "Middel = Geel\nTaken van gemiddelde belangrijkheid die binnen een redelijke termijn moeten worden voltooid.";
+"lowDescription" = "Laag = Groen\nMinder belangrijke taken die moeten worden uitgevoerd wanneer er tijd beschikbaar is.";
+"veryLowDescription" = "Zeer Laag = Blauw\nTaken van lage belangrijkheid die in vrije tijd kunnen worden gedaan.";
+"categoryName" = "Categorie Naam";
+"categoryColor" = "Categorie Kleur";
+"addCategory" = "Voeg Categorie Toe";
+"editCategory" = "Bewerk Categorie";
+"name" = "Naam";
+"color" = "Kleur";
+"save" = "Opslaan";
+"delete" = "Verwijderen";
+"deleteCategory" = "Verwijder Categorie";
+"deleteCategoryConfirmation" = "Weet je zeker dat je de categorie %@ wilt verwijderen?";
+"manageCategories" = "Beheer Categorieën";
+"searchPlaceholder" = "Zoeken...";
+"date" = "Datum";
+"time" = "Tijd";
+"category" = "Categorie";
+"priority" = "Prioriteit";
+"reminder" = "Herinnering";
+"deadline" = "Deadline";
+"title" = "Titel";
+"edit" = "Bewerk";
+"exampleTitle" = "Voorbeeld Titel";
+"exampleDetailText" = "Voorbeeld Detailtekst";
+"medium" = "Middel";
+"privateCategory" = "Privé";
+"detail" = "Detail";
+"addTask" = "Taak Toevoegen";
+"newTask" = "Nieuwe Taak";
+"chooseDate" = "Kies Datum";
+"continue" = "Doorgaan";
+"done" = "Klaar";
+"cancel" = "Annuleren";
+"settings" = "Instellingen";
+"deleteTaskTitle" = "Taak Verwijderen";
+"deleteTaskMessage" = "Weet je zeker dat je deze taak wilt verwijderen?";
+"deleteButton" = "Verwijderen";
+"veryHigh" = "Zeer Hoog";
+"high" = "Hoog";
+"low" = "Laag";
+"veryLow" = "Zeer Laag";
+"workCategory" = "Werk";
+"selectedCategoryPrivate" = "Privé";
+"filterByDateAndPriority" = "Op Datum en Prioriteit";
+"filter" = "Filter";
+"choose_filter_option" = "Kies een filteroptie";
+"by_date_and_priority" = "Op Datum en Prioriteit";
+"by_priority_and_date" = "Op Prioriteit en Datum";
+"by_reminder" = "Op Herinnering";
+"by_deadline" = "Op Deadline";
+"overdue_tasks" = "Achterstallige Taken";
+"task_management" = "Taakbeheer";
+"create_edit_delete_tasks" = "Maak, bewerk en verwijder taken gemakkelijk. Elke taak kan een titel, een gedetailleerde beschrijving, een prioriteitsniveau en een categorie hebben om ervoor te zorgen dat je alle benodigde informatie op één plek hebt.";
+"categories" = "Categorieën";
+"organize_tasks" = "Organiseer je taken in aangepaste categorieën zoals 'Privé' en 'Werk'. Dit stelt je in staat om je taken duidelijk te structureren en snel toegang te krijgen tot de belangrijkste taken.";
+"prioritization" = "Prioritisering";
+"assign_priorities" = "Ken prioriteiten toe aan je taken om ervoor te zorgen dat je je concentreert op de belangrijkste en meest urgente taken. De met kleur gecodeerde prioriteiten helpen je om in één oogopslag de urgentie van elke taak te zien:";
+"very_high_priority" = "Zeer Hoog (Rood): Dringende en kritische taken die onmiddellijke aandacht vereisen.";
+"high_priority" = "Hoog (Oranje): Belangrijke taken die snel moeten worden voltooid.";
+"medium_priority" = "Middel (Geel): Taken van gemiddelde belangrijkheid die binnen een redelijke termijn moeten worden voltooid.";
+"low_priority" = "Laag (Groen): Minder belangrijke taken die moeten worden voltooid wanneer er tijd beschikbaar is.";
+"very_low_priority" = "Zeer Laag (Blauw): Taken van lage belangrijkheid die in vrije tijd kunnen worden voltooid.";
+"color_customization" = "Kleur Aanpassing";
+"personalize_app" = "Personaliseer de app door de kleuren van je categorieën aan te passen. Dit zorgt voor een visueel aantrekkelijke en individueel afgestemde gebruikerservaring.";
+"theme_selection" = "Thema Selectie";
+"toggle_light_dark" = "Schakel tussen Licht- en Donkermodus om aan je voorkeuren te voldoen en een aangename gebruikerservaring in verschillende lichtomstandigheden te garanderen.";
+"search_function" = "Zoekfunctie";
+"find_tasks" = "Vind snel en gemakkelijk elke taak met de krachtige zoekfunctie. Voer gewoon de titel of een deel van de beschrijving in om de gewenste taken weer te geven.";
+"detailed_views" = "Gedetailleerde Weergaven";
+"view_task_details" = "Bekijk de details van elke taak in een aparte weergave om ervoor te zorgen dat je alle benodigde informatie bij de hand hebt.";
+"notifications" = "Meldingen";
+"timely_notifications" = "Ontvang tijdige meldingen om te voorkomen dat je belangrijke taken mist. Je kunt herinneringen en deadlines instellen voor elke taak om ervoor te zorgen dat je altijd aan komende taken wordt herinnerd. De meldingen zijn ontworpen om je te helpen je taken efficiënt te beheren en ervoor te zorgen dat niets over het hoofd wordt gezien.";
+"filters" = "Filters";
+"overview_filters" = "Houd je taken bij met krachtige filteropties. Sorteer je taken op verschillende criteria om snel de meest relevante te vinden:";
+"overdue_tasks" = "Achterstallige Taken";
+
+"language" = "Taol";
+"selectLanguage" = "Kies taol";
+
+"manageCategories" = "Categorieë beheren";
+"chooseTheme" = "Thema kieze";
+"settings" = "Instellinge";
+"language" = "Taal";
+"chooseLanguage" = "Kies taal";
+
+"errorRequestingAuthorization" = "Fout bie 't vraoge van autorisatie";
+"notificationAuthorizationGranted" = "Melding autorisatis toegewezen";
+"notificationAuthorizationDenied" = "Melding autorisatis geweigerd";
+"notificationAuthorizationNotDetermined" = "Melding autorisatis neet vastgesteld";
+"notificationAuthorizationProvisional" = "Voorlopige melding autorisatis";
+"notificationAuthorizationEphemeral" = "Tiedelijke melding autorisatis";
+"notificationAuthorizationUnknown" = "Onbekende meldingsautoristatiestatus";
+"reminderTitle" = "Herinnering: %@";
+"deadlineTitle" = "Deadlien: %@";
+"notificationBody" = "Prioriteit: %@ - Categorie: %@\nDetails: %@";
+"errorSchedulingNotification" = "Fout bie 't plannen van de melding";
+"notificationScheduled" = "Melding gepland veur %@ om %@";
+
+"language" = "Taal";
+"selectLanguage" = "Selecteer taal";
+
+/* InfoView */
+"manual_title" = "Gebroekershandleiding";
+"manual_intro_title" = "Introductie";
+"manual_intro_text" = "Welkom bie DoYourThings! \nDeze app is oetgedacht um dich te helpe dien daaglikse taken effektyf te beheere. Doe kinne taken make, indelen en op prioriteit stelle, en kinne notifikaties instelle die dich herinneringe aan komende deadlines en evenemente. Alle gegevens – taken, categorieë en instellinge – waere lokaal op dien toestel opgeslaon en waere neet doorjere naar de cloud.";
+"manual_categories_title" = "Categorieë";
+"manual_categories_text" = "Bij 't opstarten waere de standaardcategorieë, zoals 'Privaat' en 'Werk', te zien. Doe kinne die gebruuke of eigen categorieë make um dien taken te ordene. Elke categorie kin een unieke kleur krijge, wat 't mogelijk maakt um taken in een oogopslag visueel te onderscheide. Doe hebbe ok de mogelijkheid um categorieë te bewerken (naom en kleur te verander) of te verwijdere as se neet meh nodig zyn.";
+"manual_tasks_title" = "Taken";
+"manual_tasks_text" = "Met DoYourThings kinne doe gemakkelijk taken make, bewerke en verwijdere. Bij 't make van 'ne taak geef doe 'n titel, 'ne gedetaileerde beschrieving en 'n prioriteitsniveau um de belangriekheid van de taak te beoordeele. Oaverien kinne doe ook aparte tiete instelle veur herinneringe en deadlines. Zorg dôr ven, det de ingevoerde tiete in de toekoms zeen, oet anders wordt geine notifikatie getriggerd.";
+"manual_notifications_title" = "Notifikaties";
+"manual_notifications_text" = "De app plant automatisch notifikaties veur herinneringe en deadlines op basis van de tiete die doe invoer. Doe moot de passende datum- en tiedvelde invulle um notifikaties te kriege. As oetge-ande of verloope tiete ingevoere waere, wordt geine notifikatie getriggerd. Door op 'ne notifikatie te tikke, opent de detailweergave van de betreffende taak, wat doe in staat stelt rap te reageere.";
+"manual_settings_title" = "Instellinge";
+"manual_settings_text" = "In de instellinge kinne doe de uitstraling van de app aanpassen. Doe kinne kieze tussen 't lichte en 't donkere modus en de kleur van de icône instelle nao dien voorkeur. Oaverien kinne doe de categorieë beheere door nieuwe categorieë te make, te bewerke of te verwijdere, zodat de app optimaal past bie dien persoonlijke voorkeuren.";
+"manual_local_storage_title" = "Lokale opslag";
+"manual_local_storage_text" = "Alle taken, categorieë en instellinge waere lokaal op dien toestel opgeslaon, wat seker stelt det dien gegevens beschikbaar blieve, ok nao 't herstarten van de app. Dit geit doe volle controle oer dien informatie.";
+"manual_version_title" = "Versie";
+"manual_navigation_title" = "Informatie";
+"back" = "Terug";
+"info" = "Informatie";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

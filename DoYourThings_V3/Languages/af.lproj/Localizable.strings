@@ -1,0 +1,134 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Kies Tema";
+"theme" = "Tema";
+"light" = "Lig";
+"dark" = "Donker";
+"chooseIconColor" = "Kies 'n Ikoon Kleur:";
+"themeChoice" = "Tema Keuse";
+"veryHighDescription" = "Baie Hoog = Rooi\nDringende en kritieke take wat onmiddellike aandag vereis.";
+"highDescription" = "Hoog = Oranje\nBelangrike take wat vinnig gedoen moet word, maar nie so dringend soos 'Baie Hoog' nie.";
+"mediumDescription" = "Medium = Geel\nTake van matige belang wat binne 'n redelike tydsbestek voltooi moet word.";
+"lowDescription" = "Laag = Groen\nMinder belangrike take wat gedoen moet word wanneer daar tyd is.";
+"veryLowDescription" = "Baie Laag = Blou\nTake van lae belang wat in vrye tyd gedoen kan word.";
+"categoryName" = "Kategorie Naam";
+"categoryColor" = "Kategorie Kleur";
+"addCategory" = "Voeg Kategorie By";
+"editCategory" = "Wysig Kategorie";
+"name" = "Naam";
+"color" = "Kleur";
+"save" = "Stoor";
+"delete" = "Verwyder";
+"deleteCategory" = "Verwyder Kategorie";
+"deleteCategoryConfirmation" = "Is jy seker jy wil die kategorie %@ verwyder?";
+"manageCategories" = "Bestuur Kategorieë";
+"searchPlaceholder" = "Soek...";
+"date" = "Datum";
+"time" = "Tyd";
+"category" = "Kategorie";
+"priority" = "Prioriteit";
+"reminder" = "Herinnering";
+"deadline" = "Sperdatum";
+"title" = "Titel";
+"edit" = "Wysig";
+"exampleTitle" = "Voorbeeld Titel";
+"exampleDetailText" = "Voorbeeld Detailteks";
+"medium" = "Medium";
+"privateCategory" = "Privaat";
+"detail" = "Detail";
+"addTask" = "Voeg Taak By";
+"newTask" = "Nuwe Taak";
+"chooseDate" = "Kies Datum";
+"continue" = "Gaan voort";
+"done" = "Gedaan";
+"cancel" = "Kanselleer";
+"settings" = "Instellings";
+"deleteTaskTitle" = "Verwyder Taak";
+"deleteTaskMessage" = "Is jy seker jy wil hierdie taak verwyder?";
+"deleteButton" = "Verwyder";
+"veryHigh" = "Baie Hoog";
+"high" = "Hoog";
+"low" = "Laag";
+"veryLow" = "Baie Laag";
+"workCategory" = "Werk";
+"selectedCategoryPrivate" = "Privaat";
+"filterByDateAndPriority" = "Volgens Datum en Prioriteit";
+"filter" = "Filter";
+"choose_filter_option" = "Kies 'n Filteropsie";
+"by_date_and_priority" = "Volgens Datum en Prioriteit";
+"by_priority_and_date" = "Volgens Prioriteit en Datum";
+"by_reminder" = "Volgens Herinnering";
+"by_deadline" = "Volgens Sperdatum";
+"overdue_tasks" = "Verhinderde Take";
+"task_management" = "Takebestuur";
+"create_edit_delete_tasks" = "Skep, wysig en verwyder take met gemak. Elke taak kan 'n titel, 'n gedetailleerde beskrywing, 'n prioriteitsvlak en 'n kategorie hê om te verseker dat al die nodige inligting op een plek is.";
+"categories" = "Kategorieë";
+"organize_tasks" = "Organiseer jou take in pasgemaakte kategorieë soos 'Privaat' en 'Werk'. Dit stel jou in staat om jou take duidelik te struktureer en vinnig toegang te kry tot die belangrikste take.";
+"prioritization" = "Prioritisering";
+"assign_priorities" = "Ken prioriteite aan jou take toe om te verseker dat jy fokus op die belangrikste en dringendste take. Die kleurgekodeerde prioriteite help jou om die dringendheid van elke taak in 'n oogopslag te sien:";
+"very_high_priority" = "Baie Hoog (Rooi): Dringende en kritieke take wat onmiddellike aandag vereis.";
+"high_priority" = "Hoog (Oranje): Belangrike take wat vinnig gedoen moet word.";
+"medium_priority" = "Medium (Geel): Take van matige belang wat binne 'n redelike tydsbestek voltooi moet word.";
+"low_priority" = "Laag (Groen): Minder belangrike take wat gedoen moet word wanneer daar tyd is.";
+"very_low_priority" = "Baie Laag (Blou): Take van lae belang wat in vrye tyd gedoen kan word.";
+"color_customization" = "Kleur Aanpassing";
+"personalize_app" = "Personaliseer die toepassing deur die kleure van jou kategorieë aan te pas. Dit laat 'n visueel aantreklike en individueel aangepaste gebruikerservaring toe.";
+"theme_selection" = "Temaseleksie";
+"toggle_light_dark" = "Wissel tussen Lig- en Donkermodus om die toepassing by jou voorkeure aan te pas en 'n aangename gebruikerservaring in verskillende beligtingstoestande te verseker.";
+"search_function" = "Soekfunksie";
+"find_tasks" = "Vind enige taak vinnig en maklik deur die kragtige soekfunksie te gebruik. Voer eenvoudig die titel of 'n deel van die beskrywing in om die gewenste take te vertoon.";
+"detailed_views" = "Gedetailleerde Uitsigte";
+"view_task_details" = "Sien die besonderhede van elke taak in 'n aparte uitsig om te verseker dat jy al die nodige inligting byderhand het.";
+"notifications" = "Kennisgewings";
+"timely_notifications" = "Ontvang betydse kennisgewings om te verhoed dat jy belangrike take mis. Jy kan herinnerings en sperdatums vir elke taak stel om te verseker dat jy altyd aan toekomstige take herinner word. Die kennisgewings is ontwerp om jou te help om jou take doeltreffend te bestuur en te verseker dat niks oor die hoof gesien word nie.";
+"filters" = "Filters";
+"overview_filters" = "Hou jou take dop met kragtige filteropsies. Sorteer jou take volgens verskillende kriteria om vinnig die mees relevante take te vind:";
+"overdue_tasks" = "Verhinderde Take";
+
+"manageCategories" = "Bestuur Kategorieë";
+"chooseTheme" = "Kies Tema";
+"settings" = "Instellings";
+"language" = "Taal";
+"chooseLanguage" = "Kies Taal";
+
+"errorRequestingAuthorization" = "Fout by die versoek van magtiging";
+"notificationAuthorizationGranted" = "Kennisgewingmagtiging toegestaan";
+"notificationAuthorizationDenied" = "Kennisgewingmagtiging geweier";
+"notificationAuthorizationNotDetermined" = "Kennisgewingmagtiging nie bepaal nie";
+"notificationAuthorizationProvisional" = "Voorlopige kennisgewingmagtiging";
+"notificationAuthorizationEphemeral" = "Voorlopige kennisgewingmagtiging";
+"notificationAuthorizationUnknown" = "Onbekende kennisgewingmagtigingstatus";
+"reminderTitle" = "Herinnering: %@";
+"deadlineTitle" = "Sperdatum: %@";
+"notificationBody" = "Prioriteit: %@ - Kategorie: %@\nBesonderhede: %@";
+"errorSchedulingNotification" = "Fout by die skedulering van kennisgewing";
+"notificationScheduled" = "Kennisgewing geskeduleer vir %@ om %@";
+
+"language" = "Taal";
+"selectLanguage" = "Kies Taal";
+
+/* InfoView */
+"manual_title" = "Gebruikershandleiding";
+"manual_intro_title" = "Inleiding";
+"manual_intro_text" = "Welkom by DoYourThings! \nHierdie app is ontwerp om jou te help om jou daaglikse take doeltreffend te bestuur. Jy kan take skep, kategorieë toeken en prioriteit stel, sowel as kennisgewings opstel om jou te herinner aan komende sperdatums en geleenthede. Alle data – take, kategorieë en instellings – word plaaslik op jou toestel gestoor en word nie na die wolk oorgedra nie.";
+"manual_categories_title" = "Kategorieë";
+"manual_categories_text" = "Wanneer die app begin, word standaardkategorieë soos 'Privaat' en 'Werk' getoon. Jy kan hierdie gebruik of jou eie kategorieë skep om jou take te organiseer. Aan elke kategorie kan 'n unieke kleur toegewys word, wat jou toelaat om take op 'n oogopslag visueel te onderskei. Jy het ook die moontlikheid om kategorieë te redigeer (naam en kleur te verander) of te verwyder wanneer dit nie meer nodig is nie.";
+"manual_tasks_title" = "Take";
+"manual_tasks_text" = "Met DoYourThings kan jy maklik take skep, redigeer en verwyder. Wanneer jy 'n taak skep, verskaf jy 'n titel, gedetailleerde beskrywing en 'n prioriteitsvlak om jou te help sy belangrikheid te bepaal. Daarnaast kan jy afsonderlike tye instel vir kennisgewings en sperdatums. Maak asseblief seker dat die tye wat jy instel in die toekoms lê, anders sal geen kennisgewing geaktiveer word nie.";
+"manual_notifications_title" = "Kennisgewings";
+"manual_notifications_text" = "Die app beplan outomaties kennisgewings vir herinnerings en sperdatums op grond van die tye wat jy invoer. Jy moet die toepaslike datum- en tydvelde invul om kennisgewings te ontvang. As ongeldige of verlede tye ingevoer word, sal geen kennisgewing geaktiveer word nie. Deur op 'n kennisgewing te tik, sal die ooreenstemmende taak se detailbeskouing oopmaak, wat jou toelaat om vinnig op hangende take te reageer.";
+"manual_settings_title" = "Instellings";
+"manual_settings_text" = "In die instellings kan jy die voorkoms van die app aanpas. Jy kan kies tussen Lig en Donker modus en die ikoonkleur volgens jou voorkeur instel. Daarnaast kan jy jou kategorieë bestuur – nuwe kategorieë skep, bestaande redigeer of verwyder – sodat die app optimaal by jou persoonlike voorkeure pas.";
+"manual_local_storage_title" = "Plaaslike Stoor";
+"manual_local_storage_text" = "Alle take, kategorieë en instellings word plaaslik op jou toestel gestoor. Dit verseker dat jou data beskikbaar bly, selfs nadat die app herbegin is, en gee jou volle beheer oor jou inligting.";
+"manual_version_title" = "Weergawe";
+"manual_navigation_title" = "Inligting";
+"back" = "Terug";
+"info" = "Inligting";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Tria tema";
+"theme" = "Tema";
+"light" = "Clar";
+"dark" = "Fosc";
+"chooseIconColor" = "Tria color de la icona:";
+"themeChoice" = "Elecció de tema";
+"veryHighDescription" = "Molt Alt = Vermell\nTasques urgents i crítiques que requereixen atenció immediata.";
+"highDescription" = "Alt = Taronja\nTasques importants que s'han de fer amb promptitud, però no tan urgents com 'Molt Alt'.";
+"mediumDescription" = "Mitjà = Groc\nTasques de mitjana importància que s'han de completar dins d'un termini raonable.";
+"lowDescription" = "Baix = Verd\nTasques menys importants que s'han de fer quan hi hagi temps.";
+"veryLowDescription" = "Molt Baix = Blau\nTasques de baixa importància que es poden fer en temps lliure.";
+"categoryName" = "Nom de la categoria";
+"categoryColor" = "Color de la categoria";
+"addCategory" = "Afegeix categoria";
+"editCategory" = "Edita categoria";
+"name" = "Nom";
+"color" = "Color";
+"save" = "Desa";
+"delete" = "Esborra";
+"deleteCategory" = "Esborra categoria";
+"deleteCategoryConfirmation" = "Estàs segur que vols esborrar la categoria %@?";
+"manageCategories" = "Gestiona categories";
+"searchPlaceholder" = "Cerca...";
+"date" = "Data";
+"time" = "Hora";
+"category" = "Categoria";
+"priority" = "Prioritat";
+"reminder" = "Recordatori";
+"deadline" = "Data límit";
+"title" = "Títol";
+"edit" = "Edita";
+"exampleTitle" = "Exemple de títol";
+"exampleDetailText" = "Exemple de text detallat";
+"medium" = "Mitjà";
+"privateCategory" = "Privat";
+"detail" = "Detall";
+"addTask" = "Afegeix tasca";
+"newTask" = "Nova tasca";
+"chooseDate" = "Tria data";
+"continue" = "Continua";
+"done" = "Fet";
+"cancel" = "Cancel·la";
+"settings" = "Configuració";
+"deleteTaskTitle" = "Esborra tasca";
+"deleteTaskMessage" = "Estàs segur que vols esborrar aquesta tasca?";
+"deleteButton" = "Esborra";
+"veryHigh" = "Molt Alt";
+"high" = "Alt";
+"low" = "Baix";
+"veryLow" = "Molt Baix";
+"workCategory" = "Treball";
+"selectedCategoryPrivate" = "Privat";
+"filterByDateAndPriority" = "Per data i prioritat";
+"filter" = "Filtre";
+"choose_filter_option" = "Tria una opció de filtre";
+"by_date_and_priority" = "Per data i prioritat";
+"by_priority_and_date" = "Per prioritat i data";
+"by_reminder" = "Per recordatori";
+"by_deadline" = "Per data límit";
+"overdue_tasks" = "Tasques endarrerides";
+"task_management" = "Gestió de tasques";
+"create_edit_delete_tasks" = "Crea, edita i esborra tasques fàcilment. Cada tasca pot tenir un títol, una descripció detallada, un nivell de prioritat i una categoria per assegurar que tens tota la informació necessària en un sol lloc.";
+"categories" = "Categories";
+"organize_tasks" = "Organitza les teves tasques en categories personalitzades com 'Privat' i 'Treball'. Això et permet estructurar clarament les teves tasques i accedir ràpidament a les més importants.";
+"prioritization" = "Priorització";
+"assign_priorities" = "Assigna prioritats a les teves tasques per assegurar-te que et concentres en les tasques més importants i urgents. Les prioritats codificades amb colors t'ajuden a veure la urgència de cada tasca d'un cop d'ull:";
+"very_high_priority" = "Molt Alt (Vermell): Tasques urgents i crítiques que requereixen atenció immediata.";
+"high_priority" = "Alt (Taronja): Tasques importants que s'han de completar amb promptitud.";
+"medium_priority" = "Mitjà (Groc): Tasques de mitjana importància que s'han de completar dins d'un termini raonable.";
+"low_priority" = "Baix (Verd): Tasques menys importants que s'han de completar quan hi hagi temps.";
+"very_low_priority" = "Molt Baix (Blau): Tasques de baixa importància que es poden completar en temps lliure.";
+"color_customization" = "Personalització del color";
+"personalize_app" = "Personalitza l'aplicació ajustant els colors de les teves categories. Això permet una experiència d'usuari visualment atractiva i personalitzada.";
+"theme_selection" = "Selecció de tema";
+"toggle_light_dark" = "Canvia entre el mode clar i fosc per adaptar-te a les teves preferències i assegurar una experiència d'usuari agradable en diferents condicions d'il·luminació.";
+"search_function" = "Funció de cerca";
+"find_tasks" = "Troba ràpidament i fàcilment qualsevol tasca utilitzant la potent funció de cerca. Només has d'introduir el títol o una part de la descripció per mostrar les tasques desitjades.";
+"detailed_views" = "Vistes detallades";
+"view_task_details" = "Mostra els detalls de cada tasca en una vista separada per assegurar-te que tens tota la informació necessària a mà.";
+"notifications" = "Notificacions";
+"timely_notifications" = "Rep notificacions a temps per evitar perdre tasques importants. Pots establir recordatoris i dates límit per a cada tasca per assegurar-te que sempre recordes les tasques pròximes. Les notificacions estan dissenyades per ajudar-te a gestionar les teves tasques de manera eficient i assegurar-te que no es passi res per alt.";
+"filters" = "Filtres";
+"overview_filters" = "Mantén un registre de les teves tasques amb potents opcions de filtre. Ordena les teves tasques segons diferents criteris per trobar ràpidament les més rellevants:";
+"overdue_tasks" = "Tasques endarrerides";
+
+"language" = "Llengua";
+"selectLanguage" = "Selecciona la llengua";
+
+"manageCategories" = "Gestionar categories";
+"chooseTheme" = "Triar tema";
+"settings" = "Configuració";
+"language" = "Idioma";
+"chooseLanguage" = "Triar idioma";
+
+"errorRequestingAuthorization" = "Error en sol·licitar l'autorització";
+"notificationAuthorizationGranted" = "Autorització de notificació concedida";
+"notificationAuthorizationDenied" = "Autorització de notificació denegada";
+"notificationAuthorizationNotDetermined" = "Autorització de notificació no determinada";
+"notificationAuthorizationProvisional" = "Autorització de notificació provisional";
+"notificationAuthorizationEphemeral" = "Autorització de notificació efímera";
+"notificationAuthorizationUnknown" = "Estat d'autorització de notificació desconegut";
+"reminderTitle" = "Recordatori: %@";
+"deadlineTitle" = "Data límit: %@";
+"notificationBody" = "Prioritat: %@ - Categoria: %@\nDetalls: %@";
+"errorSchedulingNotification" = "Error en programar la notificació";
+"notificationScheduled" = "Notificació programada per a %@ a les %@";
+
+"language" = "Idioma";
+"selectLanguage" = "Seleccionar idioma";
+
+/* InfoView */
+"manual_title" = "Manual d'usuari";
+"manual_intro_title" = "Introducció";
+"manual_intro_text" = "Benvingut a DoYourThings! \nAquesta aplicació està dissenyada per ajudar-te a gestionar de manera eficient les teves tasques diàries. Pots crear, categoritzar i establir prioritats per a les tasques, així com configurar notificacions per recordar-te els terminis i esdeveniments propers. Totes les dades – tasques, categories i configuracions – es guarden localment al teu dispositiu i no es transmeten al núvol.";
+"manual_categories_title" = "Categories";
+"manual_categories_text" = "En iniciar l'aplicació, es mostren categories per defecte com 'Privat' i 'Treball'. Pots utilitzar aquestes o crear les teves pròpies categories per organitzar les teves tasques. A cada categoria se li pot assignar un color únic, cosa que et permet distingir visualment les tasques d'un cop d'ull. També tens la possibilitat d'editar (canviar el nom i el color) o esborrar categories quan ja no siguin necessàries.";
+"manual_tasks_title" = "Tasques";
+"manual_tasks_text" = "Amb DoYourThings pots crear, editar i esborrar tasques de manera senzilla. En crear una tasca, proporciones un títol, una descripció detallada i un nivell de prioritat que t'ajuda a avaluar-ne la importància. A més, pots establir horaris separats per a recordatoris i terminis. Assegura't que els horaris que estableixes són en el futur, en cas contrari no s'activarà cap notificació.";
+"manual_notifications_title" = "Notificacions";
+"manual_notifications_text" = "L'aplicació programa automàticament notificacions per als recordatoris i terminis basant-se en els horaris que introdueixes. Has d'omplir els camps corresponents de data i hora per rebre notificacions. Si s'introdueixen horaris invàlids o passats, no s'activarà cap notificació. En tocar una notificació, s'obrirà la vista detallada de la tasca corresponent, permetent-te respondre ràpidament.";
+"manual_settings_title" = "Configuració";
+"manual_settings_text" = "A la configuració pots personalitzar l'aparença de l'aplicació. Pots triar entre el mode clar i fosc i establir el color de les icones segons la teva preferència. A més, pots gestionar les teves categories creant-ne de noves, editant-les o eliminant-les, per adaptar l'aplicació a les teves necessitats personals.";
+"manual_local_storage_title" = "Emmagatzematge local";
+"manual_local_storage_text" = "Totes les tasques, categories i configuracions es guarden localment al teu dispositiu, assegurant que les teves dades romanguin disponibles fins i tot després de reiniciar l'aplicació. Això et dóna control total sobre la teva informació.";
+"manual_version_title" = "Versió";
+"manual_navigation_title" = "Informació";
+"back" = "Enrere";
+"info" = "Informació";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

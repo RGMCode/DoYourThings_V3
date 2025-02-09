@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "テーマを選択";
+"theme" = "テーマ";
+"light" = "ライト";
+"dark" = "ダーク";
+"chooseIconColor" = "アイコンの色を選択:";
+"themeChoice" = "テーマの選択";
+"veryHighDescription" = "非常に高い = 赤\n緊急かつ重要なタスクで、即時の対応が必要です。";
+"highDescription" = "高い = オレンジ\n非常に高いほどではありませんが、迅速に対応する必要がある重要なタスク。";
+"mediumDescription" = "中くらい = 黄色\n適度な期間内に完了すべき重要なタスク。";
+"lowDescription" = "低い = 緑\n時間があるときに行うべき重要度の低いタスク。";
+"veryLowDescription" = "非常に低い = 青\n時間があるときに行うべき重要度の低いタスク。";
+"categoryName" = "カテゴリ名";
+"categoryColor" = "カテゴリの色";
+"addCategory" = "カテゴリを追加";
+"editCategory" = "カテゴリを編集";
+"name" = "名前";
+"color" = "色";
+"save" = "保存";
+"delete" = "削除";
+"deleteCategory" = "カテゴリを削除";
+"deleteCategoryConfirmation" = "カテゴリ %@ を削除してもよろしいですか？";
+"manageCategories" = "カテゴリを管理";
+"searchPlaceholder" = "検索...";
+"date" = "日付";
+"time" = "時間";
+"category" = "カテゴリ";
+"priority" = "優先度";
+"reminder" = "リマインダー";
+"deadline" = "締め切り";
+"title" = "タイトル";
+"edit" = "編集";
+"exampleTitle" = "サンプルタイトル";
+"exampleDetailText" = "サンプルの詳細テキスト";
+"medium" = "中くらい";
+"privateCategory" = "プライベート";
+"detail" = "詳細";
+"addTask" = "タスクを追加";
+"newTask" = "新しいタスク";
+"chooseDate" = "日付を選択";
+"continue" = "続行";
+"done" = "完了";
+"cancel" = "キャンセル";
+"settings" = "設定";
+"deleteTaskTitle" = "タスクを削除";
+"deleteTaskMessage" = "このタスクを削除してもよろしいですか？";
+"deleteButton" = "削除";
+"veryHigh" = "非常に高い";
+"high" = "高い";
+"low" = "低い";
+"veryLow" = "非常に低い";
+"workCategory" = "仕事";
+"selectedCategoryPrivate" = "プライベート";
+"filterByDateAndPriority" = "日付と優先度で";
+"filter" = "フィルター";
+"choose_filter_option" = "フィルターオプションを選択";
+"by_date_and_priority" = "日付と優先度で";
+"by_priority_and_date" = "優先度と日付で";
+"by_reminder" = "リマインダーで";
+"by_deadline" = "締め切りで";
+"overdue_tasks" = "期限切れのタスク";
+"task_management" = "タスク管理";
+"create_edit_delete_tasks" = "簡単にタスクを作成、編集、削除できます。各タスクには、タイトル、詳細な説明、優先度、カテゴリを付けることができ、必要な情報を一か所にまとめることができます。";
+"categories" = "カテゴリ";
+"organize_tasks" = "タスクを「プライベート」や「仕事」などのカスタムカテゴリに整理します。これにより、タスクを明確に構造化し、最も重要なタスクに迅速にアクセスできます。";
+"prioritization" = "優先順位設定";
+"assign_priorities" = "タスクに優先順位を設定して、最も重要で緊急なタスクに集中できるようにします。色分けされた優先順位は、各タスクの緊急度を一目で確認できます：";
+"very_high_priority" = "非常に高い（赤）：即時対応が必要な緊急かつ重要なタスク。";
+"high_priority" = "高い（オレンジ）：迅速に完了する必要がある重要なタスク。";
+"medium_priority" = "中くらい（黄色）：適度な期間内に完了すべき中程度の重要度のタスク。";
+"low_priority" = "低い（緑）：時間があるときに完了すべき重要度の低いタスク。";
+"very_low_priority" = "非常に低い（青）：時間があるときに完了すべき重要度の低いタスク。";
+"color_customization" = "色のカスタマイズ";
+"personalize_app" = "カテゴリの色を調整してアプリを個別にカスタマイズします。これにより、視覚的に魅力的で個別に調整されたユーザー体験が提供されます。";
+"theme_selection" = "テーマ選択";
+"toggle_light_dark" = "ライトモードとダークモードを切り替えて、好みに合わせ、さまざまな照明条件で快適な使用体験を提供します。";
+"search_function" = "検索機能";
+"find_tasks" = "強力な検索機能を使用して、タスクを簡単に見つけることができます。タイトルや説明の一部を入力するだけで、必要なタスクが表示されます。";
+"detailed_views" = "詳細ビュー";
+"view_task_details" = "各タスクの詳細を別のビューで表示し、必要な情報を手元に持っておくことができます。";
+"notifications" = "通知";
+"timely_notifications" = "タイムリーな通知を受け取り、重要なタスクを見逃さないようにします。各タスクのリマインダーと締め切りを設定して、常に今後のタスクを通知するようにします。通知は、タスクを効率的に管理し、何も見逃さないように設計されています。";
+"filters" = "フィルター";
+"overview_filters" = "強力なフィルターオプションを使用してタスクを追跡します。さまざまな基準でタスクを並べ替えて、最も関連性の高いタスクをすばやく見つけます：";
+"overdue_tasks" = "期限切れのタスク";
+
+"language" = "言語";
+"selectLanguage" = "言語を選択";
+
+"manageCategories" = "カテゴリーを管理する";
+"chooseTheme" = "テーマを選択";
+"settings" = "設定";
+"language" = "言語";
+"chooseLanguage" = "言語を選択";
+
+"errorRequestingAuthorization" = "認証リクエストエラー";
+"notificationAuthorizationGranted" = "通知権限が付与されました";
+"notificationAuthorizationDenied" = "通知権限が拒否されました";
+"notificationAuthorizationNotDetermined" = "通知権限が決定されていません";
+"notificationAuthorizationProvisional" = "仮の通知権限";
+"notificationAuthorizationEphemeral" = "一時的な通知権限";
+"notificationAuthorizationUnknown" = "不明な通知権限状態";
+"reminderTitle" = "リマインダー: %@";
+"deadlineTitle" = "締め切り: %@";
+"notificationBody" = "優先度: %@ - カテゴリ: %@\n詳細: %@";
+"errorSchedulingNotification" = "通知スケジューリングエラー";
+"notificationScheduled" = "通知が%@の%@にスケジュールされました";
+
+"language" = "言語";
+"selectLanguage" = "言語を選択";
+
+/* InfoView */
+"manual_title" = "ユーザーマニュアル";
+"manual_intro_title" = "はじめに";
+"manual_intro_text" = "Welcome to DoYourThings! \nThis app is designed to help you efficiently manage your daily tasks. You can create, categorize, and prioritize tasks as well as set up notifications to remind you of upcoming deadlines and events. All data – tasks, categories, and settings – is stored locally on your device and is not transmitted to the cloud.";
+"manual_categories_title" = "カテゴリ";
+"manual_categories_text" = "起動時に「プライベート」や「仕事」などのデフォルトカテゴリが表示されます。これらを使用するか、独自のカテゴリを作成してタスクを整理できます。各カテゴリにはユニークな色を割り当てることができ、一目でタスクを視覚的に区別できます。また、必要なくなった場合はカテゴリを編集（名前や色の変更）または削除することも可能です。";
+"manual_tasks_title" = "タスク";
+"manual_tasks_text" = "DoYourThingsを使えば、タスクを簡単に作成、編集、削除できます。タスク作成時には、タイトル、詳細な説明、優先度を入力して、その重要性を判断するのに役立てます。さらに、リマインダーと締め切りの時間を別々に設定できます。設定する時間が未来であることを確認してください。そうでなければ、通知は発生しません。";
+"manual_notifications_title" = "通知";
+"manual_notifications_text" = "入力した時間に基づき、アプリが自動的にリマインダーと締め切りの通知をスケジュールします。通知を受け取るには、適切な日付と時刻のフィールドに入力する必要があります。無効な時間または過去の時間が入力された場合、通知は発生しません。通知をタップすると、対応するタスクの詳細画面が開き、保留中のタスクに迅速に対応できます。";
+"manual_settings_title" = "設定";
+"manual_settings_text" = "設定画面で、アプリの外観をカスタマイズできます。ライトモードとダークモードを選択し、アイコンの色を好みに合わせて設定できます。また、カテゴリを作成、編集、削除することで、アプリをあなたのニーズに合わせて調整することもできます。";
+"manual_local_storage_title" = "ローカルストレージ";
+"manual_local_storage_text" = "すべてのタスク、カテゴリ、および設定はデバイス上にローカルで保存され、アプリ再起動後もデータが利用可能な状態が保たれます。これにより、情報を完全に管理することができます。";
+"manual_version_title" = "バージョン";
+"manual_navigation_title" = "情報";
+"back" = "戻る";
+"info" = "情報";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";

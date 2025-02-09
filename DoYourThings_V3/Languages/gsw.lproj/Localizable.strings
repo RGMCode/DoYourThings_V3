@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  DoYourThings_V2.x
+
+  Created by RGMCode on 01.08.24.
+  
+*/
+"chooseTheme" = "Thema wählen";
+"theme" = "Thema";
+"light" = "Hell";
+"dark" = "Dunkel";
+"chooseIconColor" = "Wähle eine Icon-Farbe:";
+"themeChoice" = "Themenwahl";
+"veryHighDescription" = "Sehr Hoch = Rot\nDringende und kritische Aufgaben, die sofortige Aufmerksamkeit erfordern.";
+"highDescription" = "Hoch = Orange\nWichtige Aufgaben, die prompt erledigt werden müssen, aber nicht so dringend wie 'Sehr Hoch'.";
+"mediumDescription" = "Mittel = Gelb\nAufgaben von mittlerer Wichtigkeit, die innerhalb eines vernünftigen Zeitrahmens erledigt werden sollten.";
+"lowDescription" = "Niedrig = Grün\nWeniger wichtige Aufgaben, die erledigt werden sollten, wenn Zeit verfügbar ist.";
+"veryLowDescription" = "Sehr Niedrig = Blau\nAufgaben von geringer Wichtigkeit, die bei Gelegenheit erledigt werden können.";
+"categoryName" = "Kategoriename";
+"categoryColor" = "Kategoriefarbe";
+"addCategory" = "Kategorie hinzufügen";
+"editCategory" = "Kategorie bearbeiten";
+"name" = "Name";
+"color" = "Farbe";
+"save" = "Speichern";
+"delete" = "Löschen";
+"deleteCategory" = "Kategorie löschen";
+"deleteCategoryConfirmation" = "Sind Sie sicher, dass Sie die Kategorie %@ löschen möchten?";
+"manageCategories" = "Kategorien verwalten";
+"searchPlaceholder" = "Suche...";
+"date" = "Datum";
+"time" = "Zeit";
+"category" = "Kategorie";
+"priority" = "Priorität";
+"reminder" = "Erinnerung";
+"deadline" = "Frist";
+"title" = "Titel";
+"edit" = "Bearbeiten";
+"exampleTitle" = "Beispiel Titel";
+"exampleDetailText" = "Beispiel Detailtext";
+"medium" = "Mittel";
+"privateCategory" = "Privat";
+"detail" = "Detail";
+"addTask" = "Aufgabe hinzufügen";
+"newTask" = "Neue Aufgabe";
+"chooseDate" = "Datum wählen";
+"continue" = "Weiter";
+"done" = "Fertig";
+"cancel" = "Abbrechen";
+"settings" = "Einstellungen";
+"deleteTaskTitle" = "Aufgabe löschen";
+"deleteTaskMessage" = "Sind Sie sicher, dass Sie diese Aufgabe löschen möchten?";
+"deleteButton" = "Löschen";
+"veryHigh" = "Sehr Hoch";
+"high" = "Hoch";
+"low" = "Niedrig";
+"veryLow" = "Sehr Niedrig";
+"workCategory" = "Arbeit";
+"selectedCategoryPrivate" = "Privat";
+"filterByDateAndPriority" = "Nach Datum und Priorität";
+"filter" = "Filter";
+"choose_filter_option" = "Wählen Sie eine Filteroption";
+"by_date_and_priority" = "Nach Datum und Priorität";
+"by_priority_and_date" = "Nach Priorität und Datum";
+"by_reminder" = "Nach Erinnerung";
+"by_deadline" = "Nach Frist";
+"overdue_tasks" = "Überfällige Aufgaben";
+"task_management" = "Aufgabenverwaltung";
+"create_edit_delete_tasks" = "Erstellen, bearbeiten und löschen Sie Aufgaben mit Leichtigkeit. Jede Aufgabe kann einen Titel, eine detaillierte Beschreibung, ein Prioritätslevel und eine Kategorie haben, um sicherzustellen, dass Sie alle notwendigen Informationen an einem Ort haben.";
+"categories" = "Kategorien";
+"organize_tasks" = "Organisieren Sie Ihre Aufgaben in benutzerdefinierten Kategorien wie 'Privat' und 'Arbeit'. Dies ermöglicht es Ihnen, Ihre Aufgaben klar zu strukturieren und schnell auf die wichtigsten Aufgaben zuzugreifen.";
+"prioritization" = "Priorisierung";
+"assign_priorities" = "Weisen Sie Ihren Aufgaben Prioritäten zu, um sicherzustellen, dass Sie sich auf die wichtigsten und dringendsten Aufgaben konzentrieren. Die farbcodierten Prioritäten helfen Ihnen dabei, den Dringlichkeitsgrad jeder Aufgabe auf einen Blick zu erkennen:";
+"very_high_priority" = "Sehr Hoch (Rot): Dringende und kritische Aufgaben, die sofortige Aufmerksamkeit erfordern.";
+"high_priority" = "Hoch (Orange): Wichtige Aufgaben, die prompt erledigt werden müssen.";
+"medium_priority" = "Mittel (Gelb): Aufgaben von mittlerer Wichtigkeit, die innerhalb eines vernünftigen Zeitrahmens erledigt werden sollten.";
+"low_priority" = "Niedrig (Grün): Weniger wichtige Aufgaben, die erledigt werden sollten, wenn Zeit verfügbar ist.";
+"very_low_priority" = "Sehr Niedrig (Blau): Aufgaben von geringer Wichtigkeit, die bei Gelegenheit erledigt werden können.";
+"color_customization" = "Farbanpassung";
+"personalize_app" = "Personalisieren Sie die App, indem Sie die Farben Ihrer Kategorien anpassen. Dies ermöglicht eine visuell ansprechende und individuell gestaltete Benutzererfahrung.";
+"theme_selection" = "Themenauswahl";
+"toggle_light_dark" = "Wechseln Sie zwischen Light- und Dark-Mode, um die App Ihren Vorlieben anzupassen und eine angenehme Nutzungserfahrung bei unterschiedlichen Lichtverhältnissen zu gewährleisten.";
+"search_function" = "Suchfunktion";
+"find_tasks" = "Finden Sie schnell und einfach jede Aufgabe mit der leistungsstarken Suchfunktion. Geben Sie einfach den Titel oder einen Teil der Beschreibung ein, um die gewünschten Aufgaben anzuzeigen.";
+"detailed_views" = "Detaillierte Ansichten";
+"view_task_details" = "Zeigen Sie die Details jeder Aufgabe in einer separaten Ansicht an, um sicherzustellen, dass Sie alle notwendigen Informationen zur Hand haben.";
+"notifications" = "Benachrichtigungen";
+"timely_notifications" = "Erhalten Sie rechtzeitige Benachrichtigungen, um keine wichtigen Aufgaben zu verpassen. Sie können Erinnerungen und Fristen für jede Aufgabe festlegen, sodass Sie immer an anstehende Aufgaben erinnert werden. Die Benachrichtigungen sind so konzipiert, dass sie Ihnen helfen, Ihre Aufgaben effizient zu verwalten und sicherzustellen, dass nichts übersehen wird.";
+"filters" = "Filter";
+"overview_filters" = "Behalten Sie den Überblick über Ihre Aufgaben mit leistungsstarken Filteroptionen. Sortieren Sie Ihre Aufgaben nach verschiedenen Kriterien, um schnell die relevantesten Aufgaben zu finden:";
+"overdue_tasks" = "Überfällige Aufgaben";
+
+"language" = "Sprooch";
+"selectLanguage" = "Sprooch ussue";
+
+"manageCategories" = "Kategorien verwalte";
+"chooseTheme" = "Thema ussue";
+"settings" = "Eistellige";
+"language" = "Sprooch";
+"chooseLanguage" = "Sprooch wähle";
+
+"errorRequestingAuthorization" = "Fähler bim Aafrage vo de Bewilligung";
+"notificationAuthorizationGranted" = "Benachrichtigs-Bewilligung erteilt";
+"notificationAuthorizationDenied" = "Benachrichtigs-Bewilligung verweigert";
+"notificationAuthorizationNotDetermined" = "Benachrichtigs-Bewilligung nöd bestimmt";
+"notificationAuthorizationProvisional" = "Vorläufige Benachrichtigs-Bewilligung";
+"notificationAuthorizationEphemeral" = "Episodisch Benachrichtigs-Bewilligung";
+"notificationAuthorizationUnknown" = "Unbekannte Benachrichtigs-Bewilligigstatus";
+"reminderTitle" = "Erinnerig: %@";
+"deadlineTitle" = "Endtermin: %@";
+"notificationBody" = "Priorität: %@ - Kategorie: %@\nDetail: %@";
+"errorSchedulingNotification" = "Fähler bim Terminierä vo de Benachrichtig";
+"notificationScheduled" = "Benachrichtig isch für %@ um %@ geplant";
+
+"language" = "Sprache";
+"selectLanguage" = "Sprache auswählen";
+
+/* InfoView */
+"manual_title" = "Bedienungsanleitung";
+"manual_intro_title" = "Einführung";
+"manual_intro_text" = "Willkommen bei DoYourThings! \nDiese App wurde entwickelt, um Ihnen dabei zu helfen, Ihre täglichen Aufgaben effizient zu verwalten. Sie können Aufgaben erstellen, kategorisieren, priorisieren und Benachrichtigungen einrichten, um Sie an bevorstehende Termine und Fristen zu erinnern. Alle Daten – Aufgaben, Kategorien und Einstellungen – werden ausschließlich lokal auf Ihrem Gerät gespeichert und nicht in die Cloud übertragen.";
+"manual_categories_title" = "Kategorien";
+"manual_categories_text" = "Beim Start werden Standard-Kategorien wie \"Privat\" und \"Arbeit\" angezeigt. Sie können diese Kategorien verwenden oder eigene Kategorien erstellen, um Ihre Aufgaben individuell zu organisieren. Jeder Kategorie können Sie eine eigene Farbe zuweisen, sodass Sie Ihre Aufgaben auf einen Blick visuell unterscheiden können. Außerdem können Sie bestehende Kategorien bearbeiten (Name und Farbe ändern) oder löschen, wenn sie nicht mehr benötigt werden.";
+"manual_tasks_title" = "Aufgaben";
+"manual_tasks_text" = "Mit DoYourThings können Sie Aufgaben einfach erstellen, bearbeiten und löschen. Beim Erstellen einer Aufgabe geben Sie einen Titel, eine ausführliche Beschreibung und eine Priorität ein, die Ihnen dabei hilft, die Wichtigkeit der Aufgabe einzuschätzen. Zusätzlich können Sie separate Erinnerungs- und Deadlinetermine festlegen. Bitte stellen Sie sicher, dass die eingegebenen Zeiten in der Zukunft liegen, da sonst keine Benachrichtigung ausgelöst wird.";
+"manual_notifications_title" = "Benachrichtigungen";
+"manual_notifications_text" = "Die App plant automatisch Benachrichtigungen für Erinnerungen und Deadlines basierend auf den von Ihnen eingegebenen Zeiten. Sie müssen die entsprechenden Datums- und Uhrzeitfelder ausfüllen, um Benachrichtigungen zu erhalten. Falls ungültige oder vergangene Zeiten eingegeben werden, wird keine Benachrichtigung ausgelöst. Tippen Sie auf eine Benachrichtigung, öffnet sich direkt die Detailansicht der betreffenden Aufgabe, sodass Sie schnell reagieren können.";
+"manual_settings_title" = "Einstellungen";
+"manual_settings_text" = "In den Einstellungen können Sie das Erscheinungsbild der App anpassen. Sie haben die Wahl zwischen Light- und Dark‑Mode sowie die Möglichkeit, die Farbe der Icons individuell festzulegen. Zudem können Sie Ihre Kategorien verwalten – neue Kategorien erstellen, bestehende bearbeiten oder löschen – um die App optimal an Ihre persönlichen Vorlieben anzupassen.";
+"manual_local_storage_title" = "Lokale Speicherung";
+"manual_local_storage_text" = "Alle Aufgaben, Kategorien und Einstellungen werden lokal auf Ihrem Gerät gespeichert. Dies stellt sicher, dass Ihre Daten auch nach einem Neustart der App verfügbar bleiben und Sie die volle Kontrolle über Ihre Informationen behalten.";
+"manual_version_title" = "Version";
+"manual_navigation_title" = "Informationen";
+"back" = "Zurück";
+"info" = "Informationen";
+/*Version-Number*/
+"manual_version_number" = "3.0.0";
