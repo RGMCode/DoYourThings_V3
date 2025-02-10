@@ -23,22 +23,6 @@ struct DoYourThingCategoriesAddView: View {
 
             ColorPicker(NSLocalizedString("categoryColor", comment: "Category Color"), selection: $selectedColor)
                 .padding()
-
-            // ACHTUNG: Hier muss viewModel.addCategory(...) verwendet werden, nicht $viewModel.addCategory(...)
-            /*Button(NSLocalizedString("save", comment: "Save"))
-            {
-                // Überprüfe, ob der Name nicht leer ist
-                guard !categoryName.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else {
-                    print("Kategorie nicht hinzugefügt: Name ist leer.")
-                    return
-                }
-                
-                // Kategorie hinzufügen – direkt über viewModel, ohne den $-Operator!
-                viewModel.addCategory(name: categoryName, color: selectedColor)
-                
-                // Ansicht schließen
-                presentationMode.wrappedValue.dismiss()
-            }*/
             
             Section {
                 Button(action: {

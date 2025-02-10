@@ -13,7 +13,7 @@ class AppDelegate: NSObject, UIApplicationDelegate, UNUserNotificationCenterDele
                      didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil) -> Bool {
         UNUserNotificationCenter.current().delegate = self
         
-        // Prüfe, ob die App über einen URL-Launch gestartet wurde (DeepLink)
+        // Prüfe, ob die App über einen URL-Launch gestartet wurde DeepLink
         if let url = launchOptions?[.url] as? URL {
             if url.scheme == "myapp", url.host == "task" {
                 let taskId = url.lastPathComponent

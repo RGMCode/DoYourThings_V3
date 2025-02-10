@@ -22,7 +22,6 @@ struct DoYourThingSearchView: View {
                     .padding()
                     .textFieldStyle(RoundedBorderTextFieldStyle())
                     .onChange(of: searchText) { newValue in
-                        // Direkter Aufruf – **kein** $viewModel!
                         viewModel.searchTasks(query: newValue)
                     }
                 
@@ -32,7 +31,6 @@ struct DoYourThingSearchView: View {
                     }) {
                         HStack {
                             Image(systemName: "circle.hexagongrid.circle")
-                                // Hier direkt auf viewModel.priorityColor zugreifen, **ohne** den Dollar‑Operator:
                                 .foregroundColor(viewModel.priorityColor(priority: task.dytPriority))
                                 .font(.system(size: 25))
                             Text(task.dytTitel)

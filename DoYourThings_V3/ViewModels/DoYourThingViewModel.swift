@@ -131,8 +131,8 @@ class DoYourThingViewModel: ObservableObject {
             }
             context.delete(category)
             try context.save()
-            fetchCategories()  // Lade Kategorien neu
-            fetchDYT()         // Aktualisiere auch die Aufgaben
+            fetchCategories()
+            fetchDYT()
         } catch {
             print("Fehler beim Löschen der Kategorie:", error)
         }
@@ -287,7 +287,6 @@ class DoYourThingViewModel: ObservableObject {
         }
     }
     
-    // Convenience-Methoden
     func deleteDYT(task: DoYourThing) {
         deleteTask(task: task)
     }

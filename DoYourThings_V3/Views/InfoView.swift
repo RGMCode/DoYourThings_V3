@@ -20,16 +20,6 @@ struct InfoView: View {
             ScrollView {
                 VStack(alignment: .leading, spacing: 20) {
                     
-                    // Überschrift
-                    /*Text(NSLocalizedString("manual_title", comment: "Manual Title"))
-                        .font(.largeTitle)
-                        .fontWeight(.bold)
-                        .multilineTextAlignment(.center)
-                        .frame(maxWidth: .infinity)
-                        .padding(.top)
-                    
-                    Divider() */
-                    
                     // 1. Einführung / Introduction
                     cardView(title: NSLocalizedString("manual_intro_title", comment: "Introduction"),
                              content: NSLocalizedString("manual_intro_text", comment: "Introduction text. All data is stored locally on your device."))

@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 70;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -11,16 +11,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		365D696C2D54B923006123A3 /* DoYourThings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoYourThings.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		365D696C2D54B923006123A3 /* DoYourThings_V3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoYourThings_V3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36F252492D5935A3006F5A8E /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		365D696E2D54B923006123A3 /* DoYourThings_V3 */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = DoYourThings_V3;
-			sourceTree = "<group>";
-		};
+		365D696E2D54B923006123A3 /* DoYourThings_V3 */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = DoYourThings_V3; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,7 +42,7 @@
 		365D696D2D54B923006123A3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				365D696C2D54B923006123A3 /* DoYourThings.app */,
+				365D696C2D54B923006123A3 /* DoYourThings_V3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -54,9 +50,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		365D696B2D54B923006123A3 /* DoYourThings */ = {
+		365D696B2D54B923006123A3 /* DoYourThings_V3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 365D697A2D54B925006123A3 /* Build configuration list for PBXNativeTarget "DoYourThings" */;
+			buildConfigurationList = 365D697A2D54B925006123A3 /* Build configuration list for PBXNativeTarget "DoYourThings_V3" */;
 			buildPhases = (
 				365D69682D54B923006123A3 /* Sources */,
 				365D69692D54B923006123A3 /* Frameworks */,
@@ -69,11 +65,11 @@
 			fileSystemSynchronizedGroups = (
 				365D696E2D54B923006123A3 /* DoYourThings_V3 */,
 			);
-			name = DoYourThings;
+			name = DoYourThings_V3;
 			packageProductDependencies = (
 			);
 			productName = DoYourThings_V3;
-			productReference = 365D696C2D54B923006123A3 /* DoYourThings.app */;
+			productReference = 365D696C2D54B923006123A3 /* DoYourThings_V3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -91,7 +87,8 @@
 					};
 				};
 			};
-			buildConfigurationList = 365D69672D54B923006123A3 /* Build configuration list for PBXProject "DoYourThings" */;
+			buildConfigurationList = 365D69672D54B923006123A3 /* Build configuration list for PBXProject "DoYourThings_V3" */;
+			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -148,13 +145,11 @@
 				"en-IN",
 			);
 			mainGroup = 365D69632D54B923006123A3;
-			minimizedProjectReferenceProxies = 1;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 365D696D2D54B923006123A3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				365D696B2D54B923006123A3 /* DoYourThings */,
+				365D696B2D54B923006123A3 /* DoYourThings_V3 */,
 			);
 		};
 /* End PBXProject section */
@@ -312,6 +307,8 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "DoYourThings-V3-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = DoYourThings;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -325,6 +322,10 @@
 				MARKETING_VERSION = 3.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.RGMCode.DoYourThings-V3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -343,6 +344,8 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "DoYourThings-V3-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = DoYourThings;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -356,6 +359,10 @@
 				MARKETING_VERSION = 3.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.RGMCode.DoYourThings-V3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -365,7 +372,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		365D69672D54B923006123A3 /* Build configuration list for PBXProject "DoYourThings" */ = {
+		365D69672D54B923006123A3 /* Build configuration list for PBXProject "DoYourThings_V3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				365D69782D54B925006123A3 /* Debug */,
@@ -374,7 +381,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		365D697A2D54B925006123A3 /* Build configuration list for PBXNativeTarget "DoYourThings" */ = {
+		365D697A2D54B925006123A3 /* Build configuration list for PBXNativeTarget "DoYourThings_V3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				365D697B2D54B925006123A3 /* Debug */,

@@ -3,13 +3,6 @@
 //  DoYourThings_V3
 //
 //  Created by RGMCode on 06.02.25.
-//
-
-//
-//  DoYourThingSettingView.swift
-//  DoYourThings_V3
-//
-//  Created by RGMCode on 06.02.25.
 import SwiftUI
 
 struct DoYourThingSettingView: View {
@@ -44,7 +37,6 @@ struct DoYourThingSettingView: View {
                     changeLanguage(to: newValue)
                 }
             }
-            // Neuer Abschnitt für die Bedienungsanleitung
             Section {
                 NavigationLink(destination: InfoView()) {
                     Text(NSLocalizedString("info", comment: "Info"))

@@ -49,14 +49,32 @@ class NotificationManager: ObservableObject {
     
     func scheduleNotification(task: DoYourThing, isReminder: Bool) {
         let content = UNMutableNotificationContent()
-        content.title = isReminder ?
-            String(format: NSLocalizedString("reminderTitle", comment: "Reminder: %@"), task.dytTitel) :
-            String(format: NSLocalizedString("deadlineTitle", comment: "Deadline: %@"), task.dytTitel)
+        
+        if isReminder {
+            let reminderTitle = String(format: NSLocalizedString("reminderTitle", comment: "Reminder: %@"), task.dytTitel)
+            content.title = "⚠️ \(reminderTitle)"
+        } else {
+            let deadlineTitle = String(format: NSLocalizedString("deadlineTitle", comment: "Deadline: %@"), task.dytTitel)
+            content.title = "🚨 \(deadlineTitle)"
+        }
         
         let localizedPriority = localizedPriority(for: task.dytPriority)
         let categoryName = task.category?.originalName ?? NSLocalizedString("uncategorized", comment: "Uncategorized")
         content.body = String(format: NSLocalizedString("notificationBody", comment: "Priority: %@ - Category: %@\nDetails: %@"), localizedPriority, categoryName, task.dytDetailtext)
         content.sound = UNNotificationSound.default
+        
+        // Attachment hinzufügen: Hier wird das AppIcon als Attachment eingebunden.
+        // Wichtig: Die Datei "DoYourThings.png" MUSS als separate Datei im Bundle vorhanden sein.
+        if let imageURL = Bundle.main.url(forResource: "DoYourThings", withExtension: "png") {
+            do {
+                let attachment = try UNNotificationAttachment(identifier: "appIconAttachment", url: imageURL, options: nil)
+                content.attachments = [attachment]
+            } catch {
+                print("Error creating attachment: \(error)")
+            }
+        } else {
+            print("DoYourThings.png not found in Bundle.")
+        }
         
         // DeepLink-URL erstellen (myapp://task/<taskID>)
         let deepLinkURL = "myapp://task/\(task.id.uuidString)"
@@ -92,7 +110,6 @@ class NotificationManager: ObservableObject {
         }
     }
 
-    
     private func localizedPriority(for priority: String) -> String {
         switch priority {
         case NSLocalizedString("veryHigh", comment: "Very High"):
@@ -114,6 +131,4 @@ class NotificationManager: ObservableObject {
         let identifiers = [task.id.uuidString + "_reminder", task.id.uuidString + "_deadline"]
         UNUserNotificationCenter.current().removePendingNotificationRequests(withIdentifiers: identifiers)
     }
-    
 }
-
