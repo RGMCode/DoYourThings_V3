@@ -1,4 +1,4 @@
-# <img src="https://github.com/RGMCode/DoYourThings_V1/assets/90555783/27cb2bf9-a485-4563-979d-fbd030b11f32" style="width:75px;"/> DoYourThings_V3 by RGMCode
+# <img src="https://github.com/RGMCode/DoYourThings_V1/assets/90555783/27cb2bf9-a485-4563-979d-fbd030b11f32" style="width:75px;"/> DoYourThings_V3
 
 **DoYourThings** ist eine vielseitige und benutzerfreundliche Aufgabenverwaltungs‑App, die Ihnen hilft, Ihre täglichen Aufgaben effizient zu organisieren, zu priorisieren und den Überblick zu behalten. Alle Daten – Aufgaben, Kategorien, Einstellungen – werden ausschließlich lokal auf Ihrem Gerät gespeichert, sodass Ihre Privatsphäre geschützt ist.
 
@@ -13,6 +13,7 @@
 - [Features (English)](#features-english)
 - [User Manual (English)](#user-manual-english)
 - [Developer & Technologies](#developer--technologies)
+- [Beispiel Ansichten | Example - View](#beispiel-ansichten--example---view)
 
 ---
 
@@ -258,4 +259,28 @@ The installed version is displayed in the help view (e.g., "Version: 3.0.0").
 - **Frameworks:** SwiftUI, Core Data, Combine
 - **Architecture:** MVVM Pattern
 - **Data Storage:** Local storage (no cloud)
+
+
+## Beispiel Ansichten | Example - View
+
+<img src="https://github.com/user-attachments/assets/36443069-38fc-49f5-b81a-e5569d8af143" style="width:240px;"/>
+<img src="https://github.com/user-attachments/assets/13b88842-cce8-4e28-aca7-9ed669740720" style="width:240px;"/>
+
+<img src="https://github.com/user-attachments/assets/4460e8ee-d107-49bb-a594-815fb61e2737" style="width:240px;"/>
+<img src="https://github.com/user-attachments/assets/056c8729-dfdd-4300-bbab-aa11182f3bc5" style="width:240px;"/>
+
+
+<img src="https://github.com/user-attachments/assets/d577dbee-a2c9-4c9c-8898-a44b9cf481e4" style="width:240px;"/>
+<img src="https://github.com/user-attachments/assets/e698b64b-7517-44f8-a738-6560c1b4e46e" style="width:240px;"/>
+
+<img src="https://github.com/user-attachments/assets/ca459d69-ceff-44b3-9af8-ab67dfc6958f" style="width:240px;"/>
+<img src="https://github.com/user-attachments/assets/f96c99eb-13a0-45b6-9c50-451ffbb08de9" style="width:240px;"/>
+
+
+<img src="https://github.com/user-attachments/assets/d6bbfdab-9cc1-4016-b67c-8d967d1d777d" style="width:240px;"/>
+<img src="https://github.com/user-attachments/assets/f53800a8-6cda-44a5-8504-4766030848ff" style="width:240px;"/>
+
+<img src="https://github.com/user-attachments/assets/64334828-8d84-4563-9c1b-9bc1036b02eb" style="width:240px;"/>
+<img src="https://github.com/user-attachments/assets/2f69d4c9-cf26-47d5-9433-1d410f1a7c4c" style="width:240px;"/>
+
 
