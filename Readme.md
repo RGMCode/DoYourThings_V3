@@ -1,6 +1,11 @@
 # <img src="https://github.com/RGMCode/DoYourThings_V1/assets/90555783/27cb2bf9-a485-4563-979d-fbd030b11f32" style="width:75px;"/> DoYourThings_V3
 
+*Deutsch* <br/>
 **DoYourThings** ist eine vielseitige und benutzerfreundliche Aufgabenverwaltungs‑App, die Ihnen hilft, Ihre täglichen Aufgaben effizient zu organisieren, zu priorisieren und den Überblick zu behalten. Alle Daten – Aufgaben, Kategorien, Einstellungen – werden ausschließlich lokal auf Ihrem Gerät gespeichert, sodass Ihre Privatsphäre geschützt ist.
+
+
+*English* <br/>
+**DoYourThings** is a versatile and intuitive task management app designed to help you effortlessly organize, prioritize, and manage your daily tasks. All your data—including tasks, categories, and settings—is stored exclusively on your device, ensuring that your privacy remains uncompromised.
 
 ---
 
@@ -258,7 +263,7 @@ The installed version is displayed in the help view (e.g., "Version: 3.0.0").
 - **Programming Language:** Swift
 - **Frameworks:** SwiftUI, Core Data, Combine
 - **Architecture:** MVVM Pattern
-- **Data Storage:** Local storage (no cloud)
+- **Data Storage:** CoreData - Local storage (no cloud)
 
 
 ## Beispiel Ansichten | Example - View
