@@ -11,8 +11,8 @@
 
 ## Inhaltsverzeichnis
 
-- [App-Beschreibung](#app-beschreibung)
-- [Funktionen](#funktionen)
+- [App-Beschreibung (Deutsch)](#app-beschreibung)
+- [Funktionen (Deutsch)](#funktionen)
 - [Bedienungsanleitung (Deutsch)](#bedienungsanleitung-deutsch)
 - [App Description (English)](#app-description-english)
 - [Features (English)](#features-english)
